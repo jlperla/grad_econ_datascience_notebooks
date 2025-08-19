@@ -11,9 +11,10 @@ To setup, we strongly suggest using the [uv](https://github.com/astral-sh/uv) pa
 
 With `uv` after cloning this repository, create a virtual environment and then sync the dependencies with:
 ```bash
-uv venv --python 3.11
 uv sync
 ```
+
+See [here](https://jlperla.github.io/grad_econ_datascience/pages/setup.html#quick-start) for more details
 
 ## Using Notebooks
 At that point, you can open the notebooks with:
