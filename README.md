@@ -1,5 +1,5 @@
 # Graduate Economics and Datascience
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jlperla/grad_econ_datascience/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jlperla/grad_econ_datascience_notebooks/HEAD)
 
 This repository contains Jupyter notebooks for the [Graduate Economics and Datascience](https://jlperla.github.io/grad_econ_datascience/) course (the first half of ECON526 at UBC)
 
