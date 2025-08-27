@@ -1,0 +1,40 @@
+# Pin a recent Jupyter stack for reproducibility.
+# See tags at https://hub.docker.com/r/jupyter/minimal-notebook/tags
+FROM jupyter/minimal-notebook:python-3.13
+
+# Switch to root to install OS deps (optional)
+USER root
+
+# (Optional) system packages from apt.txt if you need them
+# repo2docker copies .binder/apt.txt to /tmp/apt.txt if present; install them
+# RUN if [ -f /tmp/apt.txt ]; then \
+#       apt-get update && xargs -r -a /tmp/apt.txt apt-get install -y --no-install-recommends && \
+#       rm -rf /var/lib/apt/lists/* ; \
+#     fi
+
+# Install uv (official installer)
+RUN curl -LsSf https://astral.sh/uv/install.sh | sh
+ENV PATH="/home/${NB_USER}/.local/bin:${PATH}"
+
+# Back to the default notebook user
+USER ${NB_USER}
+WORKDIR /home/${NB_USER}
+
+# Copy only dependency metadata first to leverage Docker layer caching
+COPY --chown=${NB_UID}:${NB_GID} pyproject.toml uv.lock ./
+
+# Create and populate the project virtualenv from the lockfile.
+# --frozen/--locked ensures we *only* use uv.lock, never resolve.
+RUN uv sync --frozen --all-extras
+
+# (Optional but recommended) Make the uv env the default Python on PATH
+ENV VIRTUAL_ENV="/home/${NB_USER}/.venv"
+ENV PATH="${VIRTUAL_ENV}/bin:${PATH}"
+
+# Ensure a Jupyter kernel is available that points at the uv virtualenv
+RUN python -m ipykernel install --user --name "python-uv" --display-name "Python (uv)"
+
+# Now copy the rest of your repo
+COPY --chown=${NB_UID}:${NB_GID} . .
+
+# Nothing else needed: the image already starts Jupyter for Binder.
