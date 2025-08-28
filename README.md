@@ -14,7 +14,7 @@ With `uv` after cloning this repository, create a virtual environment and then s
 uv sync
 ```
 
-See [here](https://jlperla.github.io/grad_econ_datascience/pages/setup.html#quick-start) for more details
+See [here](https://jlperla.github.io/grad_econ_datascience/pages/setup.html#alternative-conda-instructions) for more details
 
 ## Using Notebooks
 At that point, you can open the notebooks with:
@@ -22,4 +22,4 @@ At that point, you can open the notebooks with:
   2. Run the notebooks from jupyter with `uv run jupyter lab`.  
     - Alternatively, you can activate the virtual environment with `source myvenv/bin/activate` on macos/linux, or `venv\Scripts\activate.bat` on Windows, and then run `jupyter lab` directly.
 
-See [here](https://jlperla.github.io/grad_econ_datascience/slides/environment.html) for more details and instructions on how to use with `conda`.
+See [here](https://jlperla.github.io/grad_econ_datascience/pages/setup.html) for more details and instructions on how to use with `conda`.
