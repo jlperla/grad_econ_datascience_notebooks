@@ -23,4 +23,7 @@ dependencies = [
     "numba>=0.61",
     "graphviz>=0.21",
     "lightgbm>=4.6.0",
+    "langchain>=0.3.27",
+    "langchain-openai>=0.3.35",
+    "tiktoken>=0.12.0",
 ]
