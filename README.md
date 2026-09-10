@@ -14,12 +14,15 @@ With `uv` after cloning this repository, create a virtual environment and then s
 uv sync
 ```
 
+For spatial data, image classification, and LangChain examples, install the optional packages with:
+
+```bash
+uv sync --extra extras
+```
+
 See [here](https://jlperla.github.io/grad_econ_datascience/pages/python_setup.html#alternative-conda-instructions) for more details
 
 ## Using Notebooks
-At that point, you can open the notebooks with:
-  1. VS Code and select the `./.venv/bin/python` interpreter if prompted **(recommended)**
-  2. Run the notebooks from jupyter with `uv run jupyter lab`.  
-    - Alternatively, you can activate the virtual environment with `source myvenv/bin/activate` on macos/linux, or `venv\Scripts\activate.bat` on Windows, and then run `jupyter lab` directly.
+Open the lecture `.ipynb` files in VS Code and select the repository's `.venv` interpreter.
 
 See [here](https://jlperla.github.io/grad_econ_datascience/pages/python_setup.html) for more details and instructions on how to use with `conda`.
