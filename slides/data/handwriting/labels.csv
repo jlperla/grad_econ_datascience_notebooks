@@ -1,0 +1,181 @@
+row_id,page_id,split,row_number,x,y,width,height,source_text,surname,given_names,birth_year,birthplace,nationality,marital_status,relationship,education,occupation,employer
+AD075DP_D2M8_275_0025_left_page_00,AD075DP_D2M8_275_0025_left_page,development,0,0,195,987,69,Chambon/Marguerite/04/Nord/¤/M/ép/¤/o modiste/9 133,Chambon,Marguerite,04,Nord,,M,ép,,o modiste,9 133
+AD075DP_D2M8_275_0025_left_page_01,AD075DP_D2M8_275_0025_left_page,development,1,0,253,987,69,Dumont/Thérèse/98/Somme/¤/¤/ch/¤/E Commerce/18 377,Dumont,Thérèse,98,Somme,,,ch,,E Commerce,18 377
+AD075DP_D2M8_275_0025_left_page_02,AD075DP_D2M8_275_0025_left_page,development,2,0,311,987,69,Marchand/Yvonne/95/C I /¤/V/ch/¤/o giletière/9 132,Marchand,Yvonne,95,C I,,V,ch,,o giletière,9 132
+AD075DP_D2M8_275_0025_left_page_03,AD075DP_D2M8_275_0025_left_page,development,3,0,369,987,69,Suraut/Joséphine/82/C du N/¤/V/ch/¤/¤/22 408,Suraut,Joséphine,82,C du N,,V,ch,,,22 408
+AD075DP_D2M8_275_0025_left_page_04,AD075DP_D2M8_275_0025_left_page,development,4,0,426,987,69,¤/Madeleine/13/P/¤/¤/f /¤/¤/¤,,Madeleine,13,P,,,f,,,
+AD075DP_D2M8_275_0025_left_page_05,AD075DP_D2M8_275_0025_left_page,development,5,0,485,987,69,Lamoureux/Ernestine/07/P/¤/¤/f/¤/¤/22 408,Lamoureux,Ernestine,07,P,,,f,,,22 408
+AD075DP_D2M8_275_0025_left_page_06,AD075DP_D2M8_275_0025_left_page,development,6,0,542,987,69,Belin/Alexandrine/84/C Inf/¤/M/ch/¤/o taillr pr hommes/9 132,Belin,Alexandrine,84,C Inf,,M,ch,,o taillr pr hommes,9 132
+AD075DP_D2M8_275_0025_left_page_07,AD075DP_D2M8_275_0025_left_page,development,7,0,599,987,69,Réguis/André/06/C Inf /¤/¤/f /¤/o photograveur/M2!7 93,Réguis,André,06,C Inf,,,f,,o photograveur,M2!7 93
+AD075DP_D2M8_275_0025_left_page_08,AD075DP_D2M8_275_0025_left_page,development,8,0,656,987,69,Paradis/Eugène/80/Vendée/¤/M/ch/¤/o taillr habits/9 132,Paradis,Eugène,80,Vendée,,M,ch,,o taillr habits,9 132
+AD075DP_D2M8_275_0025_left_page_09,AD075DP_D2M8_275_0025_left_page,development,9,0,715,987,69,¤/René/06/Rochefort/¤/¤/f/¤/d°/M2!9132,,René,06,Rochefort,,,f,,d°,M2!9132
+AD075DP_D2M8_275_0025_left_page_10,AD075DP_D2M8_275_0025_left_page,development,10,0,773,987,69,Desquilbet/Albert/84/S /¤/M/ch/¤/o gainier/M3!10 131,Desquilbet,Albert,84,S,,M,ch,,o gainier,M3!10 131
+AD075DP_D2M8_275_0025_left_page_11,AD075DP_D2M8_275_0025_left_page,development,11,0,830,987,69,¤/Alice/89/Ardennes/¤/M/ép/¤/¤/10 131,,Alice,89,Ardennes,,M,ép,,,10 131
+AD075DP_D2M8_275_0025_left_page_12,AD075DP_D2M8_275_0025_left_page,development,12,0,888,987,69,¤/Germaine/14/P/¤/¤/f /¤/¤/10 131,,Germaine,14,P,,,f,,,10 131
+AD075DP_D2M8_275_0025_left_page_13,AD075DP_D2M8_275_0025_left_page,development,13,0,945,987,69,Delbecq/Gustave/80/Nord/¤/M/ch/¤/E ch fer/¤,Delbecq,Gustave,80,Nord,,M,ch,,E ch fer,
+AD075DP_D2M8_275_0025_left_page_14,AD075DP_D2M8_275_0025_left_page,development,14,0,1003,987,69,¤/Cécile/80/d°/¤/M/ép/¤/¤/¤,,Cécile,80,d°,,M,ép,,,
+AD075DP_D2M8_275_0025_left_page_15,AD075DP_D2M8_275_0025_left_page,development,15,0,1059,987,69,¤/Georges/10/d°/¤/¤/f/¤/A montr bronze/M1!12 260,,Georges,10,d°,,,f,,A montr bronze,M1!12 260
+AD075DP_D2M8_275_0025_left_page_16,AD075DP_D2M8_275_0025_left_page,development,16,0,1120,987,69,¤/Georgette/13/d°/¤/¤/f /¤/¤/¤,,Georgette,13,d°,,,f,,,
+AD075DP_D2M8_275_0025_left_page_17,AD075DP_D2M8_275_0025_left_page,development,17,0,1178,987,69,Ricolleau/Toussaint/98/C du N/¤/M/ch/¤/o chaufr auto/M2!17 356,Ricolleau,Toussaint,98,C du N,,M,ch,,o chaufr auto,M2!17 356
+AD075DP_D2M8_275_0025_left_page_18,AD075DP_D2M8_275_0025_left_page,development,18,0,1233,987,69,¤/Suzanne/96/d°/¤/M/ép/¤/¤/17 356,,Suzanne,96,d°,,M,ép,,,17 356
+AD075DP_D2M8_275_0025_left_page_19,AD075DP_D2M8_275_0025_left_page,development,19,0,1290,987,69,¤/Alice/23/P/¤/¤/f /¤/¤/¤,,Alice,23,P,,,f,,,
+AD075DP_D2M8_275_0025_left_page_20,AD075DP_D2M8_275_0025_left_page,development,20,0,1350,987,69,Winterberger/Dorothée/62/Duché Bade/natur/V/ch/¤/¤/¤,Winterberger,Dorothée,62,Duché Bade,natur,V,ch,,,
+AD075DP_D2M8_275_0025_left_page_21,AD075DP_D2M8_275_0025_left_page,development,21,0,1403,987,69,¤/Augustine/88/P/¤/¤/f/¤/o couturière/9 132,,Augustine,88,P,,,f,,o couturière,9 132
+AD075DP_D2M8_275_0025_left_page_22,AD075DP_D2M8_275_0025_left_page,development,22,0,1463,987,69,¤/Yvonne/94/P/¤/¤/f/¤/d°/9 132,,Yvonne,94,P,,,f,,d°,9 132
+AD075DP_D2M8_275_0025_left_page_23,AD075DP_D2M8_275_0025_left_page,development,23,0,1521,987,69,Lenoble/Jean/67/S /¤/M/ch/¤/o scieur/11 155,Lenoble,Jean,67,S,,M,ch,,o scieur,11 155
+AD075DP_D2M8_275_0025_left_page_24,AD075DP_D2M8_275_0025_left_page,development,24,0,1576,987,69,¤/Fernande/72/P/¤/M/ép/¤/¤/11 155,,Fernande,72,P,,M,ép,,,11 155
+AD075DP_D2M8_275_0025_left_page_25,AD075DP_D2M8_275_0025_left_page,development,25,0,1633,987,69,Le Lirzin/Henri/63/C du N/¤/M/ch/o/o chauffeur/12 207,Le Lirzin,Henri,63,C du N,,M,ch,o,o chauffeur,12 207
+AD075DP_D2M8_275_0025_left_page_26,AD075DP_D2M8_275_0025_left_page,development,26,0,1690,987,69,¤/Jeanne/69/d°/¤/M/ép/¤/¤/¤,,Jeanne,69,d°,,M,ép,,,
+AD075DP_D2M8_275_0025_left_page_27,AD075DP_D2M8_275_0025_left_page,development,27,0,1746,987,69,Plux/Philiberthe/48/S et L/¤/V/ch/o/¤/¤,Plux,Philiberthe,48,S et L,,V,ch,o,,
+AD075DP_D2M8_275_0025_left_page_28,AD075DP_D2M8_275_0025_left_page,development,28,0,1802,987,69,Vallet/Etienne/1900/P/¤/M/ch/¤/o cheminot/¤,Vallet,Etienne,1900,P,,M,ch,,o cheminot,
+AD075DP_D2M8_275_0025_left_page_29,AD075DP_D2M8_275_0025_left_page,development,29,0,1860,987,69,¤/Noëlie/1900/Cantal/¤/M/ép/¤/¤/22 408,,Noëlie,1900,Cantal,,M,ép,,,22 408
+AD075DP_D2M8_301_0020_left_page_00,AD075DP_D2M8_301_0020_left_page,development,0,0,186,937,66,Bonan/Germaine/1900/L Inf/¤/D /F/¤/polisseuse?ouvriere/12242,Bonan,Germaine,1900,L Inf,,D,F,,polisseuse?ouvriere,12242
+AD075DP_D2M8_301_0020_left_page_01,AD075DP_D2M8_301_0020_left_page,development,1,0,242,937,66,Boequart/Maurice/96/seine/¤/M /ch /¤/manoeuvre/16352,Boequart,Maurice,96,seine,,M,ch,,manoeuvre,16352
+AD075DP_D2M8_301_0020_left_page_02,AD075DP_D2M8_301_0020_left_page,development,2,0,299,937,66,d/Germaine/96/P/¤/M /Ep /¤/¤/16352,d,Germaine,96,P,,M,Ep,,,16352
+AD075DP_D2M8_301_0020_left_page_03,AD075DP_D2M8_301_0020_left_page,development,3,0,353,937,66,d/Renée/20/P/¤/C /F/¤/¤/¤,d,Renée,20,P,,C,F,,,
+AD075DP_D2M8_301_0020_left_page_04,AD075DP_D2M8_301_0020_left_page,development,4,0,408,937,66,d/George/24/seine/¤/C/F/¤/¤/¤,d,George,24,seine,,C,F,,,
+AD075DP_D2M8_301_0020_left_page_05,AD075DP_D2M8_301_0020_left_page,development,5,0,464,937,66,Laperouse/Marius/75/savoie/¤/M/ch /¤/manoeuvre/16352,Laperouse,Marius,75,savoie,,M,ch,,manoeuvre,16352
+AD075DP_D2M8_301_0020_left_page_06,AD075DP_D2M8_301_0020_left_page,development,6,0,518,937,66,d/Ernestine/75/d/¤/M /Ep /¤/¤/16352,d,Ernestine,75,d,,M,Ep,,,16352
+AD075DP_D2M8_301_0020_left_page_07,AD075DP_D2M8_301_0020_left_page,development,7,0,573,937,66,d/Yvonne/06/seine/¤/C /F/¤/ouv loueuse/10148,d,Yvonne,06,seine,,C,F,,ouv loueuse,10148
+AD075DP_D2M8_301_0020_left_page_08,AD075DP_D2M8_301_0020_left_page,development,8,0,628,937,66,d/Marius/09/seine/¤/C/F/¤/manoeuvre/16352,d,Marius,09,seine,,C,F,,manoeuvre,16352
+AD075DP_D2M8_301_0020_left_page_09,AD075DP_D2M8_301_0020_left_page,development,9,0,683,937,66,d/Marcelle/11/P/¤/C/F/¤/¤/16352,d,Marcelle,11,P,,C,F,,,16352
+AD075DP_D2M8_301_0020_left_page_10,AD075DP_D2M8_301_0020_left_page,development,10,0,740,937,66,d/Julien/15/P/¤/C/F/¤/¤/¤,d,Julien,15,P,,C,F,,,
+AD075DP_D2M8_301_0020_left_page_11,AD075DP_D2M8_301_0020_left_page,development,11,0,792,937,66,Caliby/Auguste/90/P/¤/M /ch /¤/Peintre af/14331,Caliby,Auguste,90,P,,M,ch,,Peintre af,14331
+AD075DP_D2M8_301_0020_left_page_12,AD075DP_D2M8_301_0020_left_page,development,12,0,848,937,66,d/Julia/90/seine/¤/M/Ep /¤/menagère/21399,d,Julia,90,seine,,M,Ep,,menagère,21399
+AD075DP_D2M8_301_0020_left_page_13,AD075DP_D2M8_301_0020_left_page,development,13,0,903,937,66,d/Paul/09/seine/¤/C/F/¤/Peintre ouvrier/14331,d,Paul,09,seine,,C,F,,Peintre ouvrier,14331
+AD075DP_D2M8_301_0020_left_page_14,AD075DP_D2M8_301_0020_left_page,development,14,0,956,937,66,d/Charles/11/P/¤/C/F/¤/d/14331,d,Charles,11,P,,C,F,,d,14331
+AD075DP_D2M8_301_0020_left_page_15,AD075DP_D2M8_301_0020_left_page,development,15,0,1013,937,66,d/Chris/13/P/¤/C/F/¤/¤/¤,d,Chris,13,P,,C,F,,,
+AD075DP_D2M8_301_0020_left_page_16,AD075DP_D2M8_301_0020_left_page,development,16,0,1068,937,66,d/René/24/P/¤/C/F/¤/¤/¤,d,René,24,P,,C,F,,,
+AD075DP_D2M8_301_0020_left_page_17,AD075DP_D2M8_301_0020_left_page,development,17,0,1121,937,66,Carpentier/Ernest/98/seine/¤/M/ch/¤/Camionneur/17353,Carpentier,Ernest,98,seine,,M,ch,,Camionneur,17353
+AD075DP_D2M8_301_0020_left_page_18,AD075DP_D2M8_301_0020_left_page,development,18,0,1175,937,66,d/Georgette/1900/seine/¤/M /Ep /¤/journalière/16352,d,Georgette,1900,seine,,M,Ep,,journalière,16352
+AD075DP_D2M8_301_0020_left_page_19,AD075DP_D2M8_301_0020_left_page,development,19,0,1230,937,66,Carpentier/Louis/96/seine/¤/M/ch /¤/camionneur/17353,Carpentier,Louis,96,seine,,M,ch,,camionneur,17353
+AD075DP_D2M8_301_0020_left_page_20,AD075DP_D2M8_301_0020_left_page,development,20,0,1284,937,66,d/Justine/95/P/¤/M /Ep/¤/journalière/16352,d,Justine,95,P,,M,Ep,,journalière,16352
+AD075DP_D2M8_301_0020_left_page_21,AD075DP_D2M8_301_0020_left_page,development,21,0,1342,937,66,d/George/17/P/¤/C/F/¤/¤/¤,d,George,17,P,,C,F,,,
+AD075DP_D2M8_301_0020_left_page_22,AD075DP_D2M8_301_0020_left_page,development,22,0,1395,937,66,d/Maurice/19/P/¤/C/F/¤/¤/¤,d,Maurice,19,P,,C,F,,,
+AD075DP_D2M8_301_0020_left_page_23,AD075DP_D2M8_301_0020_left_page,development,23,0,1448,937,66,Machella/Dominique/72/Italie/¤/M /ch/¤/chauffeur taxi/17356,Machella,Dominique,72,Italie,,M,ch,,chauffeur taxi,17356
+AD075DP_D2M8_301_0020_left_page_24,AD075DP_D2M8_301_0020_left_page,development,24,0,1501,937,66,d/Pagialina/72/d/¤/M/Ep /¤/¤/17356,d,Pagialina,72,d,,M,Ep,,,17356
+AD075DP_D2M8_301_0020_left_page_25,AD075DP_D2M8_301_0020_left_page,development,25,0,1554,937,66,d/Lucie/11/d/¤/C/F/¤/Chiffons?ouvrière/18374,d,Lucie,11,d,,C,F,,Chiffons?ouvrière,18374
+AD075DP_D2M8_301_0020_left_page_26,AD075DP_D2M8_301_0020_left_page,development,26,0,1608,937,66,d/Isidore/20/P/Italie/C/F/¤/¤/¤,d,Isidore,20,P,Italie,C,F,,,
+AD075DP_D2M8_301_0020_left_page_27,AD075DP_D2M8_301_0020_left_page,development,27,0,1661,937,66,d/Gilberta/21/P/Italie/C/F/¤/¤/¤,d,Gilberta,21,P,Italie,C,F,,,
+AD075DP_D2M8_301_0020_left_page_28,AD075DP_D2M8_301_0020_left_page,development,28,0,1714,937,66,d/Henri/24/P/Italie/C/F/¤/¤/¤,d,Henri,24,P,Italie,C,F,,,
+AD075DP_D2M8_301_0020_left_page_29,AD075DP_D2M8_301_0020_left_page,development,29,0,1772,937,66,Reigal/¤/¤/¤/¤/¤/¤/¤/¤/abs,Reigal,,,,,,,,,abs
+AD075DP_D2M8_245_0008_left_page_00,AD075DP_D2M8_245_0008_left_page,test,0,0,184,911,64,Brandarge/Robert/22/P/¤/¤/f /¤/¤/¤,Brandarge,Robert,22,P,,,f,,,
+AD075DP_D2M8_245_0008_left_page_01,AD075DP_D2M8_245_0008_left_page,test,1,0,238,911,64,Gaut/Louis/77/P/¤/m/ch /¤/P grainetier/18374,Gaut,Louis,77,P,,m,ch,,P grainetier,18374
+AD075DP_D2M8_245_0008_left_page_02,AD075DP_D2M8_245_0008_left_page,test,2,0,293,911,64,¤/Lydie/80/Drôme/¤/M/ép /¤/d°/18374,,Lydie,80,Drôme,,M,ép,,d°,18374
+AD075DP_D2M8_245_0008_left_page_03,AD075DP_D2M8_245_0008_left_page,test,3,0,348,911,64,Ormancey/Propser/72/C d'Or/¤/M/Ch /¤/Imprimeur/792,Ormancey,Propser,72,C d'Or,,M,Ch,,Imprimeur,792
+AD075DP_D2M8_245_0008_left_page_04,AD075DP_D2M8_245_0008_left_page,test,4,0,400,911,65,¤/Marie/72/C d'Or/¤/M/ép/¤/concierge/21399,,Marie,72,C d'Or,,M,ép,,concierge,21399
+AD075DP_D2M8_245_0008_left_page_05,AD075DP_D2M8_245_0008_left_page,test,5,0,456,911,64,Darquié/Albert/59/Aube/¤/¤/Ch /¤/S P/¤,Darquié,Albert,59,Aube,,,Ch,,S P,
+AD075DP_D2M8_245_0008_left_page_06,AD075DP_D2M8_245_0008_left_page,test,6,0,509,911,64,Himbert/Gustave/60/L et Ch /¤/M/Ch /¤/P tailleur/9132,Himbert,Gustave,60,L et Ch,,M,Ch,,P tailleur,9132
+AD075DP_D2M8_245_0008_left_page_07,AD075DP_D2M8_245_0008_left_page,test,7,0,564,911,64,Boulie/Louise/58/C d'Or/¤/¤/A/¤/S P/¤,Boulie,Louise,58,C d'Or,,,A,,S P,
+AD075DP_D2M8_245_0008_left_page_08,AD075DP_D2M8_245_0008_left_page,test,8,0,616,911,64,Bony/André/95/S Infre/¤/M/Ch /¤/E caissier/18375,Bony,André,95,S Infre,,M,Ch,,E caissier,18375
+AD075DP_D2M8_245_0008_left_page_09,AD075DP_D2M8_245_0008_left_page,test,9,0,670,911,64,¤/Germaine/96/P/¤/M/ép /¤/Employée/18377,,Germaine,96,P,,M,ép,,Employée,18377
+AD075DP_D2M8_245_0008_left_page_10,AD075DP_D2M8_245_0008_left_page,test,10,0,726,911,64,Burgaud/Maurice/78/P/¤/M/Ch/¤/Commerçant/18374,Burgaud,Maurice,78,P,,M,Ch,,Commerçant,18374
+AD075DP_D2M8_245_0008_left_page_11,AD075DP_D2M8_245_0008_left_page,test,11,0,778,911,64,¤/Jeanne/83/P/¤/M/ép/¤/S P /18374,,Jeanne,83,P,,M,ép,,S P,18374
+AD075DP_D2M8_245_0008_left_page_12,AD075DP_D2M8_245_0008_left_page,test,12,0,835,911,64,Figarol/Pépita/05/Hte Gnne/¤/¤/d/¤/domest/21399,Figarol,Pépita,05,Hte Gnne,,,d,,domest,21399
+AD075DP_D2M8_245_0008_left_page_13,AD075DP_D2M8_245_0008_left_page,test,13,0,888,911,64,Deloge/Henri/72/Nord/¤/M/Ch /¤/Negt tissus/18374,Deloge,Henri,72,Nord,,M,Ch,,Negt tissus,18374
+AD075DP_D2M8_245_0008_left_page_14,AD075DP_D2M8_245_0008_left_page,test,14,0,941,911,64,¤/Germaine/84/P/¤/M/ép/¤/S P /18374,,Germaine,84,P,,M,ép,,S P,18374
+AD075DP_D2M8_245_0008_left_page_15,AD075DP_D2M8_245_0008_left_page,test,15,0,996,911,64,Combes/Marcelle/02/Alger/¤/¤/Ch /¤/Artiste/19388,Combes,Marcelle,02,Alger,,,Ch,,Artiste,19388
+AD075DP_D2M8_245_0008_left_page_16,AD075DP_D2M8_245_0008_left_page,test,16,0,1051,911,64,Chardar/Henriette/76/d°/¤/¤/par/¤/S P/22408,Chardar,Henriette,76,d°,,,par,,S P,22408
+AD075DP_D2M8_245_0008_left_page_17,AD075DP_D2M8_245_0008_left_page,test,17,0,1105,911,64,Berton/André/87/Aisne/¤/M/Ch /¤/P artisan/18374,Berton,André,87,Aisne,,M,Ch,,P artisan,18374
+AD075DP_D2M8_245_0008_left_page_18,AD075DP_D2M8_245_0008_left_page,test,18,0,1158,911,64,¤/Angèle/79/Nord/¤/M/ép /¤/S P/18374,,Angèle,79,Nord,,M,ép,,S P,18374
+AD075DP_D2M8_245_0008_left_page_19,AD075DP_D2M8_245_0008_left_page,test,19,0,1213,911,64,Acat/Gustave/69/S et M/¤/M/Ch /¤/Comptable/18375,Acat,Gustave,69,S et M,,M,Ch,,Comptable,18375
+AD075DP_D2M8_245_0008_left_page_20,AD075DP_D2M8_245_0008_left_page,test,20,0,1267,911,64,¤/Marie/67/Vosges/¤/M/ép /¤/S P/¤,,Marie,67,Vosges,,M,ép,,S P,
+AD075DP_D2M8_245_0008_left_page_21,AD075DP_D2M8_245_0008_left_page,test,21,0,1321,911,64,Leclerc/Blanche/03/P/¤/¤/Ch /¤/E Bureau/18377,Leclerc,Blanche,03,P,,,Ch,,E Bureau,18377
+AD075DP_D2M8_245_0008_left_page_22,AD075DP_D2M8_245_0008_left_page,test,22,0,1376,911,64,Crémont/Edmée/04/P/¤/¤/Ch /¤/Caissier comp/18375,Crémont,Edmée,04,P,,,Ch,,Caissier comp,18375
+AD075DP_D2M8_245_0008_left_page_23,AD075DP_D2M8_245_0008_left_page,test,23,0,1428,911,64,Fillous/Jeanne/96/Hte Gnne/¤/¤/Ch /¤/E Dactylo/18376,Fillous,Jeanne,96,Hte Gnne,,,Ch,,E Dactylo,18376
+AD075DP_D2M8_245_0008_left_page_24,AD075DP_D2M8_245_0008_left_page,test,24,0,1484,911,64,Perrin/Edouard/91/P/¤/M/Ch /¤/E banque/18377,Perrin,Edouard,91,P,,M,Ch,,E banque,18377
+AD075DP_D2M8_245_0008_left_page_25,AD075DP_D2M8_245_0008_left_page,test,25,0,1535,911,64,¤/Hélène/95/P/¤/M/ép/¤/d°/18377,,Hélène,95,P,,M,ép,,d°,18377
+AD075DP_D2M8_245_0008_left_page_26,AD075DP_D2M8_245_0008_left_page,test,26,0,1589,911,64,Raynard/Lucie/98/P de Dôme/¤/¤/Ch /¤/S P/22408,Raynard,Lucie,98,P de Dôme,,,Ch,,S P,22408
+AD075DP_D2M8_245_0008_left_page_27,AD075DP_D2M8_245_0008_left_page,test,27,0,1643,911,64,¤/Suzanne/24/P/¤/¤/f /¤/¤/¤,,Suzanne,24,P,,,f,,,
+AD075DP_D2M8_245_0008_left_page_28,AD075DP_D2M8_245_0008_left_page,test,28,0,1695,911,64,Prou/Charles/99/Orne/¤/¤/a/¤/Mécanicien/12260,Prou,Charles,99,Orne,,,a,,Mécanicien,12260
+AD075DP_D2M8_245_0008_left_page_29,AD075DP_D2M8_245_0008_left_page,test,29,0,1751,911,64,Verger/Joseph/¤/L Infre/¤/¤/Ch /¤/S P/¤,Verger,Joseph,,L Infre,,,Ch,,S P,
+AD075DP_D2M8_235_0105_left_page_00,AD075DP_D2M8_235_0105_left_page,test,0,0,185,932,65,Chauvin/andré/07/s:o/¤/¤/D/¤/D/21399,Chauvin,andré,07,s:o,,,D,,D,21399
+AD075DP_D2M8_235_0105_left_page_01,AD075DP_D2M8_235_0105_left_page,test,1,0,238,932,65,Gennai/Enoria/92/Italienne/¤/¤/D/¤/D/21399 f,Gennai,Enoria,92,Italienne,,,D,,D,21399 f
+AD075DP_D2M8_235_0105_left_page_02,AD075DP_D2M8_235_0105_left_page,test,2,0,293,932,65,Bretin/Louise/86/S&L/¤/¤/D/¤/D/21399 f,Bretin,Louise,86,S&L,,,D,,D,21399 f
+AD075DP_D2M8_235_0105_left_page_03,AD075DP_D2M8_235_0105_left_page,test,3,0,347,932,65,Levière/Camille/05/aisne/¤/¤/D/¤/D/21399 f,Levière,Camille,05,aisne,,,D,,D,21399 f
+AD075DP_D2M8_235_0105_left_page_04,AD075DP_D2M8_235_0105_left_page,test,4,0,401,932,65,Cohat/Catherine/67/C du N/¤/V/ch/¤/¤/¤,Cohat,Catherine,67,C du N,,V,ch,,,
+AD075DP_D2M8_235_0105_left_page_05,AD075DP_D2M8_235_0105_left_page,test,5,0,456,932,65,d°/andrée/08/P/¤/¤/f/¤/E PTT/¤,d°,andrée,08,P,,,f,,E PTT,
+AD075DP_D2M8_235_0105_left_page_06,AD075DP_D2M8_235_0105_left_page,test,6,0,510,932,65,Ponthier/Simon/74/Jura/¤/M/ch/¤/E concierge/21399,Ponthier,Simon,74,Jura,,M,ch,,E concierge,21399
+AD075DP_D2M8_235_0105_left_page_07,AD075DP_D2M8_235_0105_left_page,test,7,0,565,932,65,d°/angèle/87/cher/¤/M/ép/¤/¤/21399 f,d°,angèle,87,cher,,M,ép,,,21399 f
+AD075DP_D2M8_235_0105_left_page_08,AD075DP_D2M8_235_0105_left_page,test,8,0,619,932,65,d°/simone/04/P /¤/¤/f/¤/E compt/18375 f,d°,simone,04,P,,,f,,E compt,18375 f
+AD075DP_D2M8_235_0105_left_page_09,AD075DP_D2M8_235_0105_left_page,test,9,0,675,932,65,d°/Germaine/07/P/¤/¤/f/¤/O couturière/9132 f,d°,Germaine,07,P,,,f,,O couturière,9132 f
+AD075DP_D2M8_235_0105_left_page_10,AD075DP_D2M8_235_0105_left_page,test,10,0,731,932,65,Ravaud/claire/62/S&O/¤/¤/Ch/¤/¤/¤,Ravaud,claire,62,S&O,,,Ch,,,
+AD075DP_D2M8_235_0105_left_page_11,AD075DP_D2M8_235_0105_left_page,test,11,0,785,932,65,Brieussol/Rose/91/aude/¤/¤/Ch/¤/¤/22408 f,Brieussol,Rose,91,aude,,,Ch,,,22408 f
+AD075DP_D2M8_235_0105_left_page_12,AD075DP_D2M8_235_0105_left_page,test,12,0,839,932,65,Sy/Lucie/82/P /¤/¤/ch/¤/E Institutrice/19385 f,Sy,Lucie,82,P,,,ch,,E Institutrice,19385 f
+AD075DP_D2M8_235_0105_left_page_13,AD075DP_D2M8_235_0105_left_page,test,13,0,894,932,65,Barial/appoline/92/Oise/¤/¤/ch/¤/E Institutrice/19385 f,Barial,appoline,92,Oise,,,ch,,E Institutrice,19385 f
+AD075DP_D2M8_235_0105_left_page_14,AD075DP_D2M8_235_0105_left_page,test,14,0,948,932,65,Trioche/Marie/86/ardenne/¤/¤/Ch/¤/¤/22408 fs,Trioche,Marie,86,ardenne,,,Ch,,,22408 fs
+AD075DP_D2M8_235_0105_left_page_15,AD075DP_D2M8_235_0105_left_page,test,15,0,1003,932,65,Tartatin/Solange/91/Loiret/¤/¤/Ch/¤/¤/22408 fs,Tartatin,Solange,91,Loiret,,,Ch,,,22408 fs
+AD075DP_D2M8_235_0105_left_page_16,AD075DP_D2M8_235_0105_left_page,test,16,0,1058,932,65,Ravarit/Gilberte/91/charente/¤/¤/Ch/¤/E dactylo/18376 f,Ravarit,Gilberte,91,charente,,,Ch,,E dactylo,18376 f
+AD075DP_D2M8_235_0105_left_page_17,AD075DP_D2M8_235_0105_left_page,test,17,0,1112,932,65,Schmitt/Lucienne/96/P /¤/¤/ch/¤/E Infirmière/29382 f,Schmitt,Lucienne,96,P,,,ch,,E Infirmière,29382 f
+AD075DP_D2M8_235_0105_left_page_18,AD075DP_D2M8_235_0105_left_page,test,18,0,1167,932,65,Truchon/Marie/85/Marne/¤/¤/Ch/¤/E dactylo/18376 f,Truchon,Marie,85,Marne,,,Ch,,E dactylo,18376 f
+AD075DP_D2M8_235_0105_left_page_19,AD075DP_D2M8_235_0105_left_page,test,19,0,1221,932,65,Lanack/Thérèse/05/P C/¤/¤/Ch /¤/¤/22408 f,Lanack,Thérèse,05,P C,,,Ch,,,22408 f
+AD075DP_D2M8_235_0105_left_page_20,AD075DP_D2M8_235_0105_left_page,test,20,0,1277,932,65,Druon/Marthe/84/M Melle/¤/¤/ch/¤/E Institutrice/19385 f,Druon,Marthe,84,M Melle,,,ch,,E Institutrice,19385 f
+AD075DP_D2M8_235_0105_left_page_21,AD075DP_D2M8_235_0105_left_page,test,21,0,1332,932,65,Sladen/agathe/74/Angleterre/¤/¤/ch/¤/E Institutrice/19385 f,Sladen,agathe,74,Angleterre,,,ch,,E Institutrice,19385 f
+AD075DP_D2M8_235_0105_left_page_22,AD075DP_D2M8_235_0105_left_page,test,22,0,1386,932,65,de Att/adolphine/02/S&O/¤/¤/Ch/¤/Emp banque/18377 f,de Att,adolphine,02,S&O,,,Ch,,Emp banque,18377 f
+AD075DP_D2M8_235_0105_left_page_23,AD075DP_D2M8_235_0105_left_page,test,23,0,1438,932,65,Guérin/agathe/86/Ille et V/¤/¤/Ch/¤/E Insitutrice/19385 f,Guérin,agathe,86,Ille et V,,,Ch,,E Insitutrice,19385 f
+AD075DP_D2M8_235_0105_left_page_24,AD075DP_D2M8_235_0105_left_page,test,24,0,1491,932,65,Joly/Odette/97/M Mle/¤/¤/ch/¤/E bureau/18377 f,Joly,Odette,97,M Mle,,,ch,,E bureau,18377 f
+AD075DP_D2M8_235_0105_left_page_25,AD075DP_D2M8_235_0105_left_page,test,25,0,1545,932,65,Masart/anna/98/Lot/¤/¤/ch/¤/E banque/18377 f,Masart,anna,98,Lot,,,ch,,E banque,18377 f
+AD075DP_D2M8_235_0105_left_page_26,AD075DP_D2M8_235_0105_left_page,test,26,0,1597,932,65,Hazard/andrée/02/Meuse/¤/¤/Ch/¤/E dactylo/18376 f,Hazard,andrée,02,Meuse,,,Ch,,E dactylo,18376 f
+AD075DP_D2M8_235_0105_left_page_27,AD075DP_D2M8_235_0105_left_page,test,27,0,1649,932,65,Dussut/Julia/87/B Py/¤/¤/ch/¤/¤/22408 f,Dussut,Julia,87,B Py,,,ch,,,22408 f
+AD075DP_D2M8_235_0105_left_page_28,AD075DP_D2M8_235_0105_left_page,test,28,0,1702,932,65,Dussut/Lucie/87/B Py/¤/¤/Ch/¤/¤/22408 f,Dussut,Lucie,87,B Py,,,Ch,,,22408 f
+AD075DP_D2M8_235_0105_left_page_29,AD075DP_D2M8_235_0105_left_page,test,29,0,1759,932,65,David/Valentine/90/Calvados/¤/¤/Ch/¤/E dactylo/18376 f,David,Valentine,90,Calvados,,,Ch,,E dactylo,18376 f
+AD075DP_D2M8_266_0030_left_page_00,AD075DP_D2M8_266_0030_left_page,test,0,0,193,976,68,Bouyer/Henri/78/Creuse/¤/M/ch/¤/Mecanicien/P?12260,Bouyer,Henri,78,Creuse,,M,ch,,Mecanicien,P?12260
+AD075DP_D2M8_266_0030_left_page_01,AD075DP_D2M8_266_0030_left_page,test,1,0,251,976,68,¤/Adèle/77/Yonne/¤/M/Ep/¤/Neant/12260,,Adèle,77,Yonne,,M,Ep,,Neant,12260
+AD075DP_D2M8_266_0030_left_page_02,AD075DP_D2M8_266_0030_left_page,test,2,0,308,976,68,Dufossé/Marcel/93/Seine/¤/M/ch/¤/Pharmacien/19384,Dufossé,Marcel,93,Seine,,M,ch,,Pharmacien,19384
+AD075DP_D2M8_266_0030_left_page_03,AD075DP_D2M8_266_0030_left_page,test,3,0,365,976,68,¤/Gabrielle/92/M Melle/¤/M/Ep /¤/Néant/19384,,Gabrielle,92,M Melle,,M,Ep,,Néant,19384
+AD075DP_D2M8_266_0030_left_page_04,AD075DP_D2M8_266_0030_left_page,test,4,0,421,976,68,Elsensohn/Henri/80/¤/¤/M/ch /¤/¤/abs,Elsensohn,Henri,80,,,M,ch,,,abs
+AD075DP_D2M8_266_0030_left_page_05,AD075DP_D2M8_266_0030_left_page,test,5,0,480,976,68,¤/Reine/73/Nievre/¤/M/Ep /¤/Néant/22108,,Reine,73,Nievre,,M,Ep,,Néant,22108
+AD075DP_D2M8_266_0030_left_page_06,AD075DP_D2M8_266_0030_left_page,test,6,0,535,976,68,Walter/Jean/71/P /¤/M/ch /¤/Rt Cce/18374,Walter,Jean,71,P,,M,ch,,Rt Cce,18374
+AD075DP_D2M8_266_0030_left_page_07,AD075DP_D2M8_266_0030_left_page,test,7,0,593,976,68,¤/Blanche/83/P/¤/M/Ep /¤/Néant/18374,,Blanche,83,P,,M,Ep,,Néant,18374
+AD075DP_D2M8_266_0030_left_page_08,AD075DP_D2M8_266_0030_left_page,test,8,0,651,976,68,Claweison/Marie/72/Rhône/¤/M/ch /¤/Néant/¤,Claweison,Marie,72,Rhône,,M,ch,,Néant,
+AD075DP_D2M8_266_0030_left_page_09,AD075DP_D2M8_266_0030_left_page,test,9,0,707,976,68,¤/Marcelle/98/P/¤/¤/F /¤/o Steno Dactylo/?18576,,Marcelle,98,P,,,F,,o Steno Dactylo,?18576
+AD075DP_D2M8_266_0030_left_page_10,AD075DP_D2M8_266_0030_left_page,test,10,0,766,976,68,Lamblot/¤/¤/¤/¤/¤/¤/¤/retraitée/abs,Lamblot,,,,,,,,retraitée,abs
+AD075DP_D2M8_266_0030_left_page_11,AD075DP_D2M8_266_0030_left_page,test,11,0,824,976,68,Henry/Paul/73/Doubs/¤/¤/¤/¤/E P S /¤,Henry,Paul,73,Doubs,,,,,E P S,
+AD075DP_D2M8_266_0030_left_page_12,AD075DP_D2M8_266_0030_left_page,test,12,0,881,976,68,Chirion/Eugène/70/I et V /¤/M/ch /¤/E P O /¤,Chirion,Eugène,70,I et V,,M,ch,,E P O,
+AD075DP_D2M8_266_0030_left_page_13,AD075DP_D2M8_266_0030_left_page,test,13,0,938,976,68,¤/Adrienne/71/Hte Vienne/¤/M/Ep/¤/Néant/¤,,Adrienne,71,Hte Vienne,,M,Ep,,Néant,
+AD075DP_D2M8_266_0030_left_page_14,AD075DP_D2M8_266_0030_left_page,test,14,0,994,976,68,Blin/Robert/92/Sarthe/¤/M/ch /¤/Rt Cce/18374,Blin,Robert,92,Sarthe,,M,ch,,Rt Cce,18374
+AD075DP_D2M8_266_0030_left_page_15,AD075DP_D2M8_266_0030_left_page,test,15,0,1051,976,68,¤/Suzanne/92/P /¤/M/Ep/¤/Néant/18374,,Suzanne,92,P,,M,Ep,,Néant,18374
+AD075DP_D2M8_266_0030_left_page_16,AD075DP_D2M8_266_0030_left_page,test,16,0,1108,976,68,¤/Pierre/20/P /¤/¤/F/¤/¤/¤,,Pierre,20,P,,,F,,,
+AD075DP_D2M8_266_0030_left_page_17,AD075DP_D2M8_266_0030_left_page,test,17,0,1166,976,68,¤/Micheline/4:25/P /¤/¤/F/¤/¤/¤,,Micheline,4:25,P,,,F,,,
+AD075DP_D2M8_266_0030_left_page_18,AD075DP_D2M8_266_0030_left_page,test,18,0,1223,976,68,Cury/Georgette/60/Ch Infre/¤/V/¤/¤/o dentelle/9133,Cury,Georgette,60,Ch Infre,,V,,,o dentelle,9133
+AD075DP_D2M8_266_0030_left_page_19,AD075DP_D2M8_266_0030_left_page,test,19,0,1280,976,68,Chaussade/Isidore/83/P /¤/M/ch /¤/o Machiniste/12222,Chaussade,Isidore,83,P,,M,ch,,o Machiniste,12222
+AD075DP_D2M8_266_0030_left_page_20,AD075DP_D2M8_266_0030_left_page,test,20,0,1337,976,68,¤/Raymonde/97/P/¤/M/Ep/¤/Neant/12222,,Raymonde,97,P,,M,Ep,,Neant,12222
+AD075DP_D2M8_266_0030_left_page_21,AD075DP_D2M8_266_0030_left_page,test,21,0,1395,976,68,¤/Maurice/20/P/¤/¤/F/¤/¤/¤,,Maurice,20,P,,,F,,,
+AD075DP_D2M8_266_0030_left_page_22,AD075DP_D2M8_266_0030_left_page,test,22,0,1453,976,68,Falconet/charles/85/P /¤/M/ch/¤/Ingénieur/12174,Falconet,charles,85,P,,M,ch,,Ingénieur,12174
+AD075DP_D2M8_266_0030_left_page_23,AD075DP_D2M8_266_0030_left_page,test,23,0,1509,976,68,¤/Marguerite/87/I et L /¤/M/Ep/¤/E Banque/18377,,Marguerite,87,I et L,,M,Ep,,E Banque,18377
+AD075DP_D2M8_266_0030_left_page_24,AD075DP_D2M8_266_0030_left_page,test,24,0,1563,976,68,Lenoir/Rejane/07/¤/¤/¤/B f /¤/¤/abs,Lenoir,Rejane,07,,,,B f,,,abs
+AD075DP_D2M8_266_0030_left_page_25,AD075DP_D2M8_266_0030_left_page,test,25,0,1619,976,68,Allard /Augustine/75/Seine/¤/¤/ch /¤/o teinturière/8121,Allard,Augustine,75,Seine,,,ch,,o teinturière,8121
+AD075DP_D2M8_266_0030_left_page_26,AD075DP_D2M8_266_0030_left_page,test,26,0,1673,976,68,¤/Germaine/95/d°/¤/¤/F /¤/Rept/18374,,Germaine,95,d°,,,F,,Rept,18374
+AD075DP_D2M8_266_0030_left_page_27,AD075DP_D2M8_266_0030_left_page,test,27,0,1731,976,68,Bichon/Mathilde/88/¤/¤/¤/¤/¤/Infirmière/20392,Bichon,Mathilde,88,,,,,,Infirmière,20392
+AD075DP_D2M8_266_0030_left_page_28,AD075DP_D2M8_266_0030_left_page,test,28,0,1787,976,68,Rabinovitch/Issac/66/Pologne/¤/V/¤/¤/Mec dent/20395,Rabinovitch,Issac,66,Pologne,,V,,,Mec dent,20395
+AD075DP_D2M8_266_0030_left_page_29,AD075DP_D2M8_266_0030_left_page,test,29,0,1844,976,68,David/Gustave/67/P /¤/M/ch /¤/E de B /18377,David,Gustave,67,P,,M,ch,,E de B,18377
+AD075DP_D2M8_223_0430_left_page_00,AD075DP_D2M8_223_0430_left_page,test,0,0,179,903,63,Garnier/Marie/02/Hte Savoie/¤/¤/¤/¤/¤/22408,Garnier,Marie,02,Hte Savoie,,,,,,22408
+AD075DP_D2M8_223_0430_left_page_01,AD075DP_D2M8_223_0430_left_page,test,1,0,231,903,63,Deinaizière/Antoine/76/H d'Or/¤/m/ch /¤/peint bât /14331,Deinaizière,Antoine,76,H d'Or,,m,ch,,peint bât,14331
+AD075DP_D2M8_223_0430_left_page_02,AD075DP_D2M8_223_0430_left_page,test,2,0,283,903,63,d°/Caroline/79/¤/¤/m /ép /¤/¤/14331,d°,Caroline,79,,,m,ép,,,14331
+AD075DP_D2M8_223_0430_left_page_03,AD075DP_D2M8_223_0430_left_page,test,3,0,337,903,63,d°/Lucienne/¤/¤/¤/¤/f /¤/¤/abs,d°,Lucienne,,,,,f,,,abs
+AD075DP_D2M8_223_0430_left_page_04,AD075DP_D2M8_223_0430_left_page,test,4,0,389,903,63,d°/Yvonne/¤/¤/¤/¤/f /¤/¤/abs,d°,Yvonne,,,,,f,,,abs
+AD075DP_D2M8_223_0430_left_page_05,AD075DP_D2M8_223_0430_left_page,test,5,0,441,903,63,d°/André/¤/¤/¤/¤/f /¤/¤/abs,d°,André,,,,,f,,,abs
+AD075DP_D2M8_223_0430_left_page_06,AD075DP_D2M8_223_0430_left_page,test,6,0,495,903,63,Aunay/Louis/90/Orne/¤/m /ch /¤/employé/Réaumur?18377,Aunay,Louis,90,Orne,,m,ch,,employé,Réaumur?18377
+AD075DP_D2M8_223_0430_left_page_07,AD075DP_D2M8_223_0430_left_page,test,7,0,547,903,63,d°/Madeleine/88/Calvados/¤/m /ép /¤/concierge/21399,d°,Madeleine,88,Calvados,,m,ép,,concierge,21399
+AD075DP_D2M8_223_0430_left_page_08,AD075DP_D2M8_223_0430_left_page,test,8,0,599,903,63,d°/Pierre/17/Gironde/¤/¤/f /¤/¤/¤,d°,Pierre,17,Gironde,,,f,,,
+AD075DP_D2M8_223_0430_left_page_09,AD075DP_D2M8_223_0430_left_page,test,9,0,653,903,63,d°/Roger/19/Orne/¤/¤/f /¤/¤/¤,d°,Roger,19,Orne,,,f,,,
+AD075DP_D2M8_223_0430_left_page_10,AD075DP_D2M8_223_0430_left_page,test,10,0,706,903,63,Mercaloris/Vital/82/Belgique/Belge/m /ch /¤/limonadier p /?18371,Mercaloris,Vital,82,Belgique,Belge,m,ch,,limonadier p,?18371
+AD075DP_D2M8_223_0430_left_page_11,AD075DP_D2M8_223_0430_left_page,test,11,0,758,903,63,d°/Mélanie/80/Yonne/d°/m /ép /¤/¤/18371,d°,Mélanie,80,Yonne,d°,m,ép,,,18371
+AD075DP_D2M8_223_0430_left_page_12,AD075DP_D2M8_223_0430_left_page,test,12,0,813,903,63,Maire/Julie/42/P /¤/v /b m /¤/¤/¤,Maire,Julie,42,P,,v,b m,,,
+AD075DP_D2M8_223_0430_left_page_13,AD075DP_D2M8_223_0430_left_page,test,13,0,866,903,63,Berthelier/Alice/09/Yonne/¤/¤/empl /¤/employée/Mercator?18377,Berthelier,Alice,09,Yonne,,,empl,,employée,Mercator?18377
+AD075DP_D2M8_223_0430_left_page_14,AD075DP_D2M8_223_0430_left_page,test,14,0,918,903,63,Chaize/Etienne/72/¤/¤/m /ch /¤/coiffeur/Baimrais?20390,Chaize,Etienne,72,,,m,ch,,coiffeur,Baimrais?20390
+AD075DP_D2M8_223_0430_left_page_15,AD075DP_D2M8_223_0430_left_page,test,15,0,972,903,63,d°/Lucie/71/Tarn et Gne/¤/m /ép /¤/¤/¤,d°,Lucie,71,Tarn et Gne,,m,ép,,,
+AD075DP_D2M8_223_0430_left_page_16,AD075DP_D2M8_223_0430_left_page,test,16,0,1024,903,63,Blanc/Théophile/73/Savoie/¤/m /ch /¤/gon mag/Cabet?18352,Blanc,Théophile,73,Savoie,,m,ch,,gon mag,Cabet?18352
+AD075DP_D2M8_223_0430_left_page_17,AD075DP_D2M8_223_0430_left_page,test,17,0,1078,903,63,d°/Marie/75/d°/¤/m/ép /¤/¤/18352,d°,Marie,75,d°,,m,ép,,,18352
+AD075DP_D2M8_223_0430_left_page_18,AD075DP_D2M8_223_0430_left_page,test,18,0,1130,903,63,d°/Agathe/06/d°/¤/¤/f /¤/fourreuse/Pélon?10152,d°,Agathe,06,d°,,,f,,fourreuse,Pélon?10152
+AD075DP_D2M8_223_0430_left_page_19,AD075DP_D2M8_223_0430_left_page,test,19,0,1183,903,63,Devalière/Claire/83/Luxembourg/nat /¤/ch /¤/employée/café Mad?18373,Devalière,Claire,83,Luxembourg,nat,,ch,,employée,café Mad?18373
+AD075DP_D2M8_223_0430_left_page_20,AD075DP_D2M8_223_0430_left_page,test,20,0,1236,903,63,d°/Raymond/06/P /¤/¤/f /¤/outilleur/Echaille?12212,d°,Raymond,06,P,,,f,,outilleur,Echaille?12212
+AD075DP_D2M8_223_0430_left_page_21,AD075DP_D2M8_223_0430_left_page,test,21,0,1289,903,63,Bernardin/René/91/P /¤/¤/ch /¤/empl banque/Vernes?18377,Bernardin,René,91,P,,,ch,,empl banque,Vernes?18377
+AD075DP_D2M8_223_0430_left_page_22,AD075DP_D2M8_223_0430_left_page,test,22,0,1343,903,63,d°/Germaine/95/Italie/Italienne/m /ép /¤/chapelière/Manaire?9139,d°,Germaine,95,Italie,Italienne,m,ép,,chapelière,Manaire?9139
+AD075DP_D2M8_223_0430_left_page_23,AD075DP_D2M8_223_0430_left_page,test,23,0,1395,903,63,Heugé/Alfred/97/S et O /¤/m /ch /¤/dessinat /Baudet?14322,Heugé,Alfred,97,S et O,,m,ch,,dessinat,Baudet?14322
+AD075DP_D2M8_223_0430_left_page_24,AD075DP_D2M8_223_0430_left_page,test,24,0,1446,903,63,d°/Suzanne/95/Vendée/¤/m /ép /¤/empl Bque/Cité?18377,d°,Suzanne,95,Vendée,,m,ép,,empl Bque,Cité?18377
+AD075DP_D2M8_223_0430_left_page_25,AD075DP_D2M8_223_0430_left_page,test,25,0,1498,903,63,Decroix/Jean/85/Eure/¤/m /ch /¤/employé/D R ?18377,Decroix,Jean,85,Eure,,m,ch,,employé,D R ?18377
+AD075DP_D2M8_223_0430_left_page_26,AD075DP_D2M8_223_0430_left_page,test,26,0,1551,903,63,d°/Lucie/88/Meuse/¤/m /ép /¤/repasseuse/Leclerc?9133,d°,Lucie,88,Meuse,,m,ép,,repasseuse,Leclerc?9133
+AD075DP_D2M8_223_0430_left_page_27,AD075DP_D2M8_223_0430_left_page,test,27,0,1603,903,63,Beaubois/Delphin/92/Cher/¤/m /ch /¤/chauf auto/Potin?17456,Beaubois,Delphin,92,Cher,,m,ch,,chauf auto,Potin?17456
+AD075DP_D2M8_223_0430_left_page_28,AD075DP_D2M8_223_0430_left_page,test,28,0,1655,903,63,d°/Marie/90/P de C /¤/m /ép /¤/patissière/Potin!437,d°,Marie,90,P de C,,m,ép,,patissière,Potin!437
+AD075DP_D2M8_223_0430_left_page_29,AD075DP_D2M8_223_0430_left_page,test,29,0,1692,903,63,¤/¤/¤/¤/¤/¤/¤/¤/¤/437,,,,,,,,,,437

@@ -1,0 +1,12 @@
+{
+  "dataset": "POPP Generic, 1926 Paris census",
+  "doi": "10.5281/zenodo.6581158",
+  "license": "CC-BY-4.0",
+  "labels_revision": "580000d295c88e02bb7d8578ed203b7cde5deba7",
+  "archive": "https://zenodo.org/api/records/6581158/files/popp.zip/content",
+  "build_date": "2026-10-12",
+  "test_selection_seed": 526,
+  "selection": "Four of eight test double-page IDs sampled with random.Random(526).sample(sorted(ids), 4); left pages only.",
+  "images": "Lossless crop to columns 6\u201315; original printed headers retained.",
+  "development_selection": "Two manually selected validation pages: 275_0025 and 301_0020."
+}

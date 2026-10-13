@@ -1,0 +1,76 @@
+model,row,full_name,sex,age,occupation,literacy,property_owner
+Chandra 1 / JSON,1,Garagaga José,V,45,Comerciante,si,si
+Chandra 1 / JSON,2,De la Fuente Juana,Ma,38,Comerciante,si,si
+Chandra 1 / JSON,3,Garagaga José H.,V,10,Comerciante,si,si
+Chandra 1 / JSON,4,Garagaga Tomás,V,8,Comerciante,si,si
+Chandra 1 / JSON,5,Garagaga Francisco A.,V,5,Comerciante,no,si
+Chandra 1 / JSON,6,Garagaga Carlos J.,V,4,Comerciante,si,si
+Chandra 1 / JSON,7,Garagaga Dolores,Ma,2,Comerciante,si,si
+Chandra 1 / JSON,8,Chamique Pascual,V,38,Comerciante,si,si
+Chandra 1 / JSON,9,Garagaga Tomás,V,25,Comerciante,si,si
+Chandra 1 / JSON,10,Ors Ignacio,V,13,Comerciante,si,si
+Chandra 1 / JSON,11,Munoz Teodoro,V,11,Comerciante,no,si
+Chandra 1 / JSON,12,Palacio Elviro,V,35,Comerciante,no,si
+Chandra 1 / JSON,13,Palacio Carmen,Ma,10,Comerciante,no,si
+Chandra 1 / JSON,14,Pedro Pedro,V,34,Comerciante,no,si
+Chandra 1 / JSON,15,Ordóñez Florentino,V,27,Comerciante,no,si
+Chandra 1 + LoRA / JSON,1,Zarazaga José,V,45,Comerciante,si,si
+Chandra 1 + LoRA / JSON,2,De la Torre Juana,M,38,*,si,*
+Chandra 1 + LoRA / JSON,3,Zarazaga José H.,V,10,*,si,*
+Chandra 1 + LoRA / JSON,4,Zarazaga Tomas,V,8,*,si,*
+Chandra 1 + LoRA / JSON,5,Zarazaga Francisco A.,V,5,*,nó,*
+Chandra 1 + LoRA / JSON,6,Zarazaga Carlos J.,V,4,*,*,*
+Chandra 1 + LoRA / JSON,7,Zarazaga Dolores,M,2,*,*,*
+Chandra 1 + LoRA / JSON,8,Zarazaga Primitivo,V,38,Comerciante,si,si
+Chandra 1 + LoRA / JSON,9,Zarazaga Tomas,V,25,'',si,*
+Chandra 1 + LoRA / JSON,10,Oros Ignacio,V,13,'',si,*
+Chandra 1 + LoRA / JSON,11,Alvarez Teodoro,V,11,*,nó,*
+Chandra 1 + LoRA / JSON,12,Palacios Ildefonso,V,35,Cocinero,nó,*
+Chandra 1 + LoRA / JSON,13,Palacios Carmen,M,10,*,nó,*
+Chandra 1 + LoRA / JSON,14,Ordóñez Pedro,V,34,Jornalero,nó,*
+Chandra 1 + LoRA / JSON,15,Ordóñez Florentino,V,27,'',nó,*
+Chandra OCR 2 / JSON,1,NaN,NaN,NaN,NaN,NaN,NaN
+Chandra OCR 2 / JSON,2,NaN,NaN,NaN,NaN,NaN,NaN
+Chandra OCR 2 / JSON,3,NaN,NaN,NaN,NaN,NaN,NaN
+Chandra OCR 2 / JSON,4,NaN,NaN,NaN,NaN,NaN,NaN
+Chandra OCR 2 / JSON,5,NaN,NaN,NaN,NaN,NaN,NaN
+Chandra OCR 2 / JSON,6,NaN,NaN,NaN,NaN,NaN,NaN
+Chandra OCR 2 / JSON,7,NaN,NaN,NaN,NaN,NaN,NaN
+Chandra OCR 2 / JSON,8,NaN,NaN,NaN,NaN,NaN,NaN
+Chandra OCR 2 / JSON,9,NaN,NaN,NaN,NaN,NaN,NaN
+Chandra OCR 2 / JSON,10,NaN,NaN,NaN,NaN,NaN,NaN
+Chandra OCR 2 / JSON,11,NaN,NaN,NaN,NaN,NaN,NaN
+Chandra OCR 2 / JSON,12,NaN,NaN,NaN,NaN,NaN,NaN
+Chandra OCR 2 / JSON,13,NaN,NaN,NaN,NaN,NaN,NaN
+Chandra OCR 2 / JSON,14,NaN,NaN,NaN,NaN,NaN,NaN
+Chandra OCR 2 / JSON,15,NaN,NaN,NaN,NaN,NaN,NaN
+Chandra 1 / HTML,1,Garagaga José,V.,4.5,Comerciante,si,si
+Chandra 1 / HTML,2,De la Fuente Guadalupe,M.,3.8,,si,si
+Chandra 1 / HTML,3,Garagaga José H.,V.,1.0,,si,si
+Chandra 1 / HTML,4,Garagaga Tomasa,V.,8,,si,si
+Chandra 1 / HTML,5,Garagaga Francisca A.,V.,5,,no,no
+Chandra 1 / HTML,6,Garagaga Carlos J.,V.,4,,,
+Chandra 1 / HTML,7,Garagaga Salvies,M.,2,Comerciante,si,si
+Chandra 1 / HTML,8,Chamique Pascitiero,V.,3.8,Comerciante,si,si
+Chandra 1 / HTML,9,Garagaga Tomasa,V.,3.5,,si,si
+Chandra 1 / HTML,10,Ortiz Ignacia,V.,1.3,,si,si
+Chandra 1 / HTML,11,Alvarez Teodoro,V.,11,,no,no
+Chandra 1 / HTML,12,Palacios Elvastre,V.,3.5,Comerciante,no,no
+Chandra 1 / HTML,13,Palacios Carmona,M.,1.0,,no,no
+Chandra 1 / HTML,14,Ordóñez Pedro,V.,3.4,Comerciante,no,no
+Chandra 1 / HTML,15,Ordóñez Floristiano,V.,2.7,,no,no
+Chandra OCR 2 / HTML,1,Farazaga José ,V.,4.5,Comerciante,si,si
+Chandra OCR 2 / HTML,2,De la Torre Justo ,Mo.,3.8,,si,
+Chandra OCR 2 / HTML,3,Farazaga José R. ,V.,1.0,,si,
+Chandra OCR 2 / HTML,4,Farazaga Tomas ,V.,8,,si,
+Chandra OCR 2 / HTML,5,Farazaga Francisca A. ,V.,5,,no,
+Chandra OCR 2 / HTML,6,Farazaga Carlos J. ,V.,4,,,
+Chandra OCR 2 / HTML,7,Farazaga Dolores ,Mo.,2,Comerciante,si,si
+Chandra OCR 2 / HTML,8,Cheminqui Rincidio ,V.,3.8,Comerciante,si,si
+Chandra OCR 2 / HTML,9,Farazaga Tomas ,V.,2.5,"""",si,
+Chandra OCR 2 / HTML,10,Ortiz Ignacia ,V.,1.3,"""",si,
+Chandra OCR 2 / HTML,11,Muñoz Eudoro ,V.,11,,no,
+Chandra OCR 2 / HTML,12,Palacio Ilustre ,V.,3.5,Comerciante,no,
+Chandra OCR 2 / HTML,13,Palacio Carmen ,Mo.,1.0,,no,
+Chandra OCR 2 / HTML,14,Ordóñez Pedro ,V.,3.4,Jornalero,no,
+Chandra OCR 2 / HTML,15,Ordóñez Ildefonso ,V.,2.7,"""",no,

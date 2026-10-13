@@ -1,0 +1,7 @@
+workflow,field,reference_cells,uncertain_references,filled_cells,filled_correct,filled_available,filled_agreement,filled_coverage,reference_digits,digit_errors,digit_accuracy,blank_cells,blank_available,blank_correct,blank_agreement,unavailable_cells
+chandra,age,26,0,26,19,26,0.7307692307692307,1.0,47,8,0.8297872340425532,0,0,0,NaN,0
+chandra,earnings,26,0,10,7,10,0.7,1.0,31,3,0.9032258064516129,16,16,16,1.0,0
+qwen27b,age,26,0,26,19,26,0.7307692307692307,1.0,47,13,0.7234042553191489,0,0,0,NaN,0
+qwen27b,earnings,26,0,10,6,10,0.6,1.0,31,5,0.8387096774193549,16,16,16,1.0,0
+qwen2b,age,26,0,26,18,26,0.6923076923076923,1.0,47,14,0.7021276595744681,0,0,0,NaN,0
+qwen2b,earnings,26,0,10,6,10,0.6,1.0,31,11,0.6451612903225806,16,16,16,1.0,0

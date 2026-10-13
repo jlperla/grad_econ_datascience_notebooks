@@ -1,0 +1,16 @@
+surname,given_names,sex,age,occupation,literacy,property_owner
+Celsi,Bernabela,M,11,*,si,*
+Colombo,Angel,V,28,Minero,si,*
+Berbegu,Catalina,M,28,*,si,*
+Yemberto,Colombo,V,4,*,*,*
+Colombo,Angelina,M,3,*,*,*
+Colombo,Constantina,V,0,*,*,*
+Cabral,Miguel,V,57,Estanciero,si,si
+Cabral,Miguel,V,24,Estanciero,si,*
+Cabral,Octaviano,V,22,Telegrafista,si,*
+Cabral,Bartolico,V,18,Estanciero,si,*
+Quintero,Ginestra,V,16,Jornalero,no,*
+Quintero,Benita,M,42,Cocinera,no,*
+Rivarola,Pedro,V,22,Criador,no,si
+Reina,Eloira,M,30,*,si,*
+Rivarola,Maria,V,5,*,no,*

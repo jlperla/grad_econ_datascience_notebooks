@@ -1,0 +1,65 @@
+{
+  "model": "datalab-to/chandra-ocr-2",
+  "model_revision": "af93b47dba1b47b6640c86ccf487ed2260ab9a09",
+  "runtime": "mlx-vlm 0.7.6; Apple M4 Max; BF16",
+  "date_utc": "2026-10-13T02:02:50.082586+00:00",
+  "workflow": "chandra",
+  "temperature": 0,
+  "max_tokens": 4096,
+  "thinking": null,
+  "prompt": "OCR this image to HTML.\n\nOnly use these tags ['math', 'br', 'i', 'b', 'u', 'del', 'sup', 'sub', 'table', 'tr', 'td', 'p', 'th', 'div', 'pre', 'h1', 'h2', 'h3', 'h4', 'h5', 'ul', 'ol', 'li', 'input', 'a', 'span', 'img', 'hr', 'tbody', 'small', 'caption', 'strong', 'thead', 'big', 'code', 'chem'], and these attributes ['class', 'colspan', 'rowspan', 'display', 'checked', 'type', 'border', 'value', 'style', 'href', 'alt', 'align', 'data-bbox', 'data-label'].\n\nGuidelines:\n* Inline math: Surround math with <math>...</math> tags. Math expressions should be rendered in KaTeX-compatible LaTeX. Use display for block math.\n* Tables: Use colspan and rowspan attributes to match table structure.\n* Formatting: Maintain consistent formatting with the image, including spacing, indentation, subscripts/superscripts, and special characters.\n* Images: Include a description of any images in the alt attribute of an <img> tag. Do not fill out the src property. Describe in detail inside the div tag. Also convert charts to high fidelity data, and convert diagrams to mermaid.\n* Forms: Mark checkboxes and radio buttons properly.\n* Text: join lines together properly into paragraphs using <p>...</p> tags.  Use <br> tags for line breaks within paragraphs, but only when absolutely necessary to maintain meaning.\n* Chemistry: Use <chem>...</chem> tags for chemical formulas with reactive SMILES.\n* Lists: Preserve indents and proper list markers.\n* Use the simplest possible HTML structure that accurately represents the content of the block.\n* Make sure the text is accurate and easy for a human to read and interpret.  Reading order should be correct and natural.",
+  "prompt_sha256": "5bddc652e7f39d5c5501e5455ea2487ebb5cdbf71832b5dfb749ec2413b5a69b",
+  "packages": {
+    "openai": "3.6.0",
+    "pandas": "3.0.5",
+    "Pillow": "12.3.0"
+  },
+  "input": "Identical annotated cell panels; printed row order; no reference values",
+  "inputs": [
+    {
+      "panel_id": "z000104023_01-10",
+      "page_id": "z000104023",
+      "split": "development",
+      "first_line": 1,
+      "last_line": 10,
+      "image": "z000104023_01-10.png",
+      "sha256": "ccd37616b7c1f99beda620a606a094bb1203c11201bbfe7a77fdc68781564fa8"
+    },
+    {
+      "panel_id": "z000104023_11-20",
+      "page_id": "z000104023",
+      "split": "development",
+      "first_line": 11,
+      "last_line": 20,
+      "image": "z000104023_11-20.png",
+      "sha256": "4a50c100937761ab193859c89f3b49a818bf040192e651939ff60e7d2bee52a2"
+    },
+    {
+      "panel_id": "z000104023_21-30",
+      "page_id": "z000104023",
+      "split": "development",
+      "first_line": 21,
+      "last_line": 30,
+      "image": "z000104023_21-30.png",
+      "sha256": "029d166496216380238e5186cfb176275d4c49acacc1e20d3534ac2e6cb7416d"
+    },
+    {
+      "panel_id": "z000104023_31-40",
+      "page_id": "z000104023",
+      "split": "development",
+      "first_line": 31,
+      "last_line": 40,
+      "image": "z000104023_31-40.png",
+      "sha256": "c2d10457fcd8e3341648c1c02113a8c79dad3a864ee06e1c2132d5797ab29e02"
+    },
+    {
+      "panel_id": "z000104023_41-50",
+      "page_id": "z000104023",
+      "split": "development",
+      "first_line": 41,
+      "last_line": 50,
+      "image": "z000104023_41-50.png",
+      "sha256": "f243111fccd77442376f3e5ee0587e71cb1b604581d49fb22bceae804bb066c2"
+    }
+  ]
+}

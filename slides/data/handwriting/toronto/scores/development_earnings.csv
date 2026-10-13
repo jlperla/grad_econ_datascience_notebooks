@@ -1,0 +1,4 @@
+workflow,reference_annual_earners,numeric_predictions,reference_mean,paired_reference_mean,predicted_mean,paired_mean_error,paired_mean_absolute_error
+chandra,10,10,511.0,511.0,491.0,-20.0,80.0
+qwen27b,10,10,511.0,511.0,554.0,43.0,63.0
+qwen2b,10,7,511.0,501.42857142857144,537.1428571428571,35.714285714285715,35.714285714285715

@@ -1,0 +1,60 @@
+{
+  "id": "chatcmpl-402ad8d2-0fe5-4cf8-a673-9cdbf00ebf24",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "<div data-bbox=\"56 103 937 904\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th rowspan=\"2\">Número<br/>de<br/>orden</th>\n<th colspan=\"2\">A<br/>CUAL ES SU<br/>APELLIDO? NOMBRE?</th>\n<th>B<br/>Es varón<br/>ó<br/>mejor</th>\n<th>C<br/>Cuántos<br/>años ha<br/>cumplido</th>\n<th>D<br/>Es sesterro,<br/>casado<br/>ó viudo</th>\n<th>E<br/>A qué nación<br/>pertenece</th>\n<th>F<br/>Si es orgánico<br/>provincia ó territorio<br/>ha nacido</th>\n<th>H<br/>Qué profesión, oficio,<br/>ocupación<br/>ó medio de vida tiene</th>\n<th>I<br/>Sabe leer<br/>y escribir</th>\n<th>J<br/>Va á<br/>la escuela</th>\n<th>K<br/>Posee<br/>propiedad<br/>rural</th>\n<th colspan=\"2\">L<br/>SI ES MUJER CASADA Ó VIUDA<br/>Cuántos hijos<br/>ha tenido Cuántos años<br/>de matrimonio<br/>tiene</th>\n<th>M<br/>Es enfermo,<br/>cerdo-modo,<br/>idota,<br/>loco ó ciego</th>\n<th>N<br/>Tiene<br/>besis ó<br/>coto</th>\n<th colspan=\"2\">O<br/>ISTALIDO<br/>Por<br/>peorra Por<br/>acidente</th>\n<th>P<br/>Hadrano<br/>de padre y<br/>madre</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Celis</td>\n<td>Bernabeta</td>\n<td>M.</td>\n<td>11</td>\n<td></td>\n<td>Argentina</td>\n<td>Córdoba</td>\n<td></td>\n<td>si</td>\n<td>no</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2</td>\n<td>Colombo</td>\n<td>Angel</td>\n<td>V.</td>\n<td>28</td>\n<td>C.</td>\n<td>Italia</td>\n<td></td>\n<td>Minero</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>3</td>\n<td>Bardequ</td>\n<td>Catalina</td>\n<td>M.</td>\n<td>28</td>\n<td>C.</td>\n<td>Francia</td>\n<td></td>\n<td></td>\n<td>si</td>\n<td></td>\n<td></td>\n<td>3</td>\n<td>6</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>4</td>\n<td>Umberto</td>\n<td>Colombo</td>\n<td>V.</td>\n<td>4</td>\n<td></td>\n<td>Argentina</td>\n<td>Córdoba</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>5</td>\n<td>Colombo</td>\n<td>Angelina</td>\n<td>M.</td>\n<td>3</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>6</td>\n<td>Colombo</td>\n<td>Constantino</td>\n<td>V.</td>\n<td>0</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>P.1</td>\n<td>7</td>\n<td>Cabral</td>\n<td>Miguel</td>\n<td>V.</td>\n<td>57</td>\n<td>C.</td>\n<td>Argentina</td>\n<td>Estanciero</td>\n<td>si</td>\n<td></td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>8</td>\n<td>Cabral</td>\n<td>Miguel</td>\n<td>V.</td>\n<td>24</td>\n<td>S.</td>\n<td></td>\n<td>Estanciero</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>9</td>\n<td>Cabral</td>\n<td>Ochaviano</td>\n<td>V.</td>\n<td>22</td>\n<td>S.</td>\n<td></td>\n<td>Inteligente</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>10</td>\n<td>Cabral</td>\n<td>Bartalicio</td>\n<td>V.</td>\n<td>18</td>\n<td>S.</td>\n<td></td>\n<td>Estanciero</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>11</td>\n<td>Quintana</td>\n<td>Timoteo</td>\n<td>V.</td>\n<td>16</td>\n<td></td>\n<td></td>\n<td>Formalino</td>\n<td>no</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>12</td>\n<td>Quintana</td>\n<td>Benito</td>\n<td>M.</td>\n<td>42</td>\n<td>S.</td>\n<td></td>\n<td>Casinera</td>\n<td>no</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>P.1</td>\n<td>13</td>\n<td>Rivardo</td>\n<td>Pedro</td>\n<td>V.</td>\n<td>22</td>\n<td>S.</td>\n<td></td>\n<td>Criador</td>\n<td>no</td>\n<td></td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>14</td>\n<td>Reina</td>\n<td>Elaira</td>\n<td>M.</td>\n<td>30</td>\n<td>C.</td>\n<td></td>\n<td></td>\n<td>si</td>\n<td></td>\n<td></td>\n<td>4</td>\n<td>6</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>15</td>\n<td>Rivardo</td>\n<td>Mania</td>\n<td>V.</td>\n<td>5</td>\n<td></td>\n<td></td>\n<td></td>\n<td>no</td>\n<td>no</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": null,
+        "reasoning": null,
+        "tool_call_id": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1791848943,
+  "model": "/Users/jlperla/.cache/huggingface/hub/models--datalab-to--chandra-ocr-2/snapshots/af93b47dba1b47b6640c86ccf487ed2260ab9a09",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 2229,
+    "prompt_tokens": 2493,
+    "total_tokens": 4722,
+    "completion_tokens_details": null,
+    "compute_units": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "timings": {
+    "prompt_n": 2493,
+    "cache_n": 0,
+    "predicted_n": 2229,
+    "prompt_ms": 1395.9418339654803,
+    "prompt_per_token_ms": 0.5599445784057282,
+    "prompt_per_second": 1785.891030228734,
+    "predicted_ms": 43300.45174613209,
+    "predicted_per_token_ms": 19.425954125676128,
+    "predicted_per_second": 51.47752298448274,
+    "peak_memory": 10.70390257,
+    "draft_kind": null,
+    "draft_rounds": null,
+    "draft_n": null,
+    "draft_n_accepted": null
+  }
+}

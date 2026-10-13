@@ -1,0 +1,332 @@
+{
+  "date": "2026-10-13",
+  "method": "Source-image inspection after inference. Structural mapping only; no spelling changes, reference-text similarity, or copying reference values. Applied only to the exact response hashes below. Automatic coverage is reported before these mappings.",
+  "paris": {
+    "651489d268074761d738c3bed973a05995da1d3a33e61ee13936913fe8342202": {
+      "page_id": "AD075DP_D2M8_223_0430_left_page",
+      "model": "chandra",
+      "image_sha256": "60dfd5738076989e45d4a88613949760a6b2f3bcded16bd7767c34d5ff981e64",
+      "reference_row_positions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "note": "Image has 29 people in order. Annotation region _29 contains only employer code 437 and overlaps the bottom of person _28, which also labels this code. Retain all 30 reference regions; leave _29 unavailable rather than duplicate a prediction. This is a source-checked mapping, not automatic recovery.",
+      "reference_sha256": "26d999203068b18bd08f0a7c7025681716cb3b3b29026ad1b5a47b1b271b380d",
+      "reference_flag": {
+        "row_id": "AD075DP_D2M8_223_0430_left_page_29",
+        "flag": "possible_overlap",
+        "action": "Retain all published labels and leave the unmatched region NaN"
+      }
+    },
+    "b43611326a5256e2e4d087b22c5e374f271fb7e5043adaa0de3b0d692744e3ef": {
+      "page_id": "AD075DP_D2M8_223_0430_left_page",
+      "model": "claude",
+      "image_sha256": "60dfd5738076989e45d4a88613949760a6b2f3bcded16bd7767c34d5ff981e64",
+      "reference_row_positions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "note": "Image has 29 people in order. Annotation region _29 contains only employer code 437 and overlaps the bottom of person _28, which also labels this code. Retain all 30 reference regions; leave _29 unavailable rather than duplicate a prediction. This is a source-checked mapping, not automatic recovery.",
+      "reference_sha256": "26d999203068b18bd08f0a7c7025681716cb3b3b29026ad1b5a47b1b271b380d",
+      "reference_flag": {
+        "row_id": "AD075DP_D2M8_223_0430_left_page_29",
+        "flag": "possible_overlap",
+        "action": "Retain all published labels and leave the unmatched region NaN"
+      }
+    }
+  },
+  "argentina": {
+    "f65e6a98cd29d4315ecde1528b3a433336c282c0edeb4c9b7636998906a55b06": {
+      "page": "holdout",
+      "model": "Chandra OCR 2 / HTML",
+      "source": "Figure 5.16; local lossless source-000.png",
+      "image_sha256": "f7f728c7ee7507b49fdf66dd15afbea92bc2568b9b1c461583e360f65a63f0de",
+      "row_overrides": [
+        {
+          "output_row": 6,
+          "number_column": 1,
+          "columns": {
+            "full_name": [
+              2,
+              3
+            ],
+            "sex": [
+              4
+            ],
+            "age": [
+              5
+            ],
+            "occupation": [
+              8
+            ],
+            "literacy": [
+              9
+            ],
+            "property_owner": [
+              11
+            ]
+          }
+        },
+        {
+          "output_row": 7,
+          "number_column": 1,
+          "columns": {
+            "full_name": [
+              2,
+              3
+            ],
+            "sex": [
+              4
+            ],
+            "age": [
+              5
+            ],
+            "occupation": [
+              8
+            ],
+            "literacy": [
+              9
+            ],
+            "property_owner": [
+              11
+            ]
+          }
+        },
+        {
+          "output_row": 8,
+          "number_column": 1,
+          "columns": {
+            "full_name": [
+              2,
+              3
+            ],
+            "sex": [
+              4
+            ],
+            "age": [
+              5
+            ],
+            "occupation": [
+              8
+            ],
+            "literacy": [
+              9
+            ],
+            "property_owner": [
+              11
+            ]
+          }
+        },
+        {
+          "output_row": 9,
+          "number_column": 1,
+          "columns": {
+            "full_name": [
+              2,
+              3
+            ],
+            "sex": [
+              4
+            ],
+            "age": [
+              5
+            ],
+            "occupation": [
+              8
+            ],
+            "literacy": [
+              9
+            ],
+            "property_owner": [
+              11
+            ]
+          }
+        },
+        {
+          "output_row": 10,
+          "number_column": 1,
+          "columns": {
+            "full_name": [
+              2,
+              3
+            ],
+            "sex": [
+              4
+            ],
+            "age": [
+              5
+            ],
+            "occupation": [
+              8
+            ],
+            "literacy": [
+              9
+            ],
+            "property_owner": [
+              11
+            ]
+          }
+        },
+        {
+          "output_row": 11,
+          "number_column": 1,
+          "columns": {
+            "full_name": [
+              2,
+              3
+            ],
+            "sex": [
+              4
+            ],
+            "age": [
+              5
+            ],
+            "occupation": [
+              8
+            ],
+            "literacy": [
+              9
+            ],
+            "property_owner": [
+              11
+            ]
+          }
+        },
+        {
+          "output_row": 12,
+          "number_column": 1,
+          "columns": {
+            "full_name": [
+              2,
+              3
+            ],
+            "sex": [
+              4
+            ],
+            "age": [
+              5
+            ],
+            "occupation": [
+              8
+            ],
+            "literacy": [
+              9
+            ],
+            "property_owner": [
+              11
+            ]
+          }
+        },
+        {
+          "output_row": 13,
+          "number_column": 1,
+          "columns": {
+            "full_name": [
+              2,
+              3
+            ],
+            "sex": [
+              4
+            ],
+            "age": [
+              5
+            ],
+            "occupation": [
+              8
+            ],
+            "literacy": [
+              9
+            ],
+            "property_owner": [
+              11
+            ]
+          }
+        },
+        {
+          "output_row": 14,
+          "number_column": 1,
+          "columns": {
+            "full_name": [
+              2,
+              3
+            ],
+            "sex": [
+              4
+            ],
+            "age": [
+              5
+            ],
+            "occupation": [
+              8
+            ],
+            "literacy": [
+              9
+            ],
+            "property_owner": [
+              11
+            ]
+          }
+        }
+      ],
+      "note": "Rows 7-15 include a left margin cell and omit province F. The source image confirms separate left and right page fields. Shift name, sex and age only; right-page selected columns remain 8,9,11. This output-specific mapping is source-assisted, not automatic layout detection.",
+      "reference_sha256": "5f6e5f20fc238a770323a88fd4dfd84157903d8c6f6643b3ba66f3e2de090365",
+      "input_sha256": "c3367bc80d1d15615ac9071e23060a869a4a76575c81df91935bb2879f266b3d",
+      "hash_binding": "Raw response, reference bytes and recorded model-input bytes identify the run. image_sha256 records the extracted source PNG inspected by the reviewer, before RGB input conversion."
+    }
+  },
+  "inspection": "Codex inspected the source images and raw outputs; Opus and Gemini reviewed the scoring design and implementation. These structural maps were supplied outside the evaluated OCR model."
+}

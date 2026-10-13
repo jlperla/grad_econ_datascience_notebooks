@@ -1,0 +1,39 @@
+{
+  "source": "Argentina 1895 census, Córdoba, Calamuchita, Cañada de Álvarez",
+  "source_url": "https://raw.githubusercontent.com/Saucy-Stream/Argentina_1895_census_HTR_code/1048ba9c12863283ad17b6cde11684e0ed42885d/test/Cordoba_Calamuchita_Ca%C3%B1ada%20de%20%C3%81lvarez_image%2010%20of%20168.jpg",
+  "repository": "Saucy-Stream/Argentina_1895_census_HTR_code",
+  "repository_revision": "1048ba9c12863283ad17b6cde11684e0ed42885d",
+  "filename": "Cordoba_Calamuchita_Cañada de Álvarez_image 10 of 168.jpg",
+  "image_sha256": "9b358fc204990caccc67b5cffa693b282007082227c589a1acbdb3ece3167990",
+  "original_size": [
+    2965,
+    1471
+  ],
+  "input_size": [
+    2048,
+    1016
+  ],
+  "input_resize": "Pillow thumbnail, fit within 2048 x 1024, BICUBIC",
+  "input_sha256": "c2d8be571878125622f43574a47f858e779539e0a7ffc68efaa25507ce0bcaca",
+  "image_distribution": "Downloaded on demand; no source scan bundled",
+  "split": "author training set",
+  "split_source": "https://github.com/Saucy-Stream/Argentina_1895_census_HTR_code/blob/1048ba9c12863283ad17b6cde11684e0ed42885d/slurm-outputs/slurm-6653862.out",
+  "model": "datalab-to/chandra-ocr-2",
+  "model_revision": "af93b47dba1b47b6640c86ccf487ed2260ab9a09",
+  "base_model": "datalab-to/chandra-ocr-2",
+  "base_revision": "af93b47dba1b47b6640c86ccf487ed2260ab9a09",
+  "request_model": "/Users/jlperla/.cache/huggingface/hub/models--datalab-to--chandra-ocr-2/snapshots/af93b47dba1b47b6640c86ccf487ed2260ab9a09",
+  "system_prompt": null,
+  "user_prompt": "OCR this image to HTML.\n\nOnly use these tags ['math', 'br', 'i', 'b', 'u', 'del', 'sup', 'sub', 'table', 'tr', 'td', 'p', 'th', 'div', 'pre', 'h1', 'h2', 'h3', 'h4', 'h5', 'ul', 'ol', 'li', 'input', 'a', 'span', 'img', 'hr', 'tbody', 'small', 'caption', 'strong', 'thead', 'big', 'code', 'chem'], and these attributes ['class', 'colspan', 'rowspan', 'display', 'checked', 'type', 'border', 'value', 'style', 'href', 'alt', 'align', 'data-bbox', 'data-label'].\n\nGuidelines:\n* Inline math: Surround math with <math>...</math> tags. Math expressions should be rendered in KaTeX-compatible LaTeX. Use display for block math.\n* Tables: Use colspan and rowspan attributes to match table structure.\n* Formatting: Maintain consistent formatting with the image, including spacing, indentation, subscripts/superscripts, and special characters.\n* Images: Include a description of any images in the alt attribute of an <img> tag. Do not fill out the src property. Describe in detail inside the div tag. Also convert charts to high fidelity data, and convert diagrams to mermaid.\n* Forms: Mark checkboxes and radio buttons properly.\n* Text: join lines together properly into paragraphs using <p>...</p> tags.  Use <br> tags for line breaks within paragraphs, but only when absolutely necessary to maintain meaning.\n* Chemistry: Use <chem>...</chem> tags for chemical formulas with reactive SMILES.\n* Lists: Preserve indents and proper list markers.\n* Use the simplest possible HTML structure that accurately represents the content of the block.\n* Make sure the text is accurate and easy for a human to read and interpret.  Reading order should be correct and natural.",
+  "prompt": "html",
+  "prompt_source": "https://github.com/datalab-to/chandra/blob/v0.2.0/chandra/prompts.py",
+  "prompt_function": "OCR_PROMPT",
+  "temperature": 0,
+  "max_tokens": 8192,
+  "prompt_tokens": 2493,
+  "completion_tokens": 2174,
+  "finish_reason": "stop",
+  "runtime": "mlx-vlm 0.7.6; mlx 0.32.3; Apple M4 Max; BF16",
+  "date_utc": "2026-10-12T22:32:34.746764+00:00",
+  "evaluation": "Training-page comparison; not unseen-page accuracy"
+}

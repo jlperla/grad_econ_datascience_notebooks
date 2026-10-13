@@ -1,0 +1,60 @@
+{
+  "id": "chatcmpl-878af533-3adf-45eb-ad96-cec2b0f1d2c5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "<table border=\"1\">\n<thead>\n<tr>\n<th rowspan=\"2\">Número<br/>de<br/>orden</th>\n<th colspan=\"2\">A</th>\n<th rowspan=\"2\">B</th>\n<th rowspan=\"2\">C</th>\n<th rowspan=\"2\">D</th>\n<th rowspan=\"2\">E</th>\n<th rowspan=\"2\">F</th>\n<th rowspan=\"2\">H</th>\n<th rowspan=\"2\">I</th>\n<th rowspan=\"2\">J</th>\n<th rowspan=\"2\">K</th>\n<th colspan=\"2\">L</th>\n<th rowspan=\"2\">M</th>\n<th rowspan=\"2\">N</th>\n<th colspan=\"2\">O</th>\n<th rowspan=\"2\">P</th>\n</tr>\n<tr>\n<th>CUAL ES SU<br/>APELLIDO?</th>\n<th>NOMBRE?</th>\n<th>SI ES MUJER CASADA Ó VIUDA</th>\n<th>Es enfermo,<br/>sordo-mudo,<br/>idiota,<br/>loco ó ciego</th>\n<th>Tiene<br/>boclo ó<br/>ceto</th>\n<th>Por<br/>guerra</th>\n<th>Por<br/>acciden-<br/>te</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Garagaga</td>\n<td>José</td>\n<td>V.</td>\n<td>4.5</td>\n<td>L</td>\n<td>Argentino</td>\n<td>Viridiana</td>\n<td>Comerciante</td>\n<td>si</td>\n<td>si</td>\n<td>si</td>\n<td>9</td>\n<td>12</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2</td>\n<td>De la Fuente</td>\n<td>Guadalupe</td>\n<td>M.</td>\n<td>3.8</td>\n<td>L</td>\n<td></td>\n<td></td>\n<td></td>\n<td>si</td>\n<td>si</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>3</td>\n<td>Garagaga</td>\n<td>José H.</td>\n<td>V.</td>\n<td>1.0</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>si</td>\n<td>si</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>4</td>\n<td>Garagaga</td>\n<td>Tomasa</td>\n<td>V.</td>\n<td>8</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>si</td>\n<td>si</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>5</td>\n<td>Garagaga</td>\n<td>Francisca A.</td>\n<td>V.</td>\n<td>5</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>no</td>\n<td>no</td>\n<td>no</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>6</td>\n<td>Garagaga</td>\n<td>Carlos J.</td>\n<td>V.</td>\n<td>4</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>7</td>\n<td>Garagaga</td>\n<td>Salvies</td>\n<td>M.</td>\n<td>2</td>\n<td></td>\n<td></td>\n<td></td>\n<td>Comerciante</td>\n<td>si</td>\n<td>si</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>8</td>\n<td>Chamique</td>\n<td>Pascitiero</td>\n<td>V.</td>\n<td>3.8</td>\n<td>L</td>\n<td></td>\n<td></td>\n<td>Comerciante</td>\n<td>si</td>\n<td>si</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>9</td>\n<td>Garagaga</td>\n<td>Tomasa</td>\n<td>V.</td>\n<td>3.5</td>\n<td>L</td>\n<td></td>\n<td></td>\n<td></td>\n<td>si</td>\n<td>si</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>10</td>\n<td>Ortiz</td>\n<td>Ignacia</td>\n<td>V.</td>\n<td>1.3</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>si</td>\n<td>si</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>11</td>\n<td>Alvarez</td>\n<td>Teodoro</td>\n<td>V.</td>\n<td>11</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>no</td>\n<td>no</td>\n<td>no</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>12</td>\n<td>Palacios</td>\n<td>Elvastre</td>\n<td>V.</td>\n<td>3.5</td>\n<td>L</td>\n<td></td>\n<td></td>\n<td>Comerciante</td>\n<td>no</td>\n<td>no</td>\n<td>no</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>13</td>\n<td>Palacios</td>\n<td>Carmona</td>\n<td>M.</td>\n<td>1.0</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>no</td>\n<td>no</td>\n<td>no</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>14</td>\n<td>Ordóñez</td>\n<td>Pedro</td>\n<td>V.</td>\n<td>3.4</td>\n<td>L</td>\n<td></td>\n<td></td>\n<td>Comerciante</td>\n<td>no</td>\n<td>no</td>\n<td>no</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>15</td>\n<td>Ordóñez</td>\n<td>Floristiano</td>\n<td>V.</td>\n<td>2.7</td>\n<td>L</td>\n<td></td>\n<td></td>\n<td></td>\n<td>no</td>\n<td>no</td>\n<td>no</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": null,
+        "reasoning": null,
+        "tool_call_id": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1791844470,
+  "model": "/Users/jlperla/.cache/huggingface/hub/models--datalab-to--chandra/snapshots/bd40c21576564d31ba99f204e28ccd5c4c1751fa",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1848,
+    "prompt_tokens": 2478,
+    "total_tokens": 4326,
+    "completion_tokens_details": null,
+    "compute_units": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "timings": {
+    "prompt_n": 2478,
+    "cache_n": 0,
+    "predicted_n": 1848,
+    "prompt_ms": 2720.7061250228435,
+    "prompt_per_token_ms": 1.0979443603804857,
+    "prompt_per_second": 910.7929655501453,
+    "predicted_ms": 62575.97199877755,
+    "predicted_per_token_ms": 33.86145670929521,
+    "predicted_per_second": 29.532102194690662,
+    "peak_memory": 18.615037434,
+    "draft_kind": null,
+    "draft_rounds": null,
+    "draft_n": null,
+    "draft_n_accepted": null
+  }
+}

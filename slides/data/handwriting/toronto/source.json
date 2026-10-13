@@ -1,0 +1,18 @@
+{
+  "title": "Toronto Area Test Sample, Census of Canada 1901",
+  "authors": "Gordon Darroch and the York CCRI Centre",
+  "source_url": "https://www.yorku.ca/ccri/",
+  "labels_url": "https://www.yorku.ca/ccri/darroch_files/1901%20Toronto%20Area%20Test%20Sample.sav",
+  "guide_url": "https://www.yorku.ca/ccri/darroch_files/1901%20Toronto%20Area%20Test%20Sample%20User%20Guide%20%20Mar%2010%2009%20rev%20Mar%202012.docx",
+  "manual_url": "https://www.yorku.ca/ccri/darroch_files/1901%20Data%20Entry%20Manual%202006.pdf",
+  "images_source": "Library and Archives Canada, Census of Canada 1901, RG31-C-1",
+  "terms_url": "https://www.canada.ca/en/library-archives/terms-conditions.html",
+  "distribution": "Download full source scans and York reference labels from their original hosts into ignored build/; no source corpus mirror. This repository contains geometry, model outputs, aggregate comparisons, and one attributed ten-row teaching illustration. No open-data licence is asserted for York labels.",
+  "illustration": {
+    "file": "input_illustration.png",
+    "page_id": "z000106253",
+    "lines": "1-10",
+    "source_url": "https://central.bac-lac.gc.ca/.item/?id=z000106253&app=census1901&op=img",
+    "description": "Adapted LAC excerpt: selected columns, rectification, rescaling, modern headings and line numbers. Not an official LAC version."
+  }
+}

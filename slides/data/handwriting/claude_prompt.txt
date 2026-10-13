@@ -1,0 +1,7 @@
+Independently transcribe one census table image. This is a blind evaluation against published human labels. Do not inspect labels, datasets, code, or other model predictions. Use the Read tool only to view the image path supplied below; use no web search and no Bash. Do not edit files. These are public historical census records from 1926.
+
+Read every person row in top-to-bottom order. The image is cropped to exactly ten original census columns. The columns left to right are surname, given_names, birth_year, birthplace, nationality, marital_status, relationship, education, occupation, employer. The last column often contains a statistical code even though its printed header describes an employer.
+
+Return only JSON: an array of arrays, each inner array containing ten strings, one for each column. Exclude both printed header rows. Copy the text exactly as written, including abbreviations, accents, and ditto marks. Preserve two-digit birth years as two-digit strings. Do not infer a surname from another row or expand abbreviations. Blank cells are empty strings. Preserve readable out-of-baseline annotations in their cell, separated with a space. Do not modernize occupations. If something is not legible, use "[illegible]" in that cell rather than guessing.
+
+Image:

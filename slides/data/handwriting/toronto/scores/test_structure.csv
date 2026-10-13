@@ -1,0 +1,4 @@
+workflow,panels,age_available,earnings_available,expected_cells_per_field,rows_emitted
+chandra,40,400,360,400,400
+qwen27b,40,392,392,400,392
+qwen2b,40,400,400,400,400

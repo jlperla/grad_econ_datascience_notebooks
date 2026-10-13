@@ -1,0 +1,60 @@
+{
+  "id": "chatcmpl-dd73228e-f7cc-4549-8434-f78e4d6a13ac",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "<div data-bbox=\"0 0 992 983\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th rowspan=\"2\">NOMS<br/>DE FAMILLE</th>\n<th rowspan=\"2\">PRÉNOMS</th>\n<th>ANNEE</th>\n<th>LIEU</th>\n<th rowspan=\"2\">NATIONA-<br/>LITÉ</th>\n<th rowspan=\"2\">ETAT MATRIMONIAL</th>\n<th>SITUATION</th>\n<th rowspan=\"2\">DEGRÉ D'INSTRUCTION</th>\n<th rowspan=\"2\">PROFESSION</th>\n<th rowspan=\"2\">Pour les patrons,<br/>chefs d'entreprise,<br/>ouvriers à domi-<br/>cile, inscrire : pa-<br/>tron.<br/><br/>Pour les em-<br/>ployés ou ouvriers,<br/>indiquer le nom du<br/>patron ou de l'en-<br/>treprise qui les em-<br/>ploie.</th>\n</tr>\n<tr>\n<th>de<br/>NAISSANCE</th>\n<th>de<br/>NAISSANCE</th>\n<th>PAR RAPPORT<br/>au<br/>chef de ménage</th>\n</tr>\n<tr>\n<th>6</th>\n<th>7</th>\n<th>8</th>\n<th>9</th>\n<th>10</th>\n<th>11</th>\n<th>12</th>\n<th>13</th>\n<th>14</th>\n<th>15</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Chambon</td>\n<td>Marguerite</td>\n<td>84</td>\n<td>Nord</td>\n<td></td>\n<td>He</td>\n<td>ép</td>\n<td></td>\n<td>o modiste</td>\n<td>9-132</td>\n</tr>\n<tr>\n<td>Dumont</td>\n<td>Thérèse</td>\n<td>98</td>\n<td>Somme</td>\n<td></td>\n<td></td>\n<td>ch</td>\n<td></td>\n<td>É commerce</td>\n<td>18-377</td>\n</tr>\n<tr>\n<td>Mauchaud</td>\n<td>Yvonne</td>\n<td>99</td>\n<td>C. T.</td>\n<td></td>\n<td>V</td>\n<td>ch</td>\n<td></td>\n<td>giletière</td>\n<td>9-132</td>\n</tr>\n<tr>\n<td>Lurcut</td>\n<td>Josephine</td>\n<td>82</td>\n<td>Cdu H</td>\n<td></td>\n<td>V</td>\n<td>ch</td>\n<td></td>\n<td></td>\n<td>22-408</td>\n</tr>\n<tr>\n<td></td>\n<td>Madeline</td>\n<td>13</td>\n<td>D</td>\n<td></td>\n<td></td>\n<td>f</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Lamoureux</td>\n<td>Ernestine</td>\n<td>07</td>\n<td>D</td>\n<td></td>\n<td></td>\n<td>f</td>\n<td></td>\n<td></td>\n<td>22-408</td>\n</tr>\n<tr>\n<td>Belin</td>\n<td>Alexandrine</td>\n<td>84</td>\n<td>C Tuf</td>\n<td></td>\n<td>He</td>\n<td>ch</td>\n<td></td>\n<td>stailleur</td>\n<td>9-132</td>\n</tr>\n<tr>\n<td>Réguis</td>\n<td>André</td>\n<td>06</td>\n<td>C Tuf</td>\n<td></td>\n<td></td>\n<td>f</td>\n<td></td>\n<td>photographe</td>\n<td>M 3<br/>9-93</td>\n</tr>\n<tr>\n<td>Paradis</td>\n<td>Eugène</td>\n<td>80</td>\n<td>Vendée</td>\n<td></td>\n<td>He</td>\n<td>ch</td>\n<td></td>\n<td>stailleur</td>\n<td>9-132</td>\n</tr>\n<tr>\n<td></td>\n<td>René</td>\n<td>06</td>\n<td>Lochesfont</td>\n<td></td>\n<td></td>\n<td>f</td>\n<td></td>\n<td>Jo</td>\n<td>M 9<br/>9-132</td>\n</tr>\n<tr>\n<td>Desquibet</td>\n<td>Albert</td>\n<td>84</td>\n<td>S</td>\n<td></td>\n<td>He</td>\n<td>ch</td>\n<td></td>\n<td>o gainier</td>\n<td>M 3<br/>10-151</td>\n</tr>\n<tr>\n<td></td>\n<td>Alice</td>\n<td>89</td>\n<td>Orléans</td>\n<td></td>\n<td>He</td>\n<td>ép</td>\n<td></td>\n<td></td>\n<td>15-151</td>\n</tr>\n<tr>\n<td></td>\n<td>Germaine</td>\n<td>14</td>\n<td>D</td>\n<td></td>\n<td></td>\n<td>f</td>\n<td></td>\n<td></td>\n<td>24-151</td>\n</tr>\n<tr>\n<td>Delbecq</td>\n<td>Gustave</td>\n<td>80</td>\n<td>Nord</td>\n<td></td>\n<td>He</td>\n<td>ch</td>\n<td></td>\n<td>Échaffer</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Cécile</td>\n<td>80</td>\n<td>Jo</td>\n<td></td>\n<td>He</td>\n<td>ép</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Georges</td>\n<td>10</td>\n<td>Jo</td>\n<td></td>\n<td></td>\n<td>f</td>\n<td></td>\n<td>Amontbrange</td>\n<td>M 1<br/>12-260</td>\n</tr>\n<tr>\n<td></td>\n<td>Georgette</td>\n<td>13</td>\n<td>Jo</td>\n<td></td>\n<td></td>\n<td>f</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Heullean</td>\n<td>Constant</td>\n<td>98</td>\n<td>Cdu H</td>\n<td></td>\n<td>He</td>\n<td>ch</td>\n<td></td>\n<td>chauffeur</td>\n<td>M 3<br/>17-386</td>\n</tr>\n<tr>\n<td></td>\n<td>Suzanne</td>\n<td>96</td>\n<td>Jo</td>\n<td></td>\n<td>He</td>\n<td>ép</td>\n<td></td>\n<td></td>\n<td>17-386</td>\n</tr>\n<tr>\n<td></td>\n<td>Alice</td>\n<td>23</td>\n<td>D</td>\n<td></td>\n<td></td>\n<td>f</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Winterberger</td>\n<td>Dorothee</td>\n<td>62</td>\n<td>Duché-Bade</td>\n<td>natur</td>\n<td>V</td>\n<td>ch</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Augustine</td>\n<td>88</td>\n<td>D</td>\n<td></td>\n<td></td>\n<td>f</td>\n<td></td>\n<td>o couturière</td>\n<td>9-132</td>\n</tr>\n<tr>\n<td></td>\n<td>Yvonne</td>\n<td>94</td>\n<td>D</td>\n<td></td>\n<td></td>\n<td>f</td>\n<td></td>\n<td>Jo</td>\n<td>9-132</td>\n</tr>\n<tr>\n<td>Lenoble</td>\n<td>Jean</td>\n<td>67</td>\n<td>S</td>\n<td></td>\n<td>He</td>\n<td>ch</td>\n<td></td>\n<td>o secour</td>\n<td>11-155</td>\n</tr>\n<tr>\n<td></td>\n<td>Fernande</td>\n<td>42</td>\n<td>D</td>\n<td></td>\n<td>He</td>\n<td>ép</td>\n<td></td>\n<td></td>\n<td>11-155</td>\n</tr>\n<tr>\n<td>Le Lorgin</td>\n<td>Henri</td>\n<td>63</td>\n<td>Cdu H</td>\n<td></td>\n<td>He</td>\n<td>ch</td>\n<td></td>\n<td>o chauffeur</td>\n<td>12-207</td>\n</tr>\n<tr>\n<td></td>\n<td>Jeanne</td>\n<td>69</td>\n<td>Jo</td>\n<td></td>\n<td>He</td>\n<td>ép</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Pluoc</td>\n<td>Philiberthe</td>\n<td>48</td>\n<td>Set Lo</td>\n<td></td>\n<td>V</td>\n<td>ch</td>\n<td></td>\n<td>o</td>\n<td></td>\n</tr>\n<tr>\n<td>Vallet</td>\n<td>Etienne</td>\n<td>1900</td>\n<td>D</td>\n<td></td>\n<td>He</td>\n<td>ch</td>\n<td></td>\n<td>o cheminet</td>\n<td></td>\n</tr>\n<tr>\n<td></td>\n<td>Hoseli</td>\n<td>1900</td>\n<td>Cantal</td>\n<td></td>\n<td>He</td>\n<td>ép</td>\n<td></td>\n<td></td>\n<td>22-408</td>\n</tr>\n</tbody>\n</table>\n</div>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": null,
+        "reasoning": null,
+        "tool_call_id": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1791839199,
+  "model": "datalab-to/chandra-ocr-2",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 2721,
+    "prompt_tokens": 8009,
+    "total_tokens": 10730,
+    "completion_tokens_details": null,
+    "compute_units": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "timings": {
+    "prompt_n": 8009,
+    "cache_n": 0,
+    "predicted_n": 2721,
+    "prompt_ms": 4383.907831972465,
+    "prompt_per_token_ms": 0.5473726847262411,
+    "prompt_per_second": 1826.9088463925316,
+    "predicted_ms": 107817.01783377628,
+    "predicted_per_token_ms": 39.62404183527243,
+    "predicted_per_second": 25.237203316038865,
+    "peak_memory": 12.128072422,
+    "draft_kind": null,
+    "draft_rounds": null,
+    "draft_n": null,
+    "draft_n_accepted": null
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "model": "qwen3.5:2b",
+  "model_revision": "324d162be6ca5629ae4517c8710434d0bd2d665bc94dbad46e9af8fbf8a2f0df",
+  "runtime": "Ollama; Apple M4 Max; Q8_0",
+  "date_utc": "2026-10-13T02:08:43.428061+00:00",
+  "workflow": "qwen2b",
+  "temperature": 0,
+  "max_tokens": 4096,
+  "thinking": false,
+  "prompt": "Extract every row of this census table as JSON. Return only an object with key \"rows\", a list of objects with string fields \"line\", \"name\", \"age\", \"occupation\", \"earnings\". Read only the image. Preserve spelling and abbreviations, including ditto marks. Do not fill blanks or infer missing values. Use an empty string for an empty cell. Keep every row in printed order. No commentary.",
+  "prompt_sha256": "915864db5cc40887c03ea079139c22a11d9e3ddcb9d32c5937945644980c4f0c",
+  "inputs": [
+    {
+      "panel_id": "z000104023_01-10",
+      "page_id": "z000104023",
+      "split": "development",
+      "first_line": 1,
+      "last_line": 10,
+      "image": "z000104023_01-10.png",
+      "sha256": "ccd37616b7c1f99beda620a606a094bb1203c11201bbfe7a77fdc68781564fa8"
+    },
+    {
+      "panel_id": "z000104023_11-20",
+      "page_id": "z000104023",
+      "split": "development",
+      "first_line": 11,
+      "last_line": 20,
+      "image": "z000104023_11-20.png",
+      "sha256": "4a50c100937761ab193859c89f3b49a818bf040192e651939ff60e7d2bee52a2"
+    },
+    {
+      "panel_id": "z000104023_21-30",
+      "page_id": "z000104023",
+      "split": "development",
+      "first_line": 21,
+      "last_line": 30,
+      "image": "z000104023_21-30.png",
+      "sha256": "029d166496216380238e5186cfb176275d4c49acacc1e20d3534ac2e6cb7416d"
+    },
+    {
+      "panel_id": "z000104023_31-40",
+      "page_id": "z000104023",
+      "split": "development",
+      "first_line": 31,
+      "last_line": 40,
+      "image": "z000104023_31-40.png",
+      "sha256": "c2d10457fcd8e3341648c1c02113a8c79dad3a864ee06e1c2132d5797ab29e02"
+    },
+    {
+      "panel_id": "z000104023_41-50",
+      "page_id": "z000104023",
+      "split": "development",
+      "first_line": 41,
+      "last_line": 50,
+      "image": "z000104023_41-50.png",
+      "sha256": "f243111fccd77442376f3e5ee0587e71cb1b604581d49fb22bceae804bb066c2"
+    }
+  ],
+  "packages": {
+    "openai": "3.6.0",
+    "pandas": "3.0.5",
+    "Pillow": "12.3.0"
+  },
+  "input": "Identical annotated cell panels; printed row order; no reference values"
+}

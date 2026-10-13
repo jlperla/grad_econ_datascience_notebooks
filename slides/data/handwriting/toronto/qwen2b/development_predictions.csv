@@ -1,0 +1,51 @@
+page_id,panel_id,split,line,name,age,occupation,earnings
+z000104023,z000104023_01-10,development,1,Elliot Burt,54,Caretaker,360
+z000104023,z000104023_01-10,development,2,Jane,52,Cook,100
+z000104023,z000104023_01-10,development,3,Annie,3.3,,
+z000104023,z000104023_01-10,development,4,Spencer Fred,31,Caretaker,600
+z000104023,z000104023_01-10,development,5,Annie E.,91,,
+z000104023,z000104023_01-10,development,6,Ethel M.,9,,
+z000104023,z000104023_01-10,development,7,Shengove Ritty,48,Caretaker,235
+z000104023,z000104023_01-10,development,8,Jade,45,,
+z000104023,z000104023_01-10,development,9,Naught Jos E.,21,Caretaker,1000
+z000104023,z000104023_01-10,development,10,Mary Jane,63,,
+z000104023,z000104023_11-20,development,11,Mard. O.,23,,
+z000104023,z000104023_11-20,development,12,David L.,27,Chef,520
+z000104023,z000104023_11-20,development,13,Scott Elizabeth,25,,300
+z000104023,z000104023_11-20,development,14,Brittnerland James,38,,600
+z000104023,z000104023_11-20,development,15,Lucy W.,39,,
+z000104023,z000104023_11-20,development,16,James B.C.,16,,
+z000104023,z000104023_11-20,development,17,Charles W. E.,11,,
+z000104023,z000104023_11-20,development,18,Savvyn Elia,75,Hattie,1000
+z000104023,z000104023_11-20,development,19,Merry,37,,
+z000104023,z000104023_11-20,development,20,Emphail H.,47,,120
+z000104023,z000104023_21-30,development,21,Margaret,60,,
+z000104023,z000104023_21-30,development,22,Anne,58,,
+z000104023,z000104023_21-30,development,23,Martha,56,,
+z000104023,z000104023_21-30,development,24,Elizabeth,57,,
+z000104023,z000104023_21-30,development,25,Isabella,62,,
+z000104023,z000104023_21-30,development,26,Margaret Alice,20,Oat grower,312
+z000104023,z000104023_21-30,development,27,Annita Gardner,37,Laborer,250
+z000104023,z000104023_21-30,development,28,Dorothy James,14,apex - 203,203
+z000104023,z000104023_21-30,development,29,Lizzie Nora,46,pamperer,95.0
+z000104023,z000104023_21-30,development,30,Catherine,72,,
+z000104023,z000104023_31-40,development,31,Jane,75,,
+z000104023,z000104023_31-40,development,32,Hannah Turner,45,Auntie's,
+z000104023,z000104023_31-40,development,33,Agnes,45,,
+z000104023,z000104023_31-40,development,34,Nancy Jane,43,Breadmaker-580,
+z000104023,z000104023_31-40,development,35,Martha,39,,
+z000104023,z000104023_31-40,development,36,Elizabeth,17,,
+z000104023,z000104023_31-40,development,37,James,17,,
+z000104023,z000104023_31-40,development,38,William,12,,
+z000104023,z000104023_31-40,development,39,Emma,9,,
+z000104023,z000104023_31-40,development,40,Jane,7,,
+z000104023,z000104023_41-50,development,41,John D.,5,-,-
+z000104023,z000104023_41-50,development,42,John,.3,-,-
+z000104023,z000104023_41-50,development,43,Taverton,91-2-,-,-
+z000104023,z000104023_41-50,development,44,O'Conor John,6,Agriculture,1000
+z000104023,z000104023_41-50,development,45,John,63,-,-
+z000104023,z000104023_41-50,development,46,Reynolds Edward,53,Agriculture,700
+z000104023,z000104023_41-50,development,47,Graham James,22,Packer,500
+z000104023,z000104023_41-50,development,48,W. Wm. Hunter,6,-,-
+z000104023,z000104023_41-50,development,49,Carter Henry,36,Agriculture,500
+z000104023,z000104023_41-50,development,50,-,24,-,-

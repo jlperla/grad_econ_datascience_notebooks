@@ -1,0 +1,1201 @@
+row_id,page_id,field,reference,prediction,automatic_available,automatic_correct,automatic_character_errors,assisted,available,filled,correct,characters,available_characters,character_errors,digits,available_digits,digit_errors
+AD075DP_D2M8_245_0008_left_page_00,AD075DP_D2M8_245_0008_left_page,surname,Brandarge,Brandarge,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_00,AD075DP_D2M8_245_0008_left_page,given_names,Robert,Robert,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_00,AD075DP_D2M8_245_0008_left_page,birth_year,22,22,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_00,AD075DP_D2M8_245_0008_left_page,birthplace,P,id,True,0.0,2,False,True,True,0.0,1,1,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_00,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_00,AD075DP_D2M8_245_0008_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_00,AD075DP_D2M8_245_0008_left_page,relationship,f,f.,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_00,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_00,AD075DP_D2M8_245_0008_left_page,occupation,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_00,AD075DP_D2M8_245_0008_left_page,employer,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_01,AD075DP_D2M8_245_0008_left_page,surname,Gaut,Gaut,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_01,AD075DP_D2M8_245_0008_left_page,given_names,Louis,Louis,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_01,AD075DP_D2M8_245_0008_left_page,birth_year,77,77,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_01,AD075DP_D2M8_245_0008_left_page,birthplace,P,id,True,0.0,2,False,True,True,0.0,1,1,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_01,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_01,AD075DP_D2M8_245_0008_left_page,marital_status,m,m,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_01,AD075DP_D2M8_245_0008_left_page,relationship,ch,Ch.,True,0.0,2,False,True,True,0.0,2,2,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_01,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_01,AD075DP_D2M8_245_0008_left_page,occupation,P grainetier,P. grainetier,True,0.0,1,False,True,True,0.0,12,12,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_01,AD075DP_D2M8_245_0008_left_page,employer,18374,18374,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_02,AD075DP_D2M8_245_0008_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_02,AD075DP_D2M8_245_0008_left_page,given_names,Lydie,Lydie,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_02,AD075DP_D2M8_245_0008_left_page,birth_year,80,80,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_02,AD075DP_D2M8_245_0008_left_page,birthplace,Drôme,Drôme,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_02,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_02,AD075DP_D2M8_245_0008_left_page,marital_status,M,m,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_02,AD075DP_D2M8_245_0008_left_page,relationship,ép,ép.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_02,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_02,AD075DP_D2M8_245_0008_left_page,occupation,d°,d°,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_02,AD075DP_D2M8_245_0008_left_page,employer,18374,18374,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_03,AD075DP_D2M8_245_0008_left_page,surname,Ormancey,Ormancey,True,1.0,0,False,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_03,AD075DP_D2M8_245_0008_left_page,given_names,Propser,Prosper,True,0.0,2,False,True,True,0.0,7,7,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_03,AD075DP_D2M8_245_0008_left_page,birth_year,72,72,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_03,AD075DP_D2M8_245_0008_left_page,birthplace,C d'Or,Cd'Or,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_03,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_03,AD075DP_D2M8_245_0008_left_page,marital_status,M,m,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_03,AD075DP_D2M8_245_0008_left_page,relationship,Ch,Ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_03,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_03,AD075DP_D2M8_245_0008_left_page,occupation,Imprimeur,Imprimeur,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_03,AD075DP_D2M8_245_0008_left_page,employer,792,792,True,1.0,0,False,True,True,1.0,3,3,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_04,AD075DP_D2M8_245_0008_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_04,AD075DP_D2M8_245_0008_left_page,given_names,Marie,Marie,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_04,AD075DP_D2M8_245_0008_left_page,birth_year,72,72,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_04,AD075DP_D2M8_245_0008_left_page,birthplace,C d'Or,Cd'Or,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_04,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_04,AD075DP_D2M8_245_0008_left_page,marital_status,M,m,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_04,AD075DP_D2M8_245_0008_left_page,relationship,ép,ép.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_04,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_04,AD075DP_D2M8_245_0008_left_page,occupation,concierge,concierge,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_04,AD075DP_D2M8_245_0008_left_page,employer,21399,21399,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_05,AD075DP_D2M8_245_0008_left_page,surname,Darquié,Darquié,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_05,AD075DP_D2M8_245_0008_left_page,given_names,Albert,Albert,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_05,AD075DP_D2M8_245_0008_left_page,birth_year,59,59,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_05,AD075DP_D2M8_245_0008_left_page,birthplace,Aube,Aube,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_05,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_05,AD075DP_D2M8_245_0008_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_05,AD075DP_D2M8_245_0008_left_page,relationship,Ch,Ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_05,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_05,AD075DP_D2M8_245_0008_left_page,occupation,S P,S.P,True,0.0,1,False,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_05,AD075DP_D2M8_245_0008_left_page,employer,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_06,AD075DP_D2M8_245_0008_left_page,surname,Himbert,Himbert,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_06,AD075DP_D2M8_245_0008_left_page,given_names,Gustave,Gustave,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_06,AD075DP_D2M8_245_0008_left_page,birth_year,60,50,True,0.0,1,False,True,True,0.0,2,2,1,2,2,1
+AD075DP_D2M8_245_0008_left_page_06,AD075DP_D2M8_245_0008_left_page,birthplace,L et Ch,L et Ch.,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_06,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_06,AD075DP_D2M8_245_0008_left_page,marital_status,M,m,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_06,AD075DP_D2M8_245_0008_left_page,relationship,Ch,Ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_06,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_06,AD075DP_D2M8_245_0008_left_page,occupation,P tailleur,P. Tailleur,True,0.0,2,False,True,True,0.0,10,10,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_06,AD075DP_D2M8_245_0008_left_page,employer,9132,9132,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_07,AD075DP_D2M8_245_0008_left_page,surname,Boulie,Boulié,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_07,AD075DP_D2M8_245_0008_left_page,given_names,Louise,Louise,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_07,AD075DP_D2M8_245_0008_left_page,birth_year,58,58,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_07,AD075DP_D2M8_245_0008_left_page,birthplace,C d'Or,Cd'Or,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_07,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_07,AD075DP_D2M8_245_0008_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_07,AD075DP_D2M8_245_0008_left_page,relationship,A,a,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_07,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_07,AD075DP_D2M8_245_0008_left_page,occupation,S P,S.P,True,0.0,1,False,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_07,AD075DP_D2M8_245_0008_left_page,employer,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_08,AD075DP_D2M8_245_0008_left_page,surname,Bony,Bony,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_08,AD075DP_D2M8_245_0008_left_page,given_names,André,André,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_08,AD075DP_D2M8_245_0008_left_page,birth_year,95,95,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_08,AD075DP_D2M8_245_0008_left_page,birthplace,S Infre,S. Infre,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_08,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_08,AD075DP_D2M8_245_0008_left_page,marital_status,M,m,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_08,AD075DP_D2M8_245_0008_left_page,relationship,Ch,Ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_08,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_08,AD075DP_D2M8_245_0008_left_page,occupation,E caissier,E. Caissier,True,0.0,2,False,True,True,0.0,10,10,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_08,AD075DP_D2M8_245_0008_left_page,employer,18375,18375,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_09,AD075DP_D2M8_245_0008_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_09,AD075DP_D2M8_245_0008_left_page,given_names,Germaine,Germaine,True,1.0,0,False,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_09,AD075DP_D2M8_245_0008_left_page,birth_year,96,96,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_09,AD075DP_D2M8_245_0008_left_page,birthplace,P,id,True,0.0,2,False,True,True,0.0,1,1,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_09,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_09,AD075DP_D2M8_245_0008_left_page,marital_status,M,m,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_09,AD075DP_D2M8_245_0008_left_page,relationship,ép,ép.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_09,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_09,AD075DP_D2M8_245_0008_left_page,occupation,Employée,Employée,True,1.0,0,False,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_09,AD075DP_D2M8_245_0008_left_page,employer,18377,18377,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_10,AD075DP_D2M8_245_0008_left_page,surname,Burgaud,Burgaud,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_10,AD075DP_D2M8_245_0008_left_page,given_names,Maurice,Maurice,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_10,AD075DP_D2M8_245_0008_left_page,birth_year,78,78,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_10,AD075DP_D2M8_245_0008_left_page,birthplace,P,id,True,0.0,2,False,True,True,0.0,1,1,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_10,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_10,AD075DP_D2M8_245_0008_left_page,marital_status,M,m,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_10,AD075DP_D2M8_245_0008_left_page,relationship,Ch,Ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_10,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_10,AD075DP_D2M8_245_0008_left_page,occupation,Commerçant,Commerçant,True,1.0,0,False,True,True,1.0,10,10,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_10,AD075DP_D2M8_245_0008_left_page,employer,18374,18374,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_11,AD075DP_D2M8_245_0008_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_11,AD075DP_D2M8_245_0008_left_page,given_names,Jeanne,Jeanne,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_11,AD075DP_D2M8_245_0008_left_page,birth_year,83,83,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_11,AD075DP_D2M8_245_0008_left_page,birthplace,P,id,True,0.0,2,False,True,True,0.0,1,1,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_11,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_11,AD075DP_D2M8_245_0008_left_page,marital_status,M,m,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_11,AD075DP_D2M8_245_0008_left_page,relationship,ép,ép.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_11,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_11,AD075DP_D2M8_245_0008_left_page,occupation,S P,S.P,True,0.0,1,False,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_11,AD075DP_D2M8_245_0008_left_page,employer,18374,18374,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_12,AD075DP_D2M8_245_0008_left_page,surname,Figarol,Figarol,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_12,AD075DP_D2M8_245_0008_left_page,given_names,Pépita,Pépita,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_12,AD075DP_D2M8_245_0008_left_page,birth_year,05,05,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_12,AD075DP_D2M8_245_0008_left_page,birthplace,Hte Gnne,Hte Gne,True,0.0,1,False,True,True,0.0,8,8,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_12,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_12,AD075DP_D2M8_245_0008_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_12,AD075DP_D2M8_245_0008_left_page,relationship,d,d,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_12,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_12,AD075DP_D2M8_245_0008_left_page,occupation,domest,domest,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_12,AD075DP_D2M8_245_0008_left_page,employer,21399,21399,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_13,AD075DP_D2M8_245_0008_left_page,surname,Deloge,Deloge,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_13,AD075DP_D2M8_245_0008_left_page,given_names,Henri,Henri,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_13,AD075DP_D2M8_245_0008_left_page,birth_year,72,72,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_13,AD075DP_D2M8_245_0008_left_page,birthplace,Nord,Nord,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_13,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_13,AD075DP_D2M8_245_0008_left_page,marital_status,M,m,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_13,AD075DP_D2M8_245_0008_left_page,relationship,Ch,Ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_13,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_13,AD075DP_D2M8_245_0008_left_page,occupation,Negt tissus,Négt Cuisine,True,0.0,6,False,True,True,0.0,11,11,6,0,0,0
+AD075DP_D2M8_245_0008_left_page_13,AD075DP_D2M8_245_0008_left_page,employer,18374,18374,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_14,AD075DP_D2M8_245_0008_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_14,AD075DP_D2M8_245_0008_left_page,given_names,Germaine,Germaine,True,1.0,0,False,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_14,AD075DP_D2M8_245_0008_left_page,birth_year,84,84,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_14,AD075DP_D2M8_245_0008_left_page,birthplace,P,id,True,0.0,2,False,True,True,0.0,1,1,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_14,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_14,AD075DP_D2M8_245_0008_left_page,marital_status,M,m,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_14,AD075DP_D2M8_245_0008_left_page,relationship,ép,ép.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_14,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_14,AD075DP_D2M8_245_0008_left_page,occupation,S P,S.P,True,0.0,1,False,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_14,AD075DP_D2M8_245_0008_left_page,employer,18374,18374,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_15,AD075DP_D2M8_245_0008_left_page,surname,Combes,Combes,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_15,AD075DP_D2M8_245_0008_left_page,given_names,Marcelle,Marcelle,True,1.0,0,False,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_15,AD075DP_D2M8_245_0008_left_page,birth_year,02,02,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_15,AD075DP_D2M8_245_0008_left_page,birthplace,Alger,Alger,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_15,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_15,AD075DP_D2M8_245_0008_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_15,AD075DP_D2M8_245_0008_left_page,relationship,Ch,Ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_15,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_15,AD075DP_D2M8_245_0008_left_page,occupation,Artiste,Artiste,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_15,AD075DP_D2M8_245_0008_left_page,employer,19388,19388,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_16,AD075DP_D2M8_245_0008_left_page,surname,Chardar,Chardar,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_16,AD075DP_D2M8_245_0008_left_page,given_names,Henriette,Henriette,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_16,AD075DP_D2M8_245_0008_left_page,birth_year,76,76,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_16,AD075DP_D2M8_245_0008_left_page,birthplace,d°,d°,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_16,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_16,AD075DP_D2M8_245_0008_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_16,AD075DP_D2M8_245_0008_left_page,relationship,par,par,True,1.0,0,False,True,True,1.0,3,3,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_16,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_16,AD075DP_D2M8_245_0008_left_page,occupation,S P,S.P,True,0.0,1,False,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_16,AD075DP_D2M8_245_0008_left_page,employer,22408,22402,True,0.0,1,False,True,True,0.0,5,5,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_17,AD075DP_D2M8_245_0008_left_page,surname,Berton,Berton,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_17,AD075DP_D2M8_245_0008_left_page,given_names,André,André,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_17,AD075DP_D2M8_245_0008_left_page,birth_year,87,87,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_17,AD075DP_D2M8_245_0008_left_page,birthplace,Aisne,Aisne,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_17,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_17,AD075DP_D2M8_245_0008_left_page,marital_status,M,m,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_17,AD075DP_D2M8_245_0008_left_page,relationship,Ch,Ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_17,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_17,AD075DP_D2M8_245_0008_left_page,occupation,P artisan,P. artisan,True,0.0,1,False,True,True,0.0,9,9,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_17,AD075DP_D2M8_245_0008_left_page,employer,18374,18374,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_18,AD075DP_D2M8_245_0008_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_18,AD075DP_D2M8_245_0008_left_page,given_names,Angèle,Angèle,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_18,AD075DP_D2M8_245_0008_left_page,birth_year,79,79,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_18,AD075DP_D2M8_245_0008_left_page,birthplace,Nord,Nord,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_18,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_18,AD075DP_D2M8_245_0008_left_page,marital_status,M,m,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_18,AD075DP_D2M8_245_0008_left_page,relationship,ép,ép.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_18,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_18,AD075DP_D2M8_245_0008_left_page,occupation,S P,S.P,True,0.0,1,False,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_18,AD075DP_D2M8_245_0008_left_page,employer,18374,18374,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_19,AD075DP_D2M8_245_0008_left_page,surname,Acat,Acat,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_19,AD075DP_D2M8_245_0008_left_page,given_names,Gustave,Gustave,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_19,AD075DP_D2M8_245_0008_left_page,birth_year,69,69,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_19,AD075DP_D2M8_245_0008_left_page,birthplace,S et M,S. et M.,True,0.0,2,False,True,True,0.0,6,6,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_19,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_19,AD075DP_D2M8_245_0008_left_page,marital_status,M,m,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_19,AD075DP_D2M8_245_0008_left_page,relationship,Ch,Ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_19,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_19,AD075DP_D2M8_245_0008_left_page,occupation,Comptable,Comptable,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_19,AD075DP_D2M8_245_0008_left_page,employer,18375,18375,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_20,AD075DP_D2M8_245_0008_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_20,AD075DP_D2M8_245_0008_left_page,given_names,Marie,Marie,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_20,AD075DP_D2M8_245_0008_left_page,birth_year,67,67,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_20,AD075DP_D2M8_245_0008_left_page,birthplace,Vosges,Vosges,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_20,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_20,AD075DP_D2M8_245_0008_left_page,marital_status,M,m,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_20,AD075DP_D2M8_245_0008_left_page,relationship,ép,ép.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_20,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_20,AD075DP_D2M8_245_0008_left_page,occupation,S P,S.P,True,0.0,1,False,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_20,AD075DP_D2M8_245_0008_left_page,employer,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_21,AD075DP_D2M8_245_0008_left_page,surname,Leclerc,Leclerc,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_21,AD075DP_D2M8_245_0008_left_page,given_names,Blanche,Blanche,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_21,AD075DP_D2M8_245_0008_left_page,birth_year,03,03,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_21,AD075DP_D2M8_245_0008_left_page,birthplace,P,id,True,0.0,2,False,True,True,0.0,1,1,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_21,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_21,AD075DP_D2M8_245_0008_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_21,AD075DP_D2M8_245_0008_left_page,relationship,Ch,Ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_21,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_21,AD075DP_D2M8_245_0008_left_page,occupation,E Bureau,E. Bureau,True,0.0,1,False,True,True,0.0,8,8,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_21,AD075DP_D2M8_245_0008_left_page,employer,18377,18377,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_22,AD075DP_D2M8_245_0008_left_page,surname,Crémont,Crémont,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_22,AD075DP_D2M8_245_0008_left_page,given_names,Edmée,Edmée,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_22,AD075DP_D2M8_245_0008_left_page,birth_year,04,04,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_22,AD075DP_D2M8_245_0008_left_page,birthplace,P,id,True,0.0,2,False,True,True,0.0,1,1,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_22,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_22,AD075DP_D2M8_245_0008_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_22,AD075DP_D2M8_245_0008_left_page,relationship,Ch,Ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_22,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_22,AD075DP_D2M8_245_0008_left_page,occupation,Caissier comp,Caissière Compt,True,0.0,4,False,True,True,0.0,13,13,4,0,0,0
+AD075DP_D2M8_245_0008_left_page_22,AD075DP_D2M8_245_0008_left_page,employer,18375,18375,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_23,AD075DP_D2M8_245_0008_left_page,surname,Fillous,Fillous,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_23,AD075DP_D2M8_245_0008_left_page,given_names,Jeanne,Jeanne,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_23,AD075DP_D2M8_245_0008_left_page,birth_year,96,96,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_23,AD075DP_D2M8_245_0008_left_page,birthplace,Hte Gnne,Hte Gne,True,0.0,1,False,True,True,0.0,8,8,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_23,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_23,AD075DP_D2M8_245_0008_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_23,AD075DP_D2M8_245_0008_left_page,relationship,Ch,Ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_23,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_23,AD075DP_D2M8_245_0008_left_page,occupation,E Dactylo,E. Dactylo,True,0.0,1,False,True,True,0.0,9,9,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_23,AD075DP_D2M8_245_0008_left_page,employer,18376,18376,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_24,AD075DP_D2M8_245_0008_left_page,surname,Perrin,Perrin,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_24,AD075DP_D2M8_245_0008_left_page,given_names,Edouard,Edouard,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_24,AD075DP_D2M8_245_0008_left_page,birth_year,91,91,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_24,AD075DP_D2M8_245_0008_left_page,birthplace,P,id,True,0.0,2,False,True,True,0.0,1,1,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_24,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_24,AD075DP_D2M8_245_0008_left_page,marital_status,M,m,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_24,AD075DP_D2M8_245_0008_left_page,relationship,Ch,Ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_24,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_24,AD075DP_D2M8_245_0008_left_page,occupation,E banque,E. Banque,True,0.0,2,False,True,True,0.0,8,8,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_24,AD075DP_D2M8_245_0008_left_page,employer,18377,18377,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_25,AD075DP_D2M8_245_0008_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_25,AD075DP_D2M8_245_0008_left_page,given_names,Hélène,Hélène,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_25,AD075DP_D2M8_245_0008_left_page,birth_year,95,95,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_25,AD075DP_D2M8_245_0008_left_page,birthplace,P,id,True,0.0,2,False,True,True,0.0,1,1,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_25,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_25,AD075DP_D2M8_245_0008_left_page,marital_status,M,m,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_25,AD075DP_D2M8_245_0008_left_page,relationship,ép,ép.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_25,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_25,AD075DP_D2M8_245_0008_left_page,occupation,d°,d°,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_25,AD075DP_D2M8_245_0008_left_page,employer,18377,18377,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_26,AD075DP_D2M8_245_0008_left_page,surname,Raynard,Raynard,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_26,AD075DP_D2M8_245_0008_left_page,given_names,Lucie,Lucie,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_26,AD075DP_D2M8_245_0008_left_page,birth_year,98,98,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_26,AD075DP_D2M8_245_0008_left_page,birthplace,P de Dôme,[illegible],True,0.0,9,False,True,True,0.0,9,9,9,0,0,0
+AD075DP_D2M8_245_0008_left_page_26,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_26,AD075DP_D2M8_245_0008_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_26,AD075DP_D2M8_245_0008_left_page,relationship,Ch,Ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_26,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_26,AD075DP_D2M8_245_0008_left_page,occupation,S P,S.P,True,0.0,1,False,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_26,AD075DP_D2M8_245_0008_left_page,employer,22408,22402,True,0.0,1,False,True,True,0.0,5,5,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_27,AD075DP_D2M8_245_0008_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_27,AD075DP_D2M8_245_0008_left_page,given_names,Suzanne,Suzanne,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_27,AD075DP_D2M8_245_0008_left_page,birth_year,24,24,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_27,AD075DP_D2M8_245_0008_left_page,birthplace,P,id,True,0.0,2,False,True,True,0.0,1,1,2,0,0,0
+AD075DP_D2M8_245_0008_left_page_27,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_27,AD075DP_D2M8_245_0008_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_27,AD075DP_D2M8_245_0008_left_page,relationship,f,f.,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_27,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_27,AD075DP_D2M8_245_0008_left_page,occupation,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_27,AD075DP_D2M8_245_0008_left_page,employer,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_28,AD075DP_D2M8_245_0008_left_page,surname,Prou,Prou,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_28,AD075DP_D2M8_245_0008_left_page,given_names,Charles,Charles,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_28,AD075DP_D2M8_245_0008_left_page,birth_year,99,99,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_245_0008_left_page_28,AD075DP_D2M8_245_0008_left_page,birthplace,Orne,Orne,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_28,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_28,AD075DP_D2M8_245_0008_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_28,AD075DP_D2M8_245_0008_left_page,relationship,a,a,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_28,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_28,AD075DP_D2M8_245_0008_left_page,occupation,Mécanicien,Mécanicien,True,1.0,0,False,True,True,1.0,10,10,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_28,AD075DP_D2M8_245_0008_left_page,employer,12260,12260,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_29,AD075DP_D2M8_245_0008_left_page,surname,Verger,Verger,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_29,AD075DP_D2M8_245_0008_left_page,given_names,Joseph,Joseph,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_29,AD075DP_D2M8_245_0008_left_page,birth_year,,?,True,0.0,0,False,True,False,0.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_29,AD075DP_D2M8_245_0008_left_page,birthplace,L Infre,L. Infre,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_29,AD075DP_D2M8_245_0008_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_29,AD075DP_D2M8_245_0008_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_29,AD075DP_D2M8_245_0008_left_page,relationship,Ch,Ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_29,AD075DP_D2M8_245_0008_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_245_0008_left_page_29,AD075DP_D2M8_245_0008_left_page,occupation,S P,S.P,True,0.0,1,False,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_245_0008_left_page_29,AD075DP_D2M8_245_0008_left_page,employer,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_00,AD075DP_D2M8_235_0105_left_page,surname,Chauvin,Chauvin,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_00,AD075DP_D2M8_235_0105_left_page,given_names,andré,andré,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_00,AD075DP_D2M8_235_0105_left_page,birth_year,07,07,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_00,AD075DP_D2M8_235_0105_left_page,birthplace,s:o,S&O,True,0.0,3,False,True,True,0.0,3,3,3,0,0,0
+AD075DP_D2M8_235_0105_left_page_00,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_00,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_00,AD075DP_D2M8_235_0105_left_page,relationship,D,D,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_00,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_00,AD075DP_D2M8_235_0105_left_page,occupation,D,D,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_00,AD075DP_D2M8_235_0105_left_page,employer,21399,21299 2,True,0.0,3,False,True,True,0.0,5,5,3,0,0,0
+AD075DP_D2M8_235_0105_left_page_01,AD075DP_D2M8_235_0105_left_page,surname,Gennai,Gennai,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_01,AD075DP_D2M8_235_0105_left_page,given_names,Enoria,Linoria,True,0.0,2,False,True,True,0.0,6,6,2,0,0,0
+AD075DP_D2M8_235_0105_left_page_01,AD075DP_D2M8_235_0105_left_page,birth_year,92,92,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_01,AD075DP_D2M8_235_0105_left_page,birthplace,Italienne,+,True,0.0,9,False,True,True,0.0,9,9,9,0,0,0
+AD075DP_D2M8_235_0105_left_page_01,AD075DP_D2M8_235_0105_left_page,nationality,,Italienne,True,0.0,0,False,True,False,0.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_01,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_01,AD075DP_D2M8_235_0105_left_page,relationship,D,D,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_01,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_01,AD075DP_D2M8_235_0105_left_page,occupation,D,D,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_01,AD075DP_D2M8_235_0105_left_page,employer,21399 f,21299 f3,True,0.0,2,False,True,True,0.0,7,7,2,0,0,0
+AD075DP_D2M8_235_0105_left_page_02,AD075DP_D2M8_235_0105_left_page,surname,Bretin,Brefin,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_02,AD075DP_D2M8_235_0105_left_page,given_names,Louise,Louise,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_02,AD075DP_D2M8_235_0105_left_page,birth_year,86,86,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_02,AD075DP_D2M8_235_0105_left_page,birthplace,S&L,Sal.,True,0.0,3,False,True,True,0.0,3,3,3,0,0,0
+AD075DP_D2M8_235_0105_left_page_02,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_02,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_02,AD075DP_D2M8_235_0105_left_page,relationship,D,D,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_02,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_02,AD075DP_D2M8_235_0105_left_page,occupation,D,D,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_02,AD075DP_D2M8_235_0105_left_page,employer,21399 f,21299 f,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_03,AD075DP_D2M8_235_0105_left_page,surname,Levière,Levière,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_03,AD075DP_D2M8_235_0105_left_page,given_names,Camille,Camille,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_03,AD075DP_D2M8_235_0105_left_page,birth_year,05,05,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_03,AD075DP_D2M8_235_0105_left_page,birthplace,aisne,aisne,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_03,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_03,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_03,AD075DP_D2M8_235_0105_left_page,relationship,D,D,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_03,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_03,AD075DP_D2M8_235_0105_left_page,occupation,D,D,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_03,AD075DP_D2M8_235_0105_left_page,employer,21399 f,21299 f,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_04,AD075DP_D2M8_235_0105_left_page,surname,Cohat,Cohat,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_04,AD075DP_D2M8_235_0105_left_page,given_names,Catherine,Catherine,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_04,AD075DP_D2M8_235_0105_left_page,birth_year,67,67,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_04,AD075DP_D2M8_235_0105_left_page,birthplace,C du N,Ch N,True,0.0,3,False,True,True,0.0,6,6,3,0,0,0
+AD075DP_D2M8_235_0105_left_page_04,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_04,AD075DP_D2M8_235_0105_left_page,marital_status,V,V,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_04,AD075DP_D2M8_235_0105_left_page,relationship,ch,ch,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_04,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_04,AD075DP_D2M8_235_0105_left_page,occupation,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_04,AD075DP_D2M8_235_0105_left_page,employer,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_05,AD075DP_D2M8_235_0105_left_page,surname,d°,do,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_05,AD075DP_D2M8_235_0105_left_page,given_names,andrée,andrée,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_05,AD075DP_D2M8_235_0105_left_page,birth_year,08,08,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_05,AD075DP_D2M8_235_0105_left_page,birthplace,P,P,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_05,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_05,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_05,AD075DP_D2M8_235_0105_left_page,relationship,f,f,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_05,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_05,AD075DP_D2M8_235_0105_left_page,occupation,E PTT,E. P.T.T.,True,0.0,4,False,True,True,0.0,5,5,4,0,0,0
+AD075DP_D2M8_235_0105_left_page_05,AD075DP_D2M8_235_0105_left_page,employer,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_06,AD075DP_D2M8_235_0105_left_page,surname,Ponthier,Gauthier,True,0.0,3,False,True,True,0.0,8,8,3,0,0,0
+AD075DP_D2M8_235_0105_left_page_06,AD075DP_D2M8_235_0105_left_page,given_names,Simon,Simon,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_06,AD075DP_D2M8_235_0105_left_page,birth_year,74,74,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_06,AD075DP_D2M8_235_0105_left_page,birthplace,Jura,Jura,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_06,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_06,AD075DP_D2M8_235_0105_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_06,AD075DP_D2M8_235_0105_left_page,relationship,ch,ch,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_06,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_06,AD075DP_D2M8_235_0105_left_page,occupation,E concierge,E Concierge,True,0.0,1,False,True,True,0.0,11,11,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_06,AD075DP_D2M8_235_0105_left_page,employer,21399,21299 1,True,0.0,3,False,True,True,0.0,5,5,3,0,0,0
+AD075DP_D2M8_235_0105_left_page_07,AD075DP_D2M8_235_0105_left_page,surname,d°,d°,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_07,AD075DP_D2M8_235_0105_left_page,given_names,angèle,angèle,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_07,AD075DP_D2M8_235_0105_left_page,birth_year,87,87,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_07,AD075DP_D2M8_235_0105_left_page,birthplace,cher,cher,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_07,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_07,AD075DP_D2M8_235_0105_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_07,AD075DP_D2M8_235_0105_left_page,relationship,ép,ép,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_07,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_07,AD075DP_D2M8_235_0105_left_page,occupation,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_07,AD075DP_D2M8_235_0105_left_page,employer,21399 f,21299 f,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_08,AD075DP_D2M8_235_0105_left_page,surname,d°,d°,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_08,AD075DP_D2M8_235_0105_left_page,given_names,simone,Simone,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_08,AD075DP_D2M8_235_0105_left_page,birth_year,04,04,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_08,AD075DP_D2M8_235_0105_left_page,birthplace,P,P,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_08,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_08,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_08,AD075DP_D2M8_235_0105_left_page,relationship,f,f,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_08,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_08,AD075DP_D2M8_235_0105_left_page,occupation,E compt,E Compt,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_08,AD075DP_D2M8_235_0105_left_page,employer,18375 f,18475 f,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_09,AD075DP_D2M8_235_0105_left_page,surname,d°,d°,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_09,AD075DP_D2M8_235_0105_left_page,given_names,Germaine,Germaine,True,1.0,0,False,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_09,AD075DP_D2M8_235_0105_left_page,birth_year,07,07,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_09,AD075DP_D2M8_235_0105_left_page,birthplace,P,P,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_09,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_09,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_09,AD075DP_D2M8_235_0105_left_page,relationship,f,f,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_09,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_09,AD075DP_D2M8_235_0105_left_page,occupation,O couturière,O. Couturière,True,0.0,2,False,True,True,0.0,12,12,2,0,0,0
+AD075DP_D2M8_235_0105_left_page_09,AD075DP_D2M8_235_0105_left_page,employer,9132 f,9112 f,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_10,AD075DP_D2M8_235_0105_left_page,surname,Ravaud,Ravaud,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_10,AD075DP_D2M8_235_0105_left_page,given_names,claire,Claire,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_10,AD075DP_D2M8_235_0105_left_page,birth_year,62,62,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_10,AD075DP_D2M8_235_0105_left_page,birthplace,S&O,S&O,True,1.0,0,False,True,True,1.0,3,3,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_10,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_10,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_10,AD075DP_D2M8_235_0105_left_page,relationship,Ch,ch,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_10,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_10,AD075DP_D2M8_235_0105_left_page,occupation,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_10,AD075DP_D2M8_235_0105_left_page,employer,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_11,AD075DP_D2M8_235_0105_left_page,surname,Brieussol,Brieussel,True,0.0,1,False,True,True,0.0,9,9,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_11,AD075DP_D2M8_235_0105_left_page,given_names,Rose,Rose,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_11,AD075DP_D2M8_235_0105_left_page,birth_year,91,91,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_11,AD075DP_D2M8_235_0105_left_page,birthplace,aude,aude,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_11,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_11,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_11,AD075DP_D2M8_235_0105_left_page,relationship,Ch,ch,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_11,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_11,AD075DP_D2M8_235_0105_left_page,occupation,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_11,AD075DP_D2M8_235_0105_left_page,employer,22408 f,22408 f3,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_12,AD075DP_D2M8_235_0105_left_page,surname,Sy,Sy,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_12,AD075DP_D2M8_235_0105_left_page,given_names,Lucie,Lucie,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_12,AD075DP_D2M8_235_0105_left_page,birth_year,82,82,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_12,AD075DP_D2M8_235_0105_left_page,birthplace,P,P,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_12,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_12,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_12,AD075DP_D2M8_235_0105_left_page,relationship,ch,ch,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_12,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_12,AD075DP_D2M8_235_0105_left_page,occupation,E Institutrice,E. Institutrice,True,0.0,1,False,True,True,0.0,14,14,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_12,AD075DP_D2M8_235_0105_left_page,employer,19385 f,19785 f,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_13,AD075DP_D2M8_235_0105_left_page,surname,Barial,Barial,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_13,AD075DP_D2M8_235_0105_left_page,given_names,appoline,appolina,True,0.0,1,False,True,True,0.0,8,8,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_13,AD075DP_D2M8_235_0105_left_page,birth_year,92,92,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_13,AD075DP_D2M8_235_0105_left_page,birthplace,Oise,oise,True,0.0,1,False,True,True,0.0,4,4,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_13,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_13,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_13,AD075DP_D2M8_235_0105_left_page,relationship,ch,ch,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_13,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_13,AD075DP_D2M8_235_0105_left_page,occupation,E Institutrice,E Institutrice,True,1.0,0,False,True,True,1.0,14,14,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_13,AD075DP_D2M8_235_0105_left_page,employer,19385 f,19785 f,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_14,AD075DP_D2M8_235_0105_left_page,surname,Trioche,Triache,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_14,AD075DP_D2M8_235_0105_left_page,given_names,Marie,Marie,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_14,AD075DP_D2M8_235_0105_left_page,birth_year,86,86,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_14,AD075DP_D2M8_235_0105_left_page,birthplace,ardenne,ardennes,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_14,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_14,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_14,AD075DP_D2M8_235_0105_left_page,relationship,Ch,ch,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_14,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_14,AD075DP_D2M8_235_0105_left_page,occupation,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_14,AD075DP_D2M8_235_0105_left_page,employer,22408 fs,22408 f3,True,0.0,1,False,True,True,0.0,8,8,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_15,AD075DP_D2M8_235_0105_left_page,surname,Tartatin,Cartarin,True,0.0,2,False,True,True,0.0,8,8,2,0,0,0
+AD075DP_D2M8_235_0105_left_page_15,AD075DP_D2M8_235_0105_left_page,given_names,Solange,Solange,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_15,AD075DP_D2M8_235_0105_left_page,birth_year,91,91,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_15,AD075DP_D2M8_235_0105_left_page,birthplace,Loiret,Loiret,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_15,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_15,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_15,AD075DP_D2M8_235_0105_left_page,relationship,Ch,ch,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_15,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_15,AD075DP_D2M8_235_0105_left_page,occupation,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_15,AD075DP_D2M8_235_0105_left_page,employer,22408 fs,22408 f3,True,0.0,1,False,True,True,0.0,8,8,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_16,AD075DP_D2M8_235_0105_left_page,surname,Ravarit,Ravarit,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_16,AD075DP_D2M8_235_0105_left_page,given_names,Gilberte,Gilberte,True,1.0,0,False,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_16,AD075DP_D2M8_235_0105_left_page,birth_year,91,91,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_16,AD075DP_D2M8_235_0105_left_page,birthplace,charente,Charente,True,0.0,1,False,True,True,0.0,8,8,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_16,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_16,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_16,AD075DP_D2M8_235_0105_left_page,relationship,Ch,ch,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_16,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_16,AD075DP_D2M8_235_0105_left_page,occupation,E dactylo,E dactylo,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_16,AD075DP_D2M8_235_0105_left_page,employer,18376 f,18470 f,True,0.0,2,False,True,True,0.0,7,7,2,0,0,0
+AD075DP_D2M8_235_0105_left_page_17,AD075DP_D2M8_235_0105_left_page,surname,Schmitt,Schmitt,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_17,AD075DP_D2M8_235_0105_left_page,given_names,Lucienne,Lucienne,True,1.0,0,False,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_17,AD075DP_D2M8_235_0105_left_page,birth_year,96,96,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_17,AD075DP_D2M8_235_0105_left_page,birthplace,P,P,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_17,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_17,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_17,AD075DP_D2M8_235_0105_left_page,relationship,ch,ch,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_17,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_17,AD075DP_D2M8_235_0105_left_page,occupation,E Infirmière,E Infirmière,True,1.0,0,False,True,True,1.0,12,12,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_17,AD075DP_D2M8_235_0105_left_page,employer,29382 f,20170 f,True,0.0,4,False,True,True,0.0,7,7,4,0,0,0
+AD075DP_D2M8_235_0105_left_page_18,AD075DP_D2M8_235_0105_left_page,surname,Truchon,Eruchon,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_18,AD075DP_D2M8_235_0105_left_page,given_names,Marie,Marie,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_18,AD075DP_D2M8_235_0105_left_page,birth_year,85,87,True,0.0,1,False,True,True,0.0,2,2,1,2,2,1
+AD075DP_D2M8_235_0105_left_page_18,AD075DP_D2M8_235_0105_left_page,birthplace,Marne,Marne,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_18,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_18,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_18,AD075DP_D2M8_235_0105_left_page,relationship,Ch,ch,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_18,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_18,AD075DP_D2M8_235_0105_left_page,occupation,E dactylo,E dactylo,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_18,AD075DP_D2M8_235_0105_left_page,employer,18376 f,18470 f,True,0.0,2,False,True,True,0.0,7,7,2,0,0,0
+AD075DP_D2M8_235_0105_left_page_19,AD075DP_D2M8_235_0105_left_page,surname,Lanack,Lanack,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_19,AD075DP_D2M8_235_0105_left_page,given_names,Thérèse,Thérèse,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_19,AD075DP_D2M8_235_0105_left_page,birth_year,05,05,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_19,AD075DP_D2M8_235_0105_left_page,birthplace,P C,P.C,True,0.0,1,False,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_19,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_19,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_19,AD075DP_D2M8_235_0105_left_page,relationship,Ch,ch,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_19,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_19,AD075DP_D2M8_235_0105_left_page,occupation,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_19,AD075DP_D2M8_235_0105_left_page,employer,22408 f,22408 f3,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_20,AD075DP_D2M8_235_0105_left_page,surname,Druon,Arnoy,True,0.0,3,False,True,True,0.0,5,5,3,0,0,0
+AD075DP_D2M8_235_0105_left_page_20,AD075DP_D2M8_235_0105_left_page,given_names,Marthe,Marthe,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_20,AD075DP_D2M8_235_0105_left_page,birth_year,84,84,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_20,AD075DP_D2M8_235_0105_left_page,birthplace,M Melle,H Sle,True,0.0,4,False,True,True,0.0,7,7,4,0,0,0
+AD075DP_D2M8_235_0105_left_page_20,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_20,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_20,AD075DP_D2M8_235_0105_left_page,relationship,ch,ch,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_20,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_20,AD075DP_D2M8_235_0105_left_page,occupation,E Institutrice,E Institutrice,True,1.0,0,False,True,True,1.0,14,14,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_20,AD075DP_D2M8_235_0105_left_page,employer,19385 f,19785 f,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_21,AD075DP_D2M8_235_0105_left_page,surname,Sladen,Sladen,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_21,AD075DP_D2M8_235_0105_left_page,given_names,agathe,agathe,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_21,AD075DP_D2M8_235_0105_left_page,birth_year,74,74,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_21,AD075DP_D2M8_235_0105_left_page,birthplace,Angleterre,+ angleterre,True,0.0,3,False,True,True,0.0,10,10,3,0,0,0
+AD075DP_D2M8_235_0105_left_page_21,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_21,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_21,AD075DP_D2M8_235_0105_left_page,relationship,ch,ch,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_21,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_21,AD075DP_D2M8_235_0105_left_page,occupation,E Institutrice,E Institutrice,True,1.0,0,False,True,True,1.0,14,14,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_21,AD075DP_D2M8_235_0105_left_page,employer,19385 f,19785 f,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_22,AD075DP_D2M8_235_0105_left_page,surname,de Att,de Att,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_22,AD075DP_D2M8_235_0105_left_page,given_names,adolphine,adolphine,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_22,AD075DP_D2M8_235_0105_left_page,birth_year,02,02,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_22,AD075DP_D2M8_235_0105_left_page,birthplace,S&O,S&O,True,1.0,0,False,True,True,1.0,3,3,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_22,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_22,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_22,AD075DP_D2M8_235_0105_left_page,relationship,Ch,ch,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_22,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_22,AD075DP_D2M8_235_0105_left_page,occupation,Emp banque,Emp banque,True,1.0,0,False,True,True,1.0,10,10,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_22,AD075DP_D2M8_235_0105_left_page,employer,18377 f,18477 f,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_23,AD075DP_D2M8_235_0105_left_page,surname,Guérin,Guérin,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_23,AD075DP_D2M8_235_0105_left_page,given_names,agathe,agathe,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_23,AD075DP_D2M8_235_0105_left_page,birth_year,86,86,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_23,AD075DP_D2M8_235_0105_left_page,birthplace,Ille et V,Ille V,True,0.0,3,False,True,True,0.0,9,9,3,0,0,0
+AD075DP_D2M8_235_0105_left_page_23,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_23,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_23,AD075DP_D2M8_235_0105_left_page,relationship,Ch,ch,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_23,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_23,AD075DP_D2M8_235_0105_left_page,occupation,E Insitutrice,E Institutrice,True,0.0,1,False,True,True,0.0,13,13,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_23,AD075DP_D2M8_235_0105_left_page,employer,19385 f,19785 f,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_24,AD075DP_D2M8_235_0105_left_page,surname,Joly,Joly,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_24,AD075DP_D2M8_235_0105_left_page,given_names,Odette,odette,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_24,AD075DP_D2M8_235_0105_left_page,birth_year,97,97,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_24,AD075DP_D2M8_235_0105_left_page,birthplace,M Mle,H. Mne,True,0.0,3,False,True,True,0.0,5,5,3,0,0,0
+AD075DP_D2M8_235_0105_left_page_24,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_24,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_24,AD075DP_D2M8_235_0105_left_page,relationship,ch,ch,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_24,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_24,AD075DP_D2M8_235_0105_left_page,occupation,E bureau,E. bureau,True,0.0,1,False,True,True,0.0,8,8,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_24,AD075DP_D2M8_235_0105_left_page,employer,18377 f,18477 f,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_25,AD075DP_D2M8_235_0105_left_page,surname,Masart,Masart,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_25,AD075DP_D2M8_235_0105_left_page,given_names,anna,anna,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_25,AD075DP_D2M8_235_0105_left_page,birth_year,98,98,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_25,AD075DP_D2M8_235_0105_left_page,birthplace,Lot,Lot,True,1.0,0,False,True,True,1.0,3,3,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_25,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_25,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_25,AD075DP_D2M8_235_0105_left_page,relationship,ch,ch,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_25,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_25,AD075DP_D2M8_235_0105_left_page,occupation,E banque,E. banque,True,0.0,1,False,True,True,0.0,8,8,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_25,AD075DP_D2M8_235_0105_left_page,employer,18377 f,18477 f,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_26,AD075DP_D2M8_235_0105_left_page,surname,Hazard,Hazard,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_26,AD075DP_D2M8_235_0105_left_page,given_names,andrée,andrée,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_26,AD075DP_D2M8_235_0105_left_page,birth_year,02,02,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_26,AD075DP_D2M8_235_0105_left_page,birthplace,Meuse,Meuse,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_26,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_26,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_26,AD075DP_D2M8_235_0105_left_page,relationship,Ch,ch,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_26,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_26,AD075DP_D2M8_235_0105_left_page,occupation,E dactylo,E. dactylo,True,0.0,1,False,True,True,0.0,9,9,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_26,AD075DP_D2M8_235_0105_left_page,employer,18376 f,18470 f,True,0.0,2,False,True,True,0.0,7,7,2,0,0,0
+AD075DP_D2M8_235_0105_left_page_27,AD075DP_D2M8_235_0105_left_page,surname,Dussut,Bussut,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_27,AD075DP_D2M8_235_0105_left_page,given_names,Julia,Julia,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_27,AD075DP_D2M8_235_0105_left_page,birth_year,87,87,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_27,AD075DP_D2M8_235_0105_left_page,birthplace,B Py,B Py,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_27,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_27,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_27,AD075DP_D2M8_235_0105_left_page,relationship,ch,ch,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_27,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_27,AD075DP_D2M8_235_0105_left_page,occupation,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_27,AD075DP_D2M8_235_0105_left_page,employer,22408 f,22408 f3,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_28,AD075DP_D2M8_235_0105_left_page,surname,Dussut,Bussut,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_28,AD075DP_D2M8_235_0105_left_page,given_names,Lucie,Lucie,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_28,AD075DP_D2M8_235_0105_left_page,birth_year,87,87,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_28,AD075DP_D2M8_235_0105_left_page,birthplace,B Py,B Py,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_28,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_28,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_28,AD075DP_D2M8_235_0105_left_page,relationship,Ch,ch,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_28,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_28,AD075DP_D2M8_235_0105_left_page,occupation,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_28,AD075DP_D2M8_235_0105_left_page,employer,22408 f,[illegible],True,0.0,11,False,True,True,0.0,7,7,11,0,0,0
+AD075DP_D2M8_235_0105_left_page_29,AD075DP_D2M8_235_0105_left_page,surname,David,David,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_29,AD075DP_D2M8_235_0105_left_page,given_names,Valentine,Valentine,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_29,AD075DP_D2M8_235_0105_left_page,birth_year,90,90,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_235_0105_left_page_29,AD075DP_D2M8_235_0105_left_page,birthplace,Calvados,Calvados,True,1.0,0,False,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_29,AD075DP_D2M8_235_0105_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_29,AD075DP_D2M8_235_0105_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_29,AD075DP_D2M8_235_0105_left_page,relationship,Ch,ch,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_235_0105_left_page_29,AD075DP_D2M8_235_0105_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_29,AD075DP_D2M8_235_0105_left_page,occupation,E dactylo,E dactylo,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_235_0105_left_page_29,AD075DP_D2M8_235_0105_left_page,employer,18376 f,18470 f,True,0.0,2,False,True,True,0.0,7,7,2,0,0,0
+AD075DP_D2M8_266_0030_left_page_00,AD075DP_D2M8_266_0030_left_page,surname,Bouyer,Bouyer,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_00,AD075DP_D2M8_266_0030_left_page,given_names,Henri,Henri,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_00,AD075DP_D2M8_266_0030_left_page,birth_year,78,78,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_00,AD075DP_D2M8_266_0030_left_page,birthplace,Creuse,Creuse,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_00,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_00,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_00,AD075DP_D2M8_266_0030_left_page,relationship,ch,ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_00,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_00,AD075DP_D2M8_266_0030_left_page,occupation,Mecanicien,Mecanicien,True,1.0,0,False,True,True,1.0,10,10,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_00,AD075DP_D2M8_266_0030_left_page,employer,P 12260,12260 P.,True,0.0,5,False,True,True,0.0,7,7,5,0,0,0
+AD075DP_D2M8_266_0030_left_page_01,AD075DP_D2M8_266_0030_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_01,AD075DP_D2M8_266_0030_left_page,given_names,Adèle,adèle,True,0.0,1,False,True,True,0.0,5,5,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_01,AD075DP_D2M8_266_0030_left_page,birth_year,77,77,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_01,AD075DP_D2M8_266_0030_left_page,birthplace,Yonne,Yonne,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_01,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_01,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_01,AD075DP_D2M8_266_0030_left_page,relationship,Ep,Ep.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_01,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_01,AD075DP_D2M8_266_0030_left_page,occupation,Neant,Néant,True,0.0,1,False,True,True,0.0,5,5,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_01,AD075DP_D2M8_266_0030_left_page,employer,12260,12260,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_02,AD075DP_D2M8_266_0030_left_page,surname,Dufossé,Dufossé,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_02,AD075DP_D2M8_266_0030_left_page,given_names,Marcel,Marcel,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_02,AD075DP_D2M8_266_0030_left_page,birth_year,93,93,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_02,AD075DP_D2M8_266_0030_left_page,birthplace,Seine,Seine,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_02,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_02,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_02,AD075DP_D2M8_266_0030_left_page,relationship,ch,ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_02,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_02,AD075DP_D2M8_266_0030_left_page,occupation,Pharmacien,Pharmacien,True,1.0,0,False,True,True,1.0,10,10,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_02,AD075DP_D2M8_266_0030_left_page,employer,19384,19384,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_03,AD075DP_D2M8_266_0030_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_03,AD075DP_D2M8_266_0030_left_page,given_names,Gabrielle,Gabrielle,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_03,AD075DP_D2M8_266_0030_left_page,birth_year,92,92,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_03,AD075DP_D2M8_266_0030_left_page,birthplace,M Melle,M. Mlle,True,0.0,2,False,True,True,0.0,7,7,2,0,0,0
+AD075DP_D2M8_266_0030_left_page_03,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_03,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_03,AD075DP_D2M8_266_0030_left_page,relationship,Ep,Ep.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_03,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_03,AD075DP_D2M8_266_0030_left_page,occupation,Néant,Néant,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_03,AD075DP_D2M8_266_0030_left_page,employer,19384,19384,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_04,AD075DP_D2M8_266_0030_left_page,surname,Elsensohn,Elsensohn,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_04,AD075DP_D2M8_266_0030_left_page,given_names,Henri,Henri,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_04,AD075DP_D2M8_266_0030_left_page,birth_year,80,80,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_04,AD075DP_D2M8_266_0030_left_page,birthplace,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_04,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_04,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_04,AD075DP_D2M8_266_0030_left_page,relationship,ch,ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_04,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_04,AD075DP_D2M8_266_0030_left_page,occupation,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_04,AD075DP_D2M8_266_0030_left_page,employer,abs,abs.,True,0.0,1,False,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_05,AD075DP_D2M8_266_0030_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_05,AD075DP_D2M8_266_0030_left_page,given_names,Reine,Reine,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_05,AD075DP_D2M8_266_0030_left_page,birth_year,73,79,True,0.0,1,False,True,True,0.0,2,2,1,2,2,1
+AD075DP_D2M8_266_0030_left_page_05,AD075DP_D2M8_266_0030_left_page,birthplace,Nievre,Nièvre,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_05,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_05,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_05,AD075DP_D2M8_266_0030_left_page,relationship,Ep,Ep.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_05,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_05,AD075DP_D2M8_266_0030_left_page,occupation,Néant,Néant,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_05,AD075DP_D2M8_266_0030_left_page,employer,22108,[illegible],True,0.0,11,False,True,True,0.0,5,5,11,0,0,0
+AD075DP_D2M8_266_0030_left_page_06,AD075DP_D2M8_266_0030_left_page,surname,Walter,Walter,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_06,AD075DP_D2M8_266_0030_left_page,given_names,Jean,Jean,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_06,AD075DP_D2M8_266_0030_left_page,birth_year,71,71,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_06,AD075DP_D2M8_266_0030_left_page,birthplace,P,P.,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_06,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_06,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_06,AD075DP_D2M8_266_0030_left_page,relationship,ch,ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_06,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_06,AD075DP_D2M8_266_0030_left_page,occupation,Rt Cce,Rt Cie,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_06,AD075DP_D2M8_266_0030_left_page,employer,18374,18574,True,0.0,1,False,True,True,0.0,5,5,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_07,AD075DP_D2M8_266_0030_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_07,AD075DP_D2M8_266_0030_left_page,given_names,Blanche,Blanche,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_07,AD075DP_D2M8_266_0030_left_page,birth_year,83,83,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_07,AD075DP_D2M8_266_0030_left_page,birthplace,P,P,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_07,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_07,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_07,AD075DP_D2M8_266_0030_left_page,relationship,Ep,Ep.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_07,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_07,AD075DP_D2M8_266_0030_left_page,occupation,Néant,Néant,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_07,AD075DP_D2M8_266_0030_left_page,employer,18374,18574,True,0.0,1,False,True,True,0.0,5,5,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_08,AD075DP_D2M8_266_0030_left_page,surname,Claweison,Claveison,True,0.0,1,False,True,True,0.0,9,9,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_08,AD075DP_D2M8_266_0030_left_page,given_names,Marie,Marie,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_08,AD075DP_D2M8_266_0030_left_page,birth_year,72,72,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_08,AD075DP_D2M8_266_0030_left_page,birthplace,Rhône,Rhône,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_08,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_08,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_08,AD075DP_D2M8_266_0030_left_page,relationship,ch,ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_08,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_08,AD075DP_D2M8_266_0030_left_page,occupation,Néant,Néant,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_08,AD075DP_D2M8_266_0030_left_page,employer,,-,True,0.0,0,False,True,False,0.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_09,AD075DP_D2M8_266_0030_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_09,AD075DP_D2M8_266_0030_left_page,given_names,Marcelle,Marcelle,True,1.0,0,False,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_09,AD075DP_D2M8_266_0030_left_page,birth_year,98,98,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_09,AD075DP_D2M8_266_0030_left_page,birthplace,P,P.,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_09,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_09,AD075DP_D2M8_266_0030_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_09,AD075DP_D2M8_266_0030_left_page,relationship,F,F.,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_09,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_09,AD075DP_D2M8_266_0030_left_page,occupation,o Steno Dactylo,o Sténo Dactylo,True,0.0,1,False,True,True,0.0,15,15,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_09,AD075DP_D2M8_266_0030_left_page,employer,18576,18576,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_10,AD075DP_D2M8_266_0030_left_page,surname,Lamblot,Lambelot,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_10,AD075DP_D2M8_266_0030_left_page,given_names,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_10,AD075DP_D2M8_266_0030_left_page,birth_year,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_10,AD075DP_D2M8_266_0030_left_page,birthplace,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_10,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_10,AD075DP_D2M8_266_0030_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_10,AD075DP_D2M8_266_0030_left_page,relationship,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_10,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_10,AD075DP_D2M8_266_0030_left_page,occupation,retraitée,retraitée,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_10,AD075DP_D2M8_266_0030_left_page,employer,abs,abs.,True,0.0,1,False,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_11,AD075DP_D2M8_266_0030_left_page,surname,Henry,Henry,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_11,AD075DP_D2M8_266_0030_left_page,given_names,Paul,Paul,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_11,AD075DP_D2M8_266_0030_left_page,birth_year,73,73,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_11,AD075DP_D2M8_266_0030_left_page,birthplace,Doubs,Doubs,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_11,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_11,AD075DP_D2M8_266_0030_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_11,AD075DP_D2M8_266_0030_left_page,relationship,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_11,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_11,AD075DP_D2M8_266_0030_left_page,occupation,E P S,E. P.S.,True,0.0,3,False,True,True,0.0,5,5,3,0,0,0
+AD075DP_D2M8_266_0030_left_page_11,AD075DP_D2M8_266_0030_left_page,employer,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_12,AD075DP_D2M8_266_0030_left_page,surname,Chirion,Thirion,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_12,AD075DP_D2M8_266_0030_left_page,given_names,Eugène,Eugène,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_12,AD075DP_D2M8_266_0030_left_page,birth_year,70,70,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_12,AD075DP_D2M8_266_0030_left_page,birthplace,I et V,I et V.,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_12,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_12,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_12,AD075DP_D2M8_266_0030_left_page,relationship,ch,ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_12,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_12,AD075DP_D2M8_266_0030_left_page,occupation,E P O,E. P.O.,True,0.0,3,False,True,True,0.0,5,5,3,0,0,0
+AD075DP_D2M8_266_0030_left_page_12,AD075DP_D2M8_266_0030_left_page,employer,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_13,AD075DP_D2M8_266_0030_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_13,AD075DP_D2M8_266_0030_left_page,given_names,Adrienne,adrienne,True,0.0,1,False,True,True,0.0,8,8,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_13,AD075DP_D2M8_266_0030_left_page,birth_year,71,71,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_13,AD075DP_D2M8_266_0030_left_page,birthplace,Hte Vienne,Hte Vienne,True,1.0,0,False,True,True,1.0,10,10,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_13,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_13,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_13,AD075DP_D2M8_266_0030_left_page,relationship,Ep,Ep,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_13,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_13,AD075DP_D2M8_266_0030_left_page,occupation,Néant,Néant,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_13,AD075DP_D2M8_266_0030_left_page,employer,,-,True,0.0,0,False,True,False,0.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_14,AD075DP_D2M8_266_0030_left_page,surname,Blin,Blin,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_14,AD075DP_D2M8_266_0030_left_page,given_names,Robert,Robert,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_14,AD075DP_D2M8_266_0030_left_page,birth_year,92,92,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_14,AD075DP_D2M8_266_0030_left_page,birthplace,Sarthe,Sarthe,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_14,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_14,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_14,AD075DP_D2M8_266_0030_left_page,relationship,ch,ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_14,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_14,AD075DP_D2M8_266_0030_left_page,occupation,Rt Cce,Rt Cie,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_14,AD075DP_D2M8_266_0030_left_page,employer,18374,18574,True,0.0,1,False,True,True,0.0,5,5,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_15,AD075DP_D2M8_266_0030_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_15,AD075DP_D2M8_266_0030_left_page,given_names,Suzanne,Suzanne,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_15,AD075DP_D2M8_266_0030_left_page,birth_year,92,92,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_15,AD075DP_D2M8_266_0030_left_page,birthplace,P,P.,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_15,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_15,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_15,AD075DP_D2M8_266_0030_left_page,relationship,Ep,Ep.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_15,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_15,AD075DP_D2M8_266_0030_left_page,occupation,Néant,Néant,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_15,AD075DP_D2M8_266_0030_left_page,employer,18374,18574,True,0.0,1,False,True,True,0.0,5,5,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_16,AD075DP_D2M8_266_0030_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_16,AD075DP_D2M8_266_0030_left_page,given_names,Pierre,Pierre,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_16,AD075DP_D2M8_266_0030_left_page,birth_year,20,20,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_16,AD075DP_D2M8_266_0030_left_page,birthplace,P,P.,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_16,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_16,AD075DP_D2M8_266_0030_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_16,AD075DP_D2M8_266_0030_left_page,relationship,F,F,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_16,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_16,AD075DP_D2M8_266_0030_left_page,occupation,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_16,AD075DP_D2M8_266_0030_left_page,employer,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_17,AD075DP_D2M8_266_0030_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_17,AD075DP_D2M8_266_0030_left_page,given_names,Micheline,Micheline,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_17,AD075DP_D2M8_266_0030_left_page,birth_year,4:25,4/25,True,0.0,1,False,True,True,0.0,4,4,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_17,AD075DP_D2M8_266_0030_left_page,birthplace,P,P.,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_17,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_17,AD075DP_D2M8_266_0030_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_17,AD075DP_D2M8_266_0030_left_page,relationship,F,F,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_17,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_17,AD075DP_D2M8_266_0030_left_page,occupation,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_17,AD075DP_D2M8_266_0030_left_page,employer,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_18,AD075DP_D2M8_266_0030_left_page,surname,Cury,Guzy,True,0.0,2,False,True,True,0.0,4,4,2,0,0,0
+AD075DP_D2M8_266_0030_left_page_18,AD075DP_D2M8_266_0030_left_page,given_names,Georgette,Georgette,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_18,AD075DP_D2M8_266_0030_left_page,birth_year,60,60,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_18,AD075DP_D2M8_266_0030_left_page,birthplace,Ch Infre,Ch. Infre,True,0.0,1,False,True,True,0.0,8,8,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_18,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_18,AD075DP_D2M8_266_0030_left_page,marital_status,V,V,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_18,AD075DP_D2M8_266_0030_left_page,relationship,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_18,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_18,AD075DP_D2M8_266_0030_left_page,occupation,o dentelle,o. dentelle,True,0.0,1,False,True,True,0.0,10,10,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_18,AD075DP_D2M8_266_0030_left_page,employer,9133,9153,True,0.0,1,False,True,True,0.0,4,4,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_19,AD075DP_D2M8_266_0030_left_page,surname,Chaussade,Chaussade,True,1.0,0,False,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_19,AD075DP_D2M8_266_0030_left_page,given_names,Isidore,Isidore,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_19,AD075DP_D2M8_266_0030_left_page,birth_year,83,83,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_19,AD075DP_D2M8_266_0030_left_page,birthplace,P,P.,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_19,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_19,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_19,AD075DP_D2M8_266_0030_left_page,relationship,ch,ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_19,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_19,AD075DP_D2M8_266_0030_left_page,occupation,o Machiniste,o Machiniste,True,1.0,0,False,True,True,1.0,12,12,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_19,AD075DP_D2M8_266_0030_left_page,employer,12222,12222,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_20,AD075DP_D2M8_266_0030_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_20,AD075DP_D2M8_266_0030_left_page,given_names,Raymonde,Raymonde,True,1.0,0,False,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_20,AD075DP_D2M8_266_0030_left_page,birth_year,97,97,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_20,AD075DP_D2M8_266_0030_left_page,birthplace,P,P.,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_20,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_20,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_20,AD075DP_D2M8_266_0030_left_page,relationship,Ep,Ep.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_20,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_20,AD075DP_D2M8_266_0030_left_page,occupation,Neant,Néant,True,0.0,1,False,True,True,0.0,5,5,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_20,AD075DP_D2M8_266_0030_left_page,employer,12222,12222,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_21,AD075DP_D2M8_266_0030_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_21,AD075DP_D2M8_266_0030_left_page,given_names,Maurice,Maurice,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_21,AD075DP_D2M8_266_0030_left_page,birth_year,20,20,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_21,AD075DP_D2M8_266_0030_left_page,birthplace,P,P.,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_21,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_21,AD075DP_D2M8_266_0030_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_21,AD075DP_D2M8_266_0030_left_page,relationship,F,F,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_21,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_21,AD075DP_D2M8_266_0030_left_page,occupation,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_21,AD075DP_D2M8_266_0030_left_page,employer,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_22,AD075DP_D2M8_266_0030_left_page,surname,Falconet,Falconet,True,1.0,0,False,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_22,AD075DP_D2M8_266_0030_left_page,given_names,charles,Charles,True,0.0,1,False,True,True,0.0,7,7,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_22,AD075DP_D2M8_266_0030_left_page,birth_year,85,85,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_22,AD075DP_D2M8_266_0030_left_page,birthplace,P,P.,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_22,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_22,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_22,AD075DP_D2M8_266_0030_left_page,relationship,ch,ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_22,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_22,AD075DP_D2M8_266_0030_left_page,occupation,Ingénieur,Ingenieur,True,0.0,1,False,True,True,0.0,9,9,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_22,AD075DP_D2M8_266_0030_left_page,employer,12174,18174,True,0.0,1,False,True,True,0.0,5,5,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_23,AD075DP_D2M8_266_0030_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_23,AD075DP_D2M8_266_0030_left_page,given_names,Marguerite,Marguerite,True,1.0,0,False,True,True,1.0,10,10,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_23,AD075DP_D2M8_266_0030_left_page,birth_year,87,87,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_23,AD075DP_D2M8_266_0030_left_page,birthplace,I et L,I et L.,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_23,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_23,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_23,AD075DP_D2M8_266_0030_left_page,relationship,Ep,Ep.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_23,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_23,AD075DP_D2M8_266_0030_left_page,occupation,E Banque,E Banque,True,1.0,0,False,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_23,AD075DP_D2M8_266_0030_left_page,employer,18377,18517,True,0.0,2,False,True,True,0.0,5,5,2,0,0,0
+AD075DP_D2M8_266_0030_left_page_24,AD075DP_D2M8_266_0030_left_page,surname,Lenoir,Lenoir,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_24,AD075DP_D2M8_266_0030_left_page,given_names,Rejane,Rejane,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_24,AD075DP_D2M8_266_0030_left_page,birth_year,07,07,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_24,AD075DP_D2M8_266_0030_left_page,birthplace,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_24,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_24,AD075DP_D2M8_266_0030_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_24,AD075DP_D2M8_266_0030_left_page,relationship,B f,B.f.,True,0.0,2,False,True,True,0.0,3,3,2,0,0,0
+AD075DP_D2M8_266_0030_left_page_24,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_24,AD075DP_D2M8_266_0030_left_page,occupation,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_24,AD075DP_D2M8_266_0030_left_page,employer,abs,abs.,True,0.0,1,False,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_25,AD075DP_D2M8_266_0030_left_page,surname,Allard,Allard.,True,0.0,1,False,True,True,0.0,6,6,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_25,AD075DP_D2M8_266_0030_left_page,given_names,Augustine,augustine,True,0.0,1,False,True,True,0.0,9,9,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_25,AD075DP_D2M8_266_0030_left_page,birth_year,75,75,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_25,AD075DP_D2M8_266_0030_left_page,birthplace,Seine,Seine,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_25,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_25,AD075DP_D2M8_266_0030_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_25,AD075DP_D2M8_266_0030_left_page,relationship,ch,ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_25,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_25,AD075DP_D2M8_266_0030_left_page,occupation,o teinturière,o Teinturière,True,0.0,1,False,True,True,0.0,13,13,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_25,AD075DP_D2M8_266_0030_left_page,employer,8121,8121,True,1.0,0,False,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_26,AD075DP_D2M8_266_0030_left_page,surname,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_26,AD075DP_D2M8_266_0030_left_page,given_names,Germaine,Germaine,True,1.0,0,False,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_26,AD075DP_D2M8_266_0030_left_page,birth_year,95,95,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_26,AD075DP_D2M8_266_0030_left_page,birthplace,d°,d°,True,1.0,0,False,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_26,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_26,AD075DP_D2M8_266_0030_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_26,AD075DP_D2M8_266_0030_left_page,relationship,F,F.,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_26,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_26,AD075DP_D2M8_266_0030_left_page,occupation,Rept,Rept.,True,0.0,1,False,True,True,0.0,4,4,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_26,AD075DP_D2M8_266_0030_left_page,employer,18374,18574,True,0.0,1,False,True,True,0.0,5,5,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_27,AD075DP_D2M8_266_0030_left_page,surname,Bichon,Bichon,True,1.0,0,False,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_27,AD075DP_D2M8_266_0030_left_page,given_names,Mathilde,Mathilde,True,1.0,0,False,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_27,AD075DP_D2M8_266_0030_left_page,birth_year,88,88,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_27,AD075DP_D2M8_266_0030_left_page,birthplace,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_27,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_27,AD075DP_D2M8_266_0030_left_page,marital_status,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_27,AD075DP_D2M8_266_0030_left_page,relationship,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_27,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_27,AD075DP_D2M8_266_0030_left_page,occupation,Infirmière,Infirmière,True,1.0,0,False,True,True,1.0,10,10,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_27,AD075DP_D2M8_266_0030_left_page,employer,20392,26572,True,0.0,3,False,True,True,0.0,5,5,3,0,0,0
+AD075DP_D2M8_266_0030_left_page_28,AD075DP_D2M8_266_0030_left_page,surname,Rabinovitch,Rabinovitch,True,1.0,0,False,True,True,1.0,11,11,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_28,AD075DP_D2M8_266_0030_left_page,given_names,Issac,Issac,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_28,AD075DP_D2M8_266_0030_left_page,birth_year,66,66,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_28,AD075DP_D2M8_266_0030_left_page,birthplace,Pologne,Pologne,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_28,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_28,AD075DP_D2M8_266_0030_left_page,marital_status,V,V.,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_28,AD075DP_D2M8_266_0030_left_page,relationship,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_28,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_28,AD075DP_D2M8_266_0030_left_page,occupation,Mec dent,Mec. dent,True,0.0,1,False,True,True,0.0,8,8,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_28,AD075DP_D2M8_266_0030_left_page,employer,20395,20395,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_29,AD075DP_D2M8_266_0030_left_page,surname,David,David,True,1.0,0,False,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_29,AD075DP_D2M8_266_0030_left_page,given_names,Gustave,Gustave,True,1.0,0,False,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_29,AD075DP_D2M8_266_0030_left_page,birth_year,67,67,True,1.0,0,False,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_266_0030_left_page_29,AD075DP_D2M8_266_0030_left_page,birthplace,P,P.,True,0.0,1,False,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_29,AD075DP_D2M8_266_0030_left_page,nationality,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_29,AD075DP_D2M8_266_0030_left_page,marital_status,M,M,True,1.0,0,False,True,True,1.0,1,1,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_29,AD075DP_D2M8_266_0030_left_page,relationship,ch,ch.,True,0.0,1,False,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_266_0030_left_page_29,AD075DP_D2M8_266_0030_left_page,education,,,True,1.0,0,False,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_266_0030_left_page_29,AD075DP_D2M8_266_0030_left_page,occupation,E de B,Gde B.,True,0.0,3,False,True,True,0.0,6,6,3,0,0,0
+AD075DP_D2M8_266_0030_left_page_29,AD075DP_D2M8_266_0030_left_page,employer,18377,18317,True,0.0,1,False,True,True,0.0,5,5,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_00,AD075DP_D2M8_223_0430_left_page,surname,Garnier,Garnier,False,NaN,0,True,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_00,AD075DP_D2M8_223_0430_left_page,given_names,Marie,Marie,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_00,AD075DP_D2M8_223_0430_left_page,birth_year,02,02,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_00,AD075DP_D2M8_223_0430_left_page,birthplace,Hte Savoie,Hte Savoie,False,NaN,0,True,True,True,1.0,10,10,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_00,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_00,AD075DP_D2M8_223_0430_left_page,marital_status,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_00,AD075DP_D2M8_223_0430_left_page,relationship,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_00,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_00,AD075DP_D2M8_223_0430_left_page,occupation,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_00,AD075DP_D2M8_223_0430_left_page,employer,22408,22608,False,NaN,0,True,True,True,0.0,5,5,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_01,AD075DP_D2M8_223_0430_left_page,surname,Deinaizière,Denaizière,False,NaN,0,True,True,True,0.0,11,11,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_01,AD075DP_D2M8_223_0430_left_page,given_names,Antoine,Antoine,False,NaN,0,True,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_01,AD075DP_D2M8_223_0430_left_page,birth_year,76,76,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_01,AD075DP_D2M8_223_0430_left_page,birthplace,H d'Or,C. d'Or,False,NaN,0,True,True,True,0.0,6,6,2,0,0,0
+AD075DP_D2M8_223_0430_left_page_01,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_01,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_01,AD075DP_D2M8_223_0430_left_page,relationship,ch,ch.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_01,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_01,AD075DP_D2M8_223_0430_left_page,occupation,peint bât,peint. bât.,False,NaN,0,True,True,True,0.0,9,9,2,0,0,0
+AD075DP_D2M8_223_0430_left_page_01,AD075DP_D2M8_223_0430_left_page,employer,14331,14331,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_02,AD075DP_D2M8_223_0430_left_page,surname,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_02,AD075DP_D2M8_223_0430_left_page,given_names,Caroline,Caroline,False,NaN,0,True,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_02,AD075DP_D2M8_223_0430_left_page,birth_year,79,79,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_02,AD075DP_D2M8_223_0430_left_page,birthplace,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_02,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_02,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_02,AD075DP_D2M8_223_0430_left_page,relationship,ép,ép.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_02,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_02,AD075DP_D2M8_223_0430_left_page,occupation,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_02,AD075DP_D2M8_223_0430_left_page,employer,14331,14331,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_03,AD075DP_D2M8_223_0430_left_page,surname,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_03,AD075DP_D2M8_223_0430_left_page,given_names,Lucienne,Lucienne,False,NaN,0,True,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_03,AD075DP_D2M8_223_0430_left_page,birth_year,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_03,AD075DP_D2M8_223_0430_left_page,birthplace,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_03,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_03,AD075DP_D2M8_223_0430_left_page,marital_status,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_03,AD075DP_D2M8_223_0430_left_page,relationship,f,f.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_03,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_03,AD075DP_D2M8_223_0430_left_page,occupation,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_03,AD075DP_D2M8_223_0430_left_page,employer,abs,abs.,False,NaN,0,True,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_04,AD075DP_D2M8_223_0430_left_page,surname,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_04,AD075DP_D2M8_223_0430_left_page,given_names,Yvonne,Yvonne,False,NaN,0,True,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_04,AD075DP_D2M8_223_0430_left_page,birth_year,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_04,AD075DP_D2M8_223_0430_left_page,birthplace,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_04,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_04,AD075DP_D2M8_223_0430_left_page,marital_status,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_04,AD075DP_D2M8_223_0430_left_page,relationship,f,f.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_04,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_04,AD075DP_D2M8_223_0430_left_page,occupation,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_04,AD075DP_D2M8_223_0430_left_page,employer,abs,abs.,False,NaN,0,True,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_05,AD075DP_D2M8_223_0430_left_page,surname,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_05,AD075DP_D2M8_223_0430_left_page,given_names,André,André,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_05,AD075DP_D2M8_223_0430_left_page,birth_year,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_05,AD075DP_D2M8_223_0430_left_page,birthplace,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_05,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_05,AD075DP_D2M8_223_0430_left_page,marital_status,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_05,AD075DP_D2M8_223_0430_left_page,relationship,f,f.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_05,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_05,AD075DP_D2M8_223_0430_left_page,occupation,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_05,AD075DP_D2M8_223_0430_left_page,employer,abs,abs.,False,NaN,0,True,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_06,AD075DP_D2M8_223_0430_left_page,surname,Aunay,Aunay,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_06,AD075DP_D2M8_223_0430_left_page,given_names,Louis,Louis,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_06,AD075DP_D2M8_223_0430_left_page,birth_year,90,90,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_06,AD075DP_D2M8_223_0430_left_page,birthplace,Orne,Orne,False,NaN,0,True,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_06,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_06,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_06,AD075DP_D2M8_223_0430_left_page,relationship,ch,ch.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_06,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_06,AD075DP_D2M8_223_0430_left_page,occupation,employé,employé,False,NaN,0,True,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_06,AD075DP_D2M8_223_0430_left_page,employer,Réaumur 18377,18377 Réaumur,False,NaN,0,True,True,True,0.0,13,13,12,0,0,0
+AD075DP_D2M8_223_0430_left_page_07,AD075DP_D2M8_223_0430_left_page,surname,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_07,AD075DP_D2M8_223_0430_left_page,given_names,Madeleine,Madeleine,False,NaN,0,True,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_07,AD075DP_D2M8_223_0430_left_page,birth_year,88,98,False,NaN,0,True,True,True,0.0,2,2,1,2,2,1
+AD075DP_D2M8_223_0430_left_page_07,AD075DP_D2M8_223_0430_left_page,birthplace,Calvados,Calvados,False,NaN,0,True,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_07,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_07,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_07,AD075DP_D2M8_223_0430_left_page,relationship,ép,ép.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_07,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_07,AD075DP_D2M8_223_0430_left_page,occupation,concierge,concierge,False,NaN,0,True,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_07,AD075DP_D2M8_223_0430_left_page,employer,21399,81399,False,NaN,0,True,True,True,0.0,5,5,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_08,AD075DP_D2M8_223_0430_left_page,surname,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_08,AD075DP_D2M8_223_0430_left_page,given_names,Pierre,Pierre,False,NaN,0,True,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_08,AD075DP_D2M8_223_0430_left_page,birth_year,17,17,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_08,AD075DP_D2M8_223_0430_left_page,birthplace,Gironde,Gironde,False,NaN,0,True,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_08,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_08,AD075DP_D2M8_223_0430_left_page,marital_status,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_08,AD075DP_D2M8_223_0430_left_page,relationship,f,f.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_08,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_08,AD075DP_D2M8_223_0430_left_page,occupation,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_08,AD075DP_D2M8_223_0430_left_page,employer,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_09,AD075DP_D2M8_223_0430_left_page,surname,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_09,AD075DP_D2M8_223_0430_left_page,given_names,Roger,Roger,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_09,AD075DP_D2M8_223_0430_left_page,birth_year,19,19,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_09,AD075DP_D2M8_223_0430_left_page,birthplace,Orne,Orne,False,NaN,0,True,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_09,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_09,AD075DP_D2M8_223_0430_left_page,marital_status,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_09,AD075DP_D2M8_223_0430_left_page,relationship,f,f.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_09,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_09,AD075DP_D2M8_223_0430_left_page,occupation,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_09,AD075DP_D2M8_223_0430_left_page,employer,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_10,AD075DP_D2M8_223_0430_left_page,surname,Mercaloris,Mercatoris,False,NaN,0,True,True,True,0.0,10,10,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_10,AD075DP_D2M8_223_0430_left_page,given_names,Vital,Vital,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_10,AD075DP_D2M8_223_0430_left_page,birth_year,82,82,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_10,AD075DP_D2M8_223_0430_left_page,birthplace,Belgique,Belgique,False,NaN,0,True,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_10,AD075DP_D2M8_223_0430_left_page,nationality,Belge,Belge,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_10,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_10,AD075DP_D2M8_223_0430_left_page,relationship,ch,ch.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_10,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_10,AD075DP_D2M8_223_0430_left_page,occupation,limonadier p,limonadier,False,NaN,0,True,True,True,0.0,12,12,2,0,0,0
+AD075DP_D2M8_223_0430_left_page_10,AD075DP_D2M8_223_0430_left_page,employer,18371,18371 p.,False,NaN,0,True,True,True,0.0,5,5,3,0,0,0
+AD075DP_D2M8_223_0430_left_page_11,AD075DP_D2M8_223_0430_left_page,surname,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_11,AD075DP_D2M8_223_0430_left_page,given_names,Mélanie,Mélanie,False,NaN,0,True,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_11,AD075DP_D2M8_223_0430_left_page,birth_year,80,80,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_11,AD075DP_D2M8_223_0430_left_page,birthplace,Yonne,Yonne,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_11,AD075DP_D2M8_223_0430_left_page,nationality,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_11,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_11,AD075DP_D2M8_223_0430_left_page,relationship,ép,ép.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_11,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_11,AD075DP_D2M8_223_0430_left_page,occupation,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_11,AD075DP_D2M8_223_0430_left_page,employer,18371,18371,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_12,AD075DP_D2M8_223_0430_left_page,surname,Maire,Maire,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_12,AD075DP_D2M8_223_0430_left_page,given_names,Julie,Julie,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_12,AD075DP_D2M8_223_0430_left_page,birth_year,42,42,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_12,AD075DP_D2M8_223_0430_left_page,birthplace,P,P.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_12,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_12,AD075DP_D2M8_223_0430_left_page,marital_status,v,v.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_12,AD075DP_D2M8_223_0430_left_page,relationship,b m,b.m.,False,NaN,0,True,True,True,0.0,3,3,2,0,0,0
+AD075DP_D2M8_223_0430_left_page_12,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_12,AD075DP_D2M8_223_0430_left_page,occupation,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_12,AD075DP_D2M8_223_0430_left_page,employer,,18371,False,NaN,0,True,True,False,0.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_13,AD075DP_D2M8_223_0430_left_page,surname,Berthelier,Berthelier,False,NaN,0,True,True,True,1.0,10,10,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_13,AD075DP_D2M8_223_0430_left_page,given_names,Alice,Alice,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_13,AD075DP_D2M8_223_0430_left_page,birth_year,09,09,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_13,AD075DP_D2M8_223_0430_left_page,birthplace,Yonne,Yonne,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_13,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_13,AD075DP_D2M8_223_0430_left_page,marital_status,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_13,AD075DP_D2M8_223_0430_left_page,relationship,empl,empl.,False,NaN,0,True,True,True,0.0,4,4,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_13,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_13,AD075DP_D2M8_223_0430_left_page,occupation,employée,employée,False,NaN,0,True,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_13,AD075DP_D2M8_223_0430_left_page,employer,Mercator 18377,Mercatoris,False,NaN,0,True,True,True,0.0,14,14,6,0,0,0
+AD075DP_D2M8_223_0430_left_page_14,AD075DP_D2M8_223_0430_left_page,surname,Chaize,Chaize,False,NaN,0,True,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_14,AD075DP_D2M8_223_0430_left_page,given_names,Etienne,Etienne,False,NaN,0,True,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_14,AD075DP_D2M8_223_0430_left_page,birth_year,72,72,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_14,AD075DP_D2M8_223_0430_left_page,birthplace,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_14,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_14,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_14,AD075DP_D2M8_223_0430_left_page,relationship,ch,ch.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_14,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_14,AD075DP_D2M8_223_0430_left_page,occupation,coiffeur,coiffeur,False,NaN,0,True,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_14,AD075DP_D2M8_223_0430_left_page,employer,Baimrais 20390,20390 Baumrau,False,NaN,0,True,True,True,0.0,14,14,14,0,0,0
+AD075DP_D2M8_223_0430_left_page_15,AD075DP_D2M8_223_0430_left_page,surname,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_15,AD075DP_D2M8_223_0430_left_page,given_names,Lucie,Lucie,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_15,AD075DP_D2M8_223_0430_left_page,birth_year,71,71,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_15,AD075DP_D2M8_223_0430_left_page,birthplace,Tarn et Gne,Tarn-et-Gne,False,NaN,0,True,True,True,0.0,11,11,2,0,0,0
+AD075DP_D2M8_223_0430_left_page_15,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_15,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_15,AD075DP_D2M8_223_0430_left_page,relationship,ép,ép.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_15,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_15,AD075DP_D2M8_223_0430_left_page,occupation,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_15,AD075DP_D2M8_223_0430_left_page,employer,,-,False,NaN,0,True,True,False,0.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_16,AD075DP_D2M8_223_0430_left_page,surname,Blanc,Blanc,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_16,AD075DP_D2M8_223_0430_left_page,given_names,Théophile,Théophile,False,NaN,0,True,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_16,AD075DP_D2M8_223_0430_left_page,birth_year,73,73,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_16,AD075DP_D2M8_223_0430_left_page,birthplace,Savoie,Savoie,False,NaN,0,True,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_16,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_16,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_16,AD075DP_D2M8_223_0430_left_page,relationship,ch,ch.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_16,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_16,AD075DP_D2M8_223_0430_left_page,occupation,gon mag,gen mag.,False,NaN,0,True,True,True,0.0,7,7,2,0,0,0
+AD075DP_D2M8_223_0430_left_page_16,AD075DP_D2M8_223_0430_left_page,employer,Cabet 18352,18352 Cabet,False,NaN,0,True,True,True,0.0,11,11,10,0,0,0
+AD075DP_D2M8_223_0430_left_page_17,AD075DP_D2M8_223_0430_left_page,surname,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_17,AD075DP_D2M8_223_0430_left_page,given_names,Marie,Marie,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_17,AD075DP_D2M8_223_0430_left_page,birth_year,75,75,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_17,AD075DP_D2M8_223_0430_left_page,birthplace,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_17,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_17,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_17,AD075DP_D2M8_223_0430_left_page,relationship,ép,ép.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_17,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_17,AD075DP_D2M8_223_0430_left_page,occupation,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_17,AD075DP_D2M8_223_0430_left_page,employer,18352,18352,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_18,AD075DP_D2M8_223_0430_left_page,surname,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_18,AD075DP_D2M8_223_0430_left_page,given_names,Agathe,Agathe,False,NaN,0,True,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_18,AD075DP_D2M8_223_0430_left_page,birth_year,06,06,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_18,AD075DP_D2M8_223_0430_left_page,birthplace,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_18,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_18,AD075DP_D2M8_223_0430_left_page,marital_status,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_18,AD075DP_D2M8_223_0430_left_page,relationship,f,f.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_18,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_18,AD075DP_D2M8_223_0430_left_page,occupation,fourreuse,fourreuse,False,NaN,0,True,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_18,AD075DP_D2M8_223_0430_left_page,employer,Pélon 10152,10152 Peton,False,NaN,0,True,True,True,0.0,11,11,10,0,0,0
+AD075DP_D2M8_223_0430_left_page_19,AD075DP_D2M8_223_0430_left_page,surname,Devalière,Levalière,False,NaN,0,True,True,True,0.0,9,9,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_19,AD075DP_D2M8_223_0430_left_page,given_names,Claire,Claire,False,NaN,0,True,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_19,AD075DP_D2M8_223_0430_left_page,birth_year,83,83,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_19,AD075DP_D2M8_223_0430_left_page,birthplace,Luxembourg,Luxembourg,False,NaN,0,True,True,True,1.0,10,10,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_19,AD075DP_D2M8_223_0430_left_page,nationality,nat,nat.,False,NaN,0,True,True,True,0.0,3,3,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_19,AD075DP_D2M8_223_0430_left_page,marital_status,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_19,AD075DP_D2M8_223_0430_left_page,relationship,ch,ch.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_19,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_19,AD075DP_D2M8_223_0430_left_page,occupation,employée,employée,False,NaN,0,True,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_19,AD075DP_D2M8_223_0430_left_page,employer,café Mad 18373,18313 Cafe Mad,False,NaN,0,True,True,True,0.0,14,14,13,0,0,0
+AD075DP_D2M8_223_0430_left_page_20,AD075DP_D2M8_223_0430_left_page,surname,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_20,AD075DP_D2M8_223_0430_left_page,given_names,Raymond,Raymond,False,NaN,0,True,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_20,AD075DP_D2M8_223_0430_left_page,birth_year,06,06,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_20,AD075DP_D2M8_223_0430_left_page,birthplace,P,P.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_20,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_20,AD075DP_D2M8_223_0430_left_page,marital_status,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_20,AD075DP_D2M8_223_0430_left_page,relationship,f,f.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_20,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_20,AD075DP_D2M8_223_0430_left_page,occupation,outilleur,outilleur,False,NaN,0,True,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_20,AD075DP_D2M8_223_0430_left_page,employer,Echaille 12212,13212 Echaill,False,NaN,0,True,True,True,0.0,14,14,13,0,0,0
+AD075DP_D2M8_223_0430_left_page_21,AD075DP_D2M8_223_0430_left_page,surname,Bernardin,Bernardin,False,NaN,0,True,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_21,AD075DP_D2M8_223_0430_left_page,given_names,René,René,False,NaN,0,True,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_21,AD075DP_D2M8_223_0430_left_page,birth_year,91,91,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_21,AD075DP_D2M8_223_0430_left_page,birthplace,P,P.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_21,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_21,AD075DP_D2M8_223_0430_left_page,marital_status,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_21,AD075DP_D2M8_223_0430_left_page,relationship,ch,ch.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_21,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_21,AD075DP_D2M8_223_0430_left_page,occupation,empl banque,empl. banque,False,NaN,0,True,True,True,0.0,11,11,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_21,AD075DP_D2M8_223_0430_left_page,employer,Vernes 18377,18377 Vernes,False,NaN,0,True,True,True,0.0,12,12,12,0,0,0
+AD075DP_D2M8_223_0430_left_page_22,AD075DP_D2M8_223_0430_left_page,surname,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_22,AD075DP_D2M8_223_0430_left_page,given_names,Germaine,Germaine,False,NaN,0,True,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_22,AD075DP_D2M8_223_0430_left_page,birth_year,95,95,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_22,AD075DP_D2M8_223_0430_left_page,birthplace,Italie,Italie,False,NaN,0,True,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_22,AD075DP_D2M8_223_0430_left_page,nationality,Italienne,Italienne,False,NaN,0,True,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_22,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_22,AD075DP_D2M8_223_0430_left_page,relationship,ép,ép.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_22,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_22,AD075DP_D2M8_223_0430_left_page,occupation,chapelière,chapelière,False,NaN,0,True,True,True,1.0,10,10,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_22,AD075DP_D2M8_223_0430_left_page,employer,Manaire 9139,9139 [illegible],False,NaN,0,True,True,True,0.0,12,12,14,0,0,0
+AD075DP_D2M8_223_0430_left_page_23,AD075DP_D2M8_223_0430_left_page,surname,Heugé,Heugé,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_23,AD075DP_D2M8_223_0430_left_page,given_names,Alfred,Alfred,False,NaN,0,True,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_23,AD075DP_D2M8_223_0430_left_page,birth_year,97,97,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_23,AD075DP_D2M8_223_0430_left_page,birthplace,S et O,S. et O.,False,NaN,0,True,True,True,0.0,6,6,2,0,0,0
+AD075DP_D2M8_223_0430_left_page_23,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_23,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_23,AD075DP_D2M8_223_0430_left_page,relationship,ch,ch.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_23,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_23,AD075DP_D2M8_223_0430_left_page,occupation,dessinat,dessinat.,False,NaN,0,True,True,True,0.0,8,8,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_23,AD075DP_D2M8_223_0430_left_page,employer,Baudet 14322,14372 Baudet,False,NaN,0,True,True,True,0.0,12,12,12,0,0,0
+AD075DP_D2M8_223_0430_left_page_24,AD075DP_D2M8_223_0430_left_page,surname,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_24,AD075DP_D2M8_223_0430_left_page,given_names,Suzanne,Suzanne,False,NaN,0,True,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_24,AD075DP_D2M8_223_0430_left_page,birth_year,95,95,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_24,AD075DP_D2M8_223_0430_left_page,birthplace,Vendée,Vendée,False,NaN,0,True,True,True,1.0,6,6,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_24,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_24,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_24,AD075DP_D2M8_223_0430_left_page,relationship,ép,ép.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_24,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_24,AD075DP_D2M8_223_0430_left_page,occupation,empl Bque,empl. Bque,False,NaN,0,True,True,True,0.0,9,9,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_24,AD075DP_D2M8_223_0430_left_page,employer,Cité 18377,18371 Cité,False,NaN,0,True,True,True,0.0,10,10,10,0,0,0
+AD075DP_D2M8_223_0430_left_page_25,AD075DP_D2M8_223_0430_left_page,surname,Decroix,Decroix,False,NaN,0,True,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_25,AD075DP_D2M8_223_0430_left_page,given_names,Jean,Jean,False,NaN,0,True,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_25,AD075DP_D2M8_223_0430_left_page,birth_year,85,75,False,NaN,0,True,True,True,0.0,2,2,1,2,2,1
+AD075DP_D2M8_223_0430_left_page_25,AD075DP_D2M8_223_0430_left_page,birthplace,Eure,Eure,False,NaN,0,True,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_25,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_25,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_25,AD075DP_D2M8_223_0430_left_page,relationship,ch,ch.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_25,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_25,AD075DP_D2M8_223_0430_left_page,occupation,employé,employé,False,NaN,0,True,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_25,AD075DP_D2M8_223_0430_left_page,employer,D R 18377,18377 D.R.,False,NaN,0,True,True,True,0.0,9,9,9,0,0,0
+AD075DP_D2M8_223_0430_left_page_26,AD075DP_D2M8_223_0430_left_page,surname,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_26,AD075DP_D2M8_223_0430_left_page,given_names,Lucie,Lucie,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_26,AD075DP_D2M8_223_0430_left_page,birth_year,88,88,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_26,AD075DP_D2M8_223_0430_left_page,birthplace,Meuse,Meuse,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_26,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_26,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_26,AD075DP_D2M8_223_0430_left_page,relationship,ép,ép.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_26,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_26,AD075DP_D2M8_223_0430_left_page,occupation,repasseuse,repasseuse,False,NaN,0,True,True,True,1.0,10,10,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_26,AD075DP_D2M8_223_0430_left_page,employer,Leclerc 9133,9135 Leclerc,False,NaN,0,True,True,True,0.0,12,12,10,0,0,0
+AD075DP_D2M8_223_0430_left_page_27,AD075DP_D2M8_223_0430_left_page,surname,Beaubois,Beaubois,False,NaN,0,True,True,True,1.0,8,8,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_27,AD075DP_D2M8_223_0430_left_page,given_names,Delphin,Delphin,False,NaN,0,True,True,True,1.0,7,7,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_27,AD075DP_D2M8_223_0430_left_page,birth_year,92,92,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_27,AD075DP_D2M8_223_0430_left_page,birthplace,Cher,Cher,False,NaN,0,True,True,True,1.0,4,4,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_27,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_27,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_27,AD075DP_D2M8_223_0430_left_page,relationship,ch,ch.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_27,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_27,AD075DP_D2M8_223_0430_left_page,occupation,chauf auto,chauf. auto,False,NaN,0,True,True,True,0.0,10,10,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_27,AD075DP_D2M8_223_0430_left_page,employer,Potin 17456,11458 Potin,False,NaN,0,True,True,True,0.0,11,11,10,0,0,0
+AD075DP_D2M8_223_0430_left_page_28,AD075DP_D2M8_223_0430_left_page,surname,d°,d°,False,NaN,0,True,True,True,1.0,2,2,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_28,AD075DP_D2M8_223_0430_left_page,given_names,Marie,Marie,False,NaN,0,True,True,True,1.0,5,5,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_28,AD075DP_D2M8_223_0430_left_page,birth_year,90,90,False,NaN,0,True,True,True,1.0,2,2,0,2,2,0
+AD075DP_D2M8_223_0430_left_page_28,AD075DP_D2M8_223_0430_left_page,birthplace,P de C,P. de C.,False,NaN,0,True,True,True,0.0,6,6,2,0,0,0
+AD075DP_D2M8_223_0430_left_page_28,AD075DP_D2M8_223_0430_left_page,nationality,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_28,AD075DP_D2M8_223_0430_left_page,marital_status,m,m.,False,NaN,0,True,True,True,0.0,1,1,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_28,AD075DP_D2M8_223_0430_left_page,relationship,ép,ép.,False,NaN,0,True,True,True,0.0,2,2,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_28,AD075DP_D2M8_223_0430_left_page,education,,,False,NaN,0,True,True,False,1.0,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_28,AD075DP_D2M8_223_0430_left_page,occupation,patissière,pâtissière,False,NaN,0,True,True,True,0.0,10,10,1,0,0,0
+AD075DP_D2M8_223_0430_left_page_28,AD075DP_D2M8_223_0430_left_page,employer,Potin 437,Potin 437,False,NaN,0,True,True,True,1.0,9,9,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_29,AD075DP_D2M8_223_0430_left_page,surname,,NaN,False,NaN,0,False,False,False,NaN,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_29,AD075DP_D2M8_223_0430_left_page,given_names,,NaN,False,NaN,0,False,False,False,NaN,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_29,AD075DP_D2M8_223_0430_left_page,birth_year,,NaN,False,NaN,0,False,False,False,NaN,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_29,AD075DP_D2M8_223_0430_left_page,birthplace,,NaN,False,NaN,0,False,False,False,NaN,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_29,AD075DP_D2M8_223_0430_left_page,nationality,,NaN,False,NaN,0,False,False,False,NaN,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_29,AD075DP_D2M8_223_0430_left_page,marital_status,,NaN,False,NaN,0,False,False,False,NaN,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_29,AD075DP_D2M8_223_0430_left_page,relationship,,NaN,False,NaN,0,False,False,False,NaN,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_29,AD075DP_D2M8_223_0430_left_page,education,,NaN,False,NaN,0,False,False,False,NaN,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_29,AD075DP_D2M8_223_0430_left_page,occupation,,NaN,False,NaN,0,False,False,False,NaN,0,0,0,0,0,0
+AD075DP_D2M8_223_0430_left_page_29,AD075DP_D2M8_223_0430_left_page,employer,437,NaN,False,NaN,0,False,False,True,NaN,3,0,0,0,0,0

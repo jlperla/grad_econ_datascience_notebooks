@@ -1,0 +1,401 @@
+page_id,panel_id,split,line,name,age,occupation,earnings
+z000104182,z000104182_01-10,test,1,Rita Stewart,37,Handyman,
+z000104182,z000104182_01-10,test,2,""" Kyrsted",37,,
+z000104182,z000104182_01-10,test,3,Hoodless Bes,8,,
+z000104182,z000104182_01-10,test,4,Lates Rose,21,Clerk,225
+z000104182,z000104182_01-10,test,5,Kelly Edith,29,Librarian,750
+z000104182,z000104182_01-10,test,6,""" Celia",26,,
+z000104182,z000104182_01-10,test,7,""" Alma",2,,
+z000104182,z000104182_01-10,test,8,Ernest Fred,35,Restaurant,
+z000104182,z000104182_01-10,test,9,""" Helen",29,,
+z000104182,z000104182_01-10,test,10,""" Harold",5,,
+z000104182,z000104182_11-20,test,11,Northerty,3,,
+z000104182,z000104182_11-20,test,12,Isabelle,14,Domestic,60
+z000104182,z000104182_11-20,test,13,Young Annie,22,,120
+z000104182,z000104182_11-20,test,14,Johnston W. J.,14,Washmkr,
+z000104182,z000104182_11-20,test,15,Maud,23,,
+z000104182,z000104182_11-20,test,16,Pearcy,13,,
+z000104182,z000104182_11-20,test,17,Gordon,11,,
+z000104182,z000104182_11-20,test,18,Joe,6,,
+z000104182,z000104182_11-20,test,19,McNabb Fred,40,Furnish,
+z000104182,z000104182_11-20,test,20,Margaret,30,,
+z000104182,z000104182_21-30,test,21,""" Burratt",6,,
+z000104182,z000104182_21-30,test,22,""" Fred",14,,
+z000104182,z000104182_21-30,test,23,Roody Mary,50,Roomer,120
+z000104182,z000104182_21-30,test,24,Stanley Mrs,36,Clerk,570
+z000104182,z000104182_21-30,test,25,""" Clara",34,,
+z000104182,z000104182_21-30,test,26,King Mrs,37,Hotel Keeper,
+z000104182,z000104182_21-30,test,27,""" Mary",33,,
+z000104182,z000104182_21-30,test,28,""" Russell",9,,
+z000104182,z000104182_21-30,test,29,Norman Emma,33,Domestic,130
+z000104182,z000104182_21-30,test,30,Sutherland Mrs,54,Book Sales,
+z000104182,z000104182_31-40,test,31,""" Rosie",156,,
+z000104182,z000104182_31-40,test,32,""" Amiss",29,,
+z000104182,z000104182_31-40,test,33,""" Isabella",24,Teacher,500
+z000104182,z000104182_31-40,test,34,""" Jessie",19,Bohlo Lady,100
+z000104182,z000104182_31-40,test,35,""" Lawson",13,,
+z000104182,z000104182_31-40,test,36,""" Annie",22,Teacher,500
+z000104182,z000104182_31-40,test,37,Aronett Wm,64,Confectioner,
+z000104182,z000104182_31-40,test,38,""" Harriett",55,,
+z000104182,z000104182_31-40,test,39,Dover Pauline,25,Butter,300
+z000104182,z000104182_31-40,test,40,McWilliams Seta,24,Bohlo Lady,200
+z000104182,z000104182_41-50,test,41,Dunnery Eva,23,,178
+z000104182,z000104182_41-50,test,42,Roberts Fred,56,Grocer,
+z000104182,z000104182_41-50,test,43,""" Mary",56,,
+z000104182,z000104182_41-50,test,44,""" Alice",24,Teacher,57
+z000104182,z000104182_41-50,test,45,""" Frank",21,Bkpr,2100
+z000104182,z000104182_41-50,test,46,""" George",16,Work,2.50
+z000104182,z000104182_41-50,test,47,Bean Emma,27,Domestic,100
+z000104182,z000104182_41-50,test,48,Russell Henry,38,Boots & Shoes,
+z000104182,z000104182_41-50,test,49,""" Addie",10,,
+z000104182,z000104182_41-50,test,50,""" Henry",15,,
+z000104202,z000104202_01-10,test,1,Gurofsky Lewis,30,Concierge,1200
+z000104202,z000104202_01-10,test,2,""" Liza",30,,
+z000104202,z000104202_01-10,test,3,""" Mary",9,,
+z000104202,z000104202_01-10,test,4,""" Elsie",7,,
+z000104202,z000104202_01-10,test,5,""" Harry",6,,
+z000104202,z000104202_01-10,test,6,""" Sietel",3,,
+z000104202,z000104202_01-10,test,7,""" Henry",3,,
+z000104202,z000104202_01-10,test,8,Red Sarah,53,,
+z000104202,z000104202_01-10,test,9,Chompa Francisco,72,Hotel Keeper,
+z000104202,z000104202_01-10,test,10,""" Anna V.",66,,
+z000104202,z000104202_11-20,test,11,Ghoma Egichid,40,Musician,
+z000104202,z000104202_11-20,test,12,""" Anna J",34,,
+z000104202,z000104202_11-20,test,13,""" Anna G",13,,
+z000104202,z000104202_11-20,test,14,""" Lucia M",9,,
+z000104202,z000104202_11-20,test,15,""" Frances M",7,,
+z000104202,z000104202_11-20,test,16,""" Michell A.",2,,
+z000104202,z000104202_11-20,test,17,Setaro Pasomale,52,Bar Tender,
+z000104202,z000104202_11-20,test,18,Katz Abraham,38,Sailor,500
+z000104202,z000104202_11-20,test,19,""" Lena",38,,
+z000104202,z000104202_11-20,test,20,""" Max",19,Day Worker 7.00,
+z000104202,z000104202_21-30,test,21,""" Herman",16,Shoemaker,
+z000104202,z000104202_21-30,test,22,""" Rebecca",12,,
+z000104202,z000104202_21-30,test,23,Goodman Benjamin,30,Tailor,400
+z000104202,z000104202_21-30,test,24,""" Rosa",22,,
+z000104202,z000104202_21-30,test,25,""" Abraham",,"""",
+z000104202,z000104202_21-30,test,26,Pashini Raphael,33,Musician,
+z000104202,z000104202_21-30,test,27,""" Blanch",30,,
+z000104202,z000104202_21-30,test,28,""" Mariana",8,,
+z000104202,z000104202_21-30,test,29,""" Margarita",6,,
+z000104202,z000104202_21-30,test,30,""" Isabella",4,,
+z000104202,z000104202_31-40,test,31,""" Palma",2,,
+z000104202,z000104202_31-40,test,32,""" Giommi",64,,
+z000104202,z000104202_31-40,test,33,Mambeto Domenico,37,Menaul Labor,400
+z000104202,z000104202_31-40,test,34,""" Carmela",26,,
+z000104202,z000104202_31-40,test,35,""" Natalena",9,,
+z000104202,z000104202_31-40,test,36,""" Maria",7,,
+z000104202,z000104202_31-40,test,37,""" Camid",4,,
+z000104202,z000104202_31-40,test,38,Pompeo Antonio,49,Shoe Maker,500
+z000104202,z000104202_31-40,test,39,Muccini Gennos C.,43,Brewer,610
+z000104202,z000104202_31-40,test,40,""" Victoria",41,,
+z000104202,z000104202_41-50,test,41,""" Isabella M",11,,
+z000104202,z000104202_41-50,test,42,Trinelli Isabella A,10,,
+z000104202,z000104202_41-50,test,43,Falconi Antonis,25,Sho. Maker,500
+z000104202,z000104202_41-50,test,44,,,,
+z000104202,z000104202_41-50,test,45,Bodington Walter E,34,Plumber,
+z000104202,z000104202_41-50,test,46,""" Conley",30,,
+z000104202,z000104202_41-50,test,47,""" Fredrick A",10,,
+z000104202,z000104202_41-50,test,48,""" Walter C",6,,
+z000104202,z000104202_41-50,test,49,""" Gordon",3,,
+z000104202,z000104202_41-50,test,50,""" Herold",1,,
+z000104998,z000104998_01-10,test,1,Badenach Sarah,56,—,
+z000104998,z000104998_01-10,test,2,""" Egara",54,Housewife,
+z000104998,z000104998_01-10,test,3,""" Churum Ch",32,"""",
+z000104998,z000104998_01-10,test,4,Anderson Konet,23,Gold lok.,230
+z000104998,z000104998_01-10,test,5,Tastig Ann,53,—,
+z000104998,z000104998_01-10,test,6,Brown Louie,42,—,
+z000104998,z000104998_01-10,test,7,""" Hupple",23,—,
+z000104998,z000104998_01-10,test,8,""" Blue",22,,
+z000104998,z000104998_01-10,test,9,""" Alberta",20,,
+z000104998,z000104998_01-10,test,10,""" Lewin",16,clerk,130
+z000104998,z000104998_11-20,test,11,McLaughlin,35,Bookkeeper Washoe Co.,1200
+z000104998,z000104998_11-20,test,12,John Elisha,58,—,
+z000104998,z000104998_11-20,test,13,Snarr Garrett,82,—,
+z000104998,z000104998_11-20,test,14,"Clarke, C. A.",40,,
+z000104998,z000104998_11-20,test,15,"Snarr, Charlotte",31,=,
+z000104998,z000104998_11-20,test,16,""" Evelina",24,—,
+z000104998,z000104998_11-20,test,17,Galbreath John,40,Professor School P.S.,
+z000104998,z000104998_11-20,test,18,""" Emily",39,—,
+z000104998,z000104998_11-20,test,19,""" Beatrice",16,,
+z000104998,z000104998_11-20,test,20,""" John S.",9,,
+z000104998,z000104998_21-30,test,21,Robt. D.,7,,
+z000104998,z000104998_21-30,test,22,Mr. Fadyen John,30,Proprietor F. T. L. Ruost,
+z000104998,z000104998_21-30,test,23,""" Marie S.",30,—,
+z000104998,z000104998_21-30,test,24,""" Jane W.",1,,
+z000104998,z000104998_21-30,test,25,Wilson Mary A.,18,Domestic,
+z000104998,z000104998_21-30,test,26,Baunefather J. G.,75,Col. Contractor,
+z000104998,z000104998_21-30,test,27,""" Abbie D.",67,—,
+z000104998,z000104998_21-30,test,28,""" Edgart",29,Stephens etc,
+z000104998,z000104998_21-30,test,29,Young Antonio,33,—,
+z000104998,z000104998_21-30,test,30,Stifner Ross,23,—,
+z000104998,z000104998_31-40,test,31,Hamilton Robt G.,58,Ins. agent,
+z000104998,z000104998_31-40,test,32,""" Delia E.",54,,
+z000104998,z000104998_31-40,test,33,""" Nora E.",15,,
+z000104998,z000104998_31-40,test,34,Alcock Lillian,26,,
+z000104998,z000104998_31-40,test,35,""" Walter H.",31,Commercial handler,
+z000104998,z000104998_31-40,test,36,Staples Ann M. A.,23,Gulford,250 00
+z000104998,z000104998_31-40,test,37,Score Frank W.,36,Tailor,
+z000104998,z000104998_31-40,test,38,""" Minnie",35,W. -,
+z000104998,z000104998_31-40,test,39,""" Aunt H.",10,,
+z000104998,z000104998_31-40,test,40,""" Deloyne",7,,
+z000104998,z000104998_41-50,test,41,""" Mary",4,,
+z000104998,z000104998_41-50,test,42,Howard Louis,17,Domestic,244
+z000104998,z000104998_41-50,test,43,Davidson Robt S. J.,55,Coal Train,
+z000104998,z000104998_41-50,test,44,""" Abrahams",51,—,
+z000104998,z000104998_41-50,test,45,""" Leslie A.",29,agent Com Scale Co.,
+z000104998,z000104998_41-50,test,46,""" J. Boylie",27,do.,
+z000104998,z000104998_41-50,test,47,""" Jean M.",24,—,
+z000104998,z000104998_41-50,test,48,""" Jessie",18,—,
+z000104998,z000104998_41-50,test,49,Picketts Chas W.,41,Asst Com Life,
+z000104998,z000104998_41-50,test,50,""" Lou G.",38,—,
+z000105395,z000105395_01-10,test,1,Shannon Arthur,23,Domestic,250
+z000105395,z000105395_01-10,test,2,Thompson George,41,Laundry,
+z000105395,z000105395_01-10,test,3,Bottell Fork,26,Wood Carpenter,750
+z000105395,z000105395_01-10,test,4,Henry Gustard,26,Diamond set,700
+z000105395,z000105395_01-10,test,5,Killachy Frank,32,Box Traveller,
+z000105395,z000105395_01-10,test,6,Debrich Herman,43,Bottle,500
+z000105395,z000105395_01-10,test,7,Butler Rebecca,25,,
+z000105395,z000105395_01-10,test,8,""" William",21,Laundry,300
+z000105395,z000105395_01-10,test,9,""" Arthur",18,"""",300
+z000105395,z000105395_01-10,test,10,""" Lena",13,,
+z000105395,z000105395_11-20,test,11,William,36,Farmer,360
+z000105395,z000105395_11-20,test,12,Miss Lucy,39,Lamfield,
+z000105395,z000105395_11-20,test,13,Wm David,61,Harmon Boat,300
+z000105395,z000105395_11-20,test,14,Salome,34,,
+z000105395,z000105395_11-20,test,15,Reyn Harolds,26,Butter Maker,500
+z000105395,z000105395_11-20,test,16,Wm William,21,Blacksmith,350
+z000105395,z000105395_11-20,test,17,Braig Donta,63,Lumberer,340
+z000105395,z000105395_11-20,test,18,William Malack,65,Boatmaker,200
+z000105395,z000105395_11-20,test,19,Benjamin Baker,37,Baker,300
+z000105395,z000105395_11-20,test,20,Wm Zell Frank,22,Shipper,300
+z000105395,z000105395_21-30,test,21,Grass Robert,43,Peddler,
+z000105395,z000105395_21-30,test,22,Kelber John,29,Deer but,400
+z000105395,z000105395_21-30,test,23,Snell Robert S,48,H A bloodworth R,
+z000105395,z000105395_21-30,test,24,""" Mary",36,,
+z000105395,z000105395_21-30,test,25,""" Josephine",19,Boatmaker,250
+z000105395,z000105395_21-30,test,26,""" Ida",17,Dressmaker,200
+z000105395,z000105395_21-30,test,27,""" Olive",15,,
+z000105395,z000105395_21-30,test,28,Askin Henry,18,Brick,200
+z000105395,z000105395_21-30,test,29,Cuttell Walter,19,Machine,375
+z000105395,z000105395_21-30,test,30,Leemig Walter,21,PR Conductor,900
+z000105395,z000105395_31-40,test,31,Philipp Clinton,26,Domestic Cooking,1000
+z000105395,z000105395_31-40,test,32,Elizabeth Black,44,Cook House,400
+z000105395,z000105395_31-40,test,33,Philips Lena,26,,
+z000105395,z000105395_31-40,test,34,McClinton William,22,Grocer,
+z000105395,z000105395_31-40,test,35,""" Elizabeth",33,,
+z000105395,z000105395_31-40,test,36,""" Phoebe S.",7,,
+z000105395,z000105395_31-40,test,37,""" Jennie E.",4,,
+z000105395,z000105395_31-40,test,38,Mitchel Thoma,25,Motorcar,200
+z000105395,z000105395_31-40,test,39,""" Blas H.",21,Teaches,300
+z000105395,z000105395_31-40,test,40,Loick Emily,20,Domestic,200
+z000105395,z000105395_41-50,test,41,Ferris David W,68,Physician,
+z000105395,z000105395_41-50,test,42,""" Annie",35,,
+z000105395,z000105395_41-50,test,43,""" George W",28,Druggist,40
+z000105395,z000105395_41-50,test,44,""" Robert T",22,,
+z000105395,z000105395_41-50,test,45,""" Kate S.",30,,
+z000105395,z000105395_41-50,test,46,""" Maggie",19,,
+z000105395,z000105395_41-50,test,47,""" Florie",8,,
+z000105395,z000105395_41-50,test,48,Lee James E.,48,Florist,
+z000105395,z000105395_41-50,test,49,""" Rachael",40,,
+z000105395,z000105395_41-50,test,50,""" William",18,Student,
+z000106253,z000106253_01-10,test,1,Oldenburg M,28,Singer,
+z000106253,z000106253_01-10,test,2,de Larche,17,,
+z000106253,z000106253_01-10,test,3,de March,17,,
+z000106253,z000106253_01-10,test,4,de Michel M,20,Waiter,
+z000106253,z000106253_01-10,test,5,de Velt A,14,,
+z000106253,z000106253_01-10,test,6,Spencer Elyse,11,Domestic,170
+z000106253,z000106253_01-10,test,7,Percy Richard,14,do,170
+z000106253,z000106253_01-10,test,8,Charles John,14,Domestic,170
+z000106253,z000106253_01-10,test,9,Blackhead Bla,52,Butcher,
+z000106253,z000106253_01-10,test,10,de Kotte A,13,,
+z000106253,z000106253_11-20,test,11,da Figueiredo,74,Chocolatista,100
+z000106253,z000106253_11-20,test,12,da Olinda,75,—,—
+z000106253,z000106253_11-20,test,13,Lúcia Clemente,76,Ch. de café,100
+z000106253,z000106253_11-20,test,14,da Rosa,77,—,—
+z000106253,z000106253_11-20,test,15,da Santa Rosa,78,—,—
+z000106253,z000106253_11-20,test,16,Priscilla Loureiro,79,Chocolatista,120
+z000106253,z000106253_11-20,test,17,Opina Alvim,80,Chocolatista,—
+z000106253,z000106253_11-20,test,18,da Isabella,81,—,—
+z000106253,z000106253_11-20,test,19,da Irene,82,—,—
+z000106253,z000106253_11-20,test,20,da Eliseu,83,—,—
+z000106253,z000106253_21-30,test,21,do. Abram,56,,
+z000106253,z000106253_21-30,test,22,do. Fredrick,55,,
+z000106253,z000106253_21-30,test,23,Gen. George,54,,
+z000106253,z000106253_21-30,test,24,Bull Arthur,23,,250
+z000106253,z000106253_21-30,test,25,Rich. John R,32,Mill R. Pld,600
+z000106253,z000106253_21-30,test,26,do. Irene B,31,,
+z000106253,z000106253_21-30,test,27,Plamondon,5,,
+z000106253,z000106253_21-30,test,28,Good Mrs C,62,,
+z000106253,z000106253_21-30,test,29,Brooks John,40,,400
+z000106253,z000106253_21-30,test,30,do. Mary,32,,
+z000106253,z000106253_31-40,test,31,de Hollar,24,,
+z000106253,z000106253_31-40,test,32,Waltera Danner,14,Witch,250
+z000106253,z000106253_31-40,test,33,Blackbird,18,Witch,
+z000106253,z000106253_31-40,test,34,de Cune,15,,
+z000106253,z000106253_31-40,test,35,de Bragis,24,Witch,
+z000106253,z000106253_31-40,test,36,de Frenzel,15,Witch,100
+z000106253,z000106253_31-40,test,37,Watson,15,Witch,120
+z000106253,z000106253_31-40,test,38,White Gump,18,Witch,
+z000106253,z000106253_31-40,test,39,de Ayer,18,,
+z000106253,z000106253_31-40,test,40,de Hollar,24,,
+z000106253,z000106253_41-50,test,41,de la M.,23,—,
+z000106253,z000106253_41-50,test,42,de la M.,21,W. Beach,250
+z000106253,z000106253_41-50,test,43,de Margaret,19,W. Beach,250
+z000106253,z000106253_41-50,test,44,de la M.,18,—,100
+z000106253,z000106253_41-50,test,45,de la M.,18,—,
+z000106253,z000106253_41-50,test,46,Stewart Agnes,18,W. Beach,120
+z000106253,z000106253_41-50,test,47,Stewart Kate,18,—,100
+z000106253,z000106253_41-50,test,48,de la M.,17,W. Beach,500
+z000106253,z000106253_41-50,test,49,de la M.,17,W. Beach,250
+z000106253,z000106253_41-50,test,50,de la M.,17,W. Beach,
+z000106351,z000106351_01-10,test,1,Young Mary,73,-,NaN
+z000106351,z000106351_01-10,test,2,""" Annie",24,-,NaN
+z000106351,z000106351_01-10,test,3,Julia Emmett,69,-,NaN
+z000106351,z000106351_01-10,test,4,""" Anna",24,-,NaN
+z000106351,z000106351_01-10,test,5,""" Bertha",25,-,NaN
+z000106351,z000106351_01-10,test,6,Simmons Alice,22,Stowton,NaN
+z000106351,z000106351_01-10,test,7,Yarnall Soph.,45,Boston,NaN
+z000106351,z000106351_01-10,test,8,""" Rebecca",43,-,NaN
+z000106351,z000106351_01-10,test,9,""" Maria",18,-,NaN
+z000106351,z000106351_01-10,test,10,""" Maria",16,-,NaN
+z000106351,z000106351_11-20,test,11,""" Chasie",32,,NaN
+z000106351,z000106351_11-20,test,12,Liberty & De,22,Down,NaN
+z000106351,z000106351_11-20,test,13,Gallatha Robert,34,Bank Clerk,NaN
+z000106351,z000106351_11-20,test,14,""" Anne E",27,,NaN
+z000106351,z000106351_11-20,test,15,""" Harry",2,,NaN
+z000106351,z000106351_11-20,test,16,Caroline Bell,25,Down,NaN
+z000106351,z000106351_11-20,test,17,Lincoln John,71,maniacus Bristol road,NaN
+z000106351,z000106351_11-20,test,18,""" Phoebe",63,,NaN
+z000106351,z000106351_11-20,test,19,""" Emily",29,,NaN
+z000106351,z000106351_11-20,test,20,""" Helen",21,the Court Street,NaN
+z000106351,z000106351_21-30,test,21,Charles,19,,NaN
+z000106351,z000106351_21-30,test,22,Yessen Harold,2,,NaN
+z000106351,z000106351_21-30,test,23,James Ruth,26,Worm,NaN
+z000106351,z000106351_21-30,test,24,Henry Miller,26,Worm,NaN
+z000106351,z000106351_21-30,test,25,Etzel,46,,NaN
+z000106351,z000106351_21-30,test,26,Munich,17,,NaN
+z000106351,z000106351_21-30,test,27,William R,15,,NaN
+z000106351,z000106351_21-30,test,28,Louis,7,,NaN
+z000106351,z000106351_21-30,test,29,Josephine,28,Worm,NaN
+z000106351,z000106351_21-30,test,30,Peter,55,,NaN
+z000106351,z000106351_31-40,test,31,""" John M.",22,,-
+z000106351,z000106351_31-40,test,32,Sandy G...,26,Med. Stud.,-
+z000106351,z000106351_31-40,test,33,Peter J...,19,Art...,-
+z000106351,z000106351_31-40,test,34,Willie...,23,,-
+z000106351,z000106351_31-40,test,35,""" William",26,Dentist,-
+z000106351,z000106351_31-40,test,36,Peter M...,21,Clown,$46
+z000106351,z000106351_31-40,test,37,James...,39,Singer,-
+z000106351,z000106351_31-40,test,38,""" Raymond",35,,-
+z000106351,z000106351_31-40,test,39,""" John",4,,-
+z000106351,z000106351_31-40,test,40,""" William",2,,-
+z000106351,z000106351_41-50,test,41,Baller Ludick,24,,-
+z000106351,z000106351_41-50,test,42,Alma Allen,27,House,$120
+z000106351,z000106351_41-50,test,43,Miss Annan,19,,-
+z000106351,z000106351_41-50,test,44,Miss Annan,28,Teacher,$1200
+z000106351,z000106351_41-50,test,45,Miss Annan,30,""" """,$1200
+z000106351,z000106351_41-50,test,46,Miss Annan,28,,-
+z000106351,z000106351_41-50,test,47,Carla Lewis,24,,-
+z000106351,z000106351_41-50,test,48,Martha Lewis,23,House,$120
+z000106351,z000106351_41-50,test,49,Carla Lewis,26,,-
+z000106351,z000106351_41-50,test,50,Carla Lewis,29,House,$120
+z000108124,z000108124_01-10,test,1,Bainey John,24,Truckman,NaN
+z000108124,z000108124_01-10,test,2,""" Grover",29,—,NaN
+z000108124,z000108124_01-10,test,3,""" Rose",1,—,NaN
+z000108124,z000108124_01-10,test,4,Benson Walcott,28,Plumber,NaN
+z000108124,z000108124_01-10,test,5,""" Lettich Jr",25,—,NaN
+z000108124,z000108124_01-10,test,6,""" Noble J.",3,—,NaN
+z000108124,z000108124_01-10,test,7,""" Wilfred",1,—,NaN
+z000108124,z000108124_01-10,test,8,Crosby Ellen,24,Draper,NaN
+z000108124,z000108124_01-10,test,9,Hall Elizabeth,39,Waitress,NaN
+z000108124,z000108124_01-10,test,10,""" William",37,Painter,NaN
+z000108124,z000108124_11-20,test,11,Moore W. E.,29,Grocer,—
+z000108124,z000108124_11-20,test,12,Annie L.,23,—,—
+z000108124,z000108124_11-20,test,13,Penfield Wilson,26,Elaborator,700
+z000108124,z000108124_11-20,test,14,.. Inaud,26,—,—
+z000108124,z000108124_11-20,test,15,.. Ross,1,—,—
+z000108124,z000108124_11-20,test,16,Henry John W.,36,Manufacturer,—
+z000108124,z000108124_11-20,test,17,.. Annie,10,—,—
+z000108124,z000108124_11-20,test,18,Loos James,74,—,—
+z000108124,z000108124_11-20,test,19,Kozak James,34,Accountant,1000
+z000108124,z000108124_11-20,test,20,Marigret,37,—,—
+z000108124,z000108124_21-30,test,21,O. Brin Tull,19,Servant,120
+z000108124,z000108124_21-30,test,22,George Lawrence,48,Manufacturer,
+z000108124,z000108124_21-30,test,23,""" Ruth E.",45,—,—
+z000108124,z000108124_21-30,test,24,""" Elmore",17,—,—
+z000108124,z000108124_21-30,test,25,""" Beatrice",14,—,—
+z000108124,z000108124_21-30,test,26,""" James F.",13,—,—
+z000108124,z000108124_21-30,test,27,""" Moore L.",10,—,—
+z000108124,z000108124_21-30,test,28,""" Watten",9,—,—
+z000108124,z000108124_21-30,test,29,""" Clara O.",6,—,—
+z000108124,z000108124_21-30,test,30,""" Helen H.",4,—,—
+z000108124,z000108124_31-40,test,31,Carbs Elizabeth,39,—,—
+z000108124,z000108124_31-40,test,32,Jenkins Getrich,18,Devent,72
+z000108124,z000108124_31-40,test,33,Burke Maggie,41,Devent,120
+z000108124,z000108124_31-40,test,34,Ryan John,30,Brewer,500
+z000108124,z000108124_31-40,test,35,""" Luene",32,—,—
+z000108124,z000108124_31-40,test,36,""" Sarah",8,—,—
+z000108124,z000108124_31-40,test,37,""" Jennie",6,—,—
+z000108124,z000108124_31-40,test,38,""" Mary",3,—,—
+z000108124,z000108124_31-40,test,39,""" Mary",2,—,—
+z000108124,z000108124_31-40,test,40,Olson Ester,67,—,—
+z000108124,z000108124_41-50,test,41,.. Ammin,27,Domestic,100
+z000108124,z000108124_41-50,test,42,Kudyan Kharla,46,Busser,1200
+z000108124,z000108124_41-50,test,43,.. Prang A,43,—,—
+z000108124,z000108124_41-50,test,44,.. George,18,Apprentice,100
+z000108124,z000108124_41-50,test,45,.. Gertrude,16,Apprentice,100
+z000108124,z000108124_41-50,test,46,.. Gray,14,—,—
+z000108124,z000108124_41-50,test,47,.. Gordon,7,—,—
+z000108124,z000108124_41-50,test,48,Furlong Lawrence,68,Agent,1000
+z000108124,z000108124_41-50,test,49,.. Lucy,38,—,—
+z000108124,z000108124_41-50,test,50,.. Alexander,1,—,—
+z000108729,z000108729_01-10,test,1,Wood. Chester,3,,
+z000108729,z000108729_01-10,test,2,""" Ethel",2,,
+z000108729,z000108729_01-10,test,3,,,,
+z000108729,z000108729_01-10,test,4,Bolton. Phoebe,40,George Morrill from,"1,500"
+z000108729,z000108729_01-10,test,5,""" Lerna",20,millinery,200
+z000108729,z000108729_01-10,test,6,""" Richard",18,,
+z000108729,z000108729_01-10,test,7,""" Archy",14,,
+z000108729,z000108729_01-10,test,8,""" Willym",14,Henry and Brother,250
+z000108729,z000108729_01-10,test,9,""" Maud C",6,,
+z000108729,z000108729_01-10,test,10,""" Willard",6,,
+z000108729,z000108729_11-20,test,11,Cherry Anna,20,Immigration W.G.,240
+z000108729,z000108729_11-20,test,12,Ann William,65,,600
+z000108729,z000108729_11-20,test,13,""" Mary",66,,
+z000108729,z000108729_11-20,test,14,""" """,30,Carpet W.G.,150
+z000108729,z000108729_11-20,test,15,""" Jane",28,Carpet W.G.,400
+z000108729,z000108729_11-20,test,16,""" Georgine",30,,
+z000108729,z000108729_11-20,test,17,Howard William,46,Carpenter,600
+z000108729,z000108729_11-20,test,18,""" Annie",35,,
+z000108729,z000108729_11-20,test,19,""" Arina",17,W.G. Hact,200
+z000108729,z000108729_11-20,test,20,""" Frank",15,,150
+z000108729,z000108729_21-30,test,21,""" Sidney ♀",7,,5
+z000108729,z000108729_21-30,test,22,Robert Thomas,46,Y. Rogen & L. L. Miller,500
+z000108729,z000108729_21-30,test,23,""" Sarah Jones",46,,
+z000108729,z000108729_21-30,test,24,""" Minnie",26,Y. R. C. & Y.,265
+z000108729,z000108729_21-30,test,25,""" Edward",24,Y. R. Miller,500
+z000108729,z000108729_21-30,test,26,""" Thomas",19,Y. R. C. & Y.,300
+z000108729,z000108729_21-30,test,27,""" Laura",21,Blake & Sons,200
+z000108729,z000108729_21-30,test,28,""" Myrtle",17,"""",150
+z000108729,z000108729_21-30,test,29,""" Alex",12,Blake & Sons,200
+z000108729,z000108729_21-30,test,30,""" Lermie",9,,
+z000108729,z000108729_31-40,test,31,Michael William,65,Blank Lym,150
+z000108729,z000108729_31-40,test,32,.. Anna,62,,
+z000108729,z000108729_31-40,test,33,John Frederick,26,Learned,100
+z000108729,z000108729_31-40,test,34,.. Alvina,25,,
+z000108729,z000108729_31-40,test,35,.. Frederick W,6,,
+z000108729,z000108729_31-40,test,36,.. Robert L,4,,
+z000108729,z000108729_31-40,test,37,.. Rosa,52,,
+z000108729,z000108729_31-40,test,38,.. Eva A.,16,,
+z000108729,z000108729_31-40,test,39,.. Libian R,9,,
+z000108729,z000108729_31-40,test,40,.. Edward J,18,Char. Police,100
+z000108729,z000108729_41-50,test,41,""" Gilbert H",18,"""",250
+z000108729,z000108729_41-50,test,42,Bain Sarah,23,Box maker,250
+z000108729,z000108729_41-50,test,43,Mumby Harry,35,Box maker,500
+z000108729,z000108729_41-50,test,44,""" Lemie",26,Milliner,250
+z000108729,z000108729_41-50,test,45,""" Madeline",24,,
+z000108729,z000108729_41-50,test,46,Brock Alfred A.,25,House Boat Driver,400
+z000108729,z000108729_41-50,test,47,""" Marion C.",27,,
+z000108729,z000108729_41-50,test,48,""" Alfred A.",3,,
+z000108729,z000108729_41-50,test,49,Brown Thomas,38,Blackboard,100
+z000108729,z000108729_41-50,test,50,""" Margaret",27,,

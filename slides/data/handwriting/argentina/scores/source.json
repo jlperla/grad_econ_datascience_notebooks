@@ -1,0 +1,159 @@
+{
+  "reference_url": "https://raw.githubusercontent.com/Saucy-Stream/Argentina_1895_census_HTR_code/1048ba9c12863283ad17b6cde11684e0ed42885d/test_transcriptions/Cordoba_Calamuchita_Ca%C3%B1ada%20de%20%C3%81lvarez_image%2010%20of%20168.txt",
+  "reference_sha256": "ab22af23bce9df95e29766b2240869c5cdf58da5880f50ffc868281d8c56bcf0",
+  "reference_distribution": "Downloaded on demand; not bundled",
+  "protocol": {
+    "sample": "One previously selected page from the adapter author's training set: image 10 of 168, Cañada de Álvarez, Córdoba, Argentina, 1895",
+    "selection": "Page selected for the inference demonstration before the three-model comparison was requested",
+    "models": [
+      "datalab-to/chandra",
+      "Saucystream/fine_tuned_chandra",
+      "datalab-to/chandra-ocr-2"
+    ],
+    "inference": "Same RGB PNG input, fit within 2048 x 1024; BF16, temperature 0, maximum 8192 output tokens; no reference transcription in prompts. Each run records its prompt in source.json.",
+    "fields": [
+      "full_name",
+      "sex",
+      "age",
+      "occupation",
+      "literacy",
+      "property_owner"
+    ],
+    "reference_columns": [
+      [
+        2,
+        3
+      ],
+      [
+        4
+      ],
+      [
+        5
+      ],
+      [
+        9
+      ],
+      [
+        10
+      ],
+      [
+        12
+      ]
+    ],
+    "normalization": "Unicode NFC and collapsed whitespace; empty string mapped to *. Case, accents, spelling, punctuation and ditto marks retained",
+    "metrics": [
+      "conditional character and digit accuracy",
+      "available cell and character coverage",
+      "automatic and source-audited exact recovery over all reference cells",
+      "conditional exact-cell disagreements",
+      "filled and blank agreement",
+      "automatic and assisted row counts"
+    ],
+    "format": "Keep complete records, including complete JSON prefix objects if truncation occurs. Unreadable or absent fields are NaN; report syntax/termination separately. No complete structured record means 0% coverage and undefined reading accuracy.",
+    "reference_uncertainty": "The author writes Jomalero at row 14, occupation; the fine-tuned model reads Jornalero. Keep the published spelling in the score and report sensitivity to excluding this one cell",
+    "interpretation": "Reference agreement on one adapter training page, not an estimate of accuracy on unseen documents or proof that fine-tuning improves generalization",
+    "initial_fields": [
+      "surname",
+      "given_names",
+      "sex",
+      "age",
+      "occupation",
+      "literacy",
+      "property_owner"
+    ],
+    "amendment": "After observing that Chandra 1 returns names as strings, surname and given names are joined for all models. This preserves the full text without guessing name boundaries. Name splitting is reported separately. The other fields and normalization are unchanged.",
+    "sensitivity": "Also report strict field-error counts after treating no and nó as equivalent in literacy and property ownership, and after excluding the flagged row-14 occupation. Neither sensitivity changes the published predictions or reference.",
+    "distribution": "Publish aggregate and per-field counts only; download the reference on demand into ignored build/.",
+    "native_html_followup": "Both base models also use the chandra-ocr 0.2 OCR_PROMPT without a system message. Same image and decoding settings; separate workflow comparison against the JSON fine-tune. Align table rows on printed row number; map fields by the printed columns. Save the unedited HTML and the explicit column mapping; no name matching, spelling correction, ditto expansion or model-assisted repair.",
+    "error_diagnosis": "Post-run descriptive counts identify disagreements differing only by periods, or by a double-quote versus two single-quote ditto mark. These do not change the primary score. Removing periods from ages is not an automatic correction.",
+    "partial_scoring": {
+      "normalization": "NFC and collapsed whitespace; preserve case, punctuation, accents, ditto marks and all predicted characters. Paris ! and ? annotation markers become spaces; Argentina * is an extracted blank.",
+      "missing": "NaN means unavailable extraction/alignment, not a readable blank. Exclude NaN from conditional accuracy; count it in missing coverage. Incorrect and extracted-blank cells remain scored.",
+      "character_accuracy": "1 - total Levenshtein edits / available filled reference characters, calculated within cells. Insertions, deletions and substitutions cost 1, with no clipping; accuracy can be negative. Blank reference cells have a separate exact-match measure.",
+      "digit_accuracy": "Same edit formula on age or birth-year cells whose normalized reference consists entirely of ASCII digits. Keep all prediction characters, including stray periods and letters. Report the available digit denominator and digit coverage.",
+      "coverage": "Available cells / all reference cells, with filled-cell and reference-character coverage separately. Raw automatic coverage is recorded before any hash-bound source audit.",
+      "exact_yield": "Exactly recovered cells / all reference cells. Unavailable cells contribute zero correct cells; this measures extraction plus reading. Report automatic and source-audited yield separately.",
+      "rejected_fields": "--reject-field FIELD sets that column to NaN, including otherwise readable blanks, while preserving other columns. Repeat the flag for multiple columns. Coverage and rejection metadata expose the choice.",
+      "alignment_audit": "layout_audit.json binds source-checked structural maps to exact raw output and reference hashes. No text similarity alignment or label copying. --automatic-only disables these maps; future outputs require their own audit.",
+      "amendment": "2026-10-13: scoring revised after viewing outputs at the user request. Raw model outputs and references unchanged. Conditional scores with source assistance do not measure autonomous layout recovery."
+    },
+    "alignment": "Unique printed row number. Score fields independently; duplicate or absent row IDs and unavailable fields become NaN. Retain other rows. Exact hash-bound source-audited maps are a separate assisted result.",
+    "html_projection": "Use printed-column positions, respecting explicit spans. The source-audited OCR2 holdout mapping shifts only left-page selected fields; automatic scores keep the original fixed map."
+  },
+  "runs": {
+    "Chandra 1 / JSON": {
+      "model": "datalab-to/chandra",
+      "revision": "bd40c21576564d31ba99f204e28ccd5c4c1751fa",
+      "input_sha256": "c2d8be571878125622f43574a47f858e779539e0a7ffc68efaa25507ce0bcaca",
+      "response_sha256": "a1a4c5e9872514ee6da619f4ba881fdd28edc3fddb684ad9fc4a4bc1d4657353"
+    },
+    "Chandra 1 + LoRA / JSON": {
+      "model": "Saucystream/fine_tuned_chandra",
+      "revision": "d94b4ca422dd87e06b55abdd955bb199879a545a",
+      "input_sha256": "c2d8be571878125622f43574a47f858e779539e0a7ffc68efaa25507ce0bcaca",
+      "response_sha256": "f26102885d569f7836b19189ef0f57bd69f3fdf3f860998e650699e76d0e7a45"
+    },
+    "Chandra OCR 2 / JSON": {
+      "model": "datalab-to/chandra-ocr-2",
+      "revision": "af93b47dba1b47b6640c86ccf487ed2260ab9a09",
+      "input_sha256": "c2d8be571878125622f43574a47f858e779539e0a7ffc68efaa25507ce0bcaca",
+      "response_sha256": "6956f37b6fbf2e87722a9810f60235edf5033da900784715c4f56826ffc37c6a"
+    },
+    "Chandra 1 / HTML": {
+      "model": "datalab-to/chandra",
+      "revision": "bd40c21576564d31ba99f204e28ccd5c4c1751fa",
+      "input_sha256": "c2d8be571878125622f43574a47f858e779539e0a7ffc68efaa25507ce0bcaca",
+      "response_sha256": "e47a275c2f581b52e485fa85eeda6e630081d8512bbec84e5af6e46cab05039c",
+      "html_columns": {
+        "full_name": [
+          1,
+          2
+        ],
+        "sex": [
+          3
+        ],
+        "age": [
+          4
+        ],
+        "occupation": [
+          8
+        ],
+        "literacy": [
+          9
+        ],
+        "property_owner": [
+          11
+        ]
+      }
+    },
+    "Chandra OCR 2 / HTML": {
+      "model": "datalab-to/chandra-ocr-2",
+      "revision": "af93b47dba1b47b6640c86ccf487ed2260ab9a09",
+      "input_sha256": "c2d8be571878125622f43574a47f858e779539e0a7ffc68efaa25507ce0bcaca",
+      "response_sha256": "9478e09b7ed15b9b77441db5514d26991a5db2b83a8c8cc010bc33001934c1ab",
+      "html_columns": {
+        "full_name": [
+          1,
+          2
+        ],
+        "sex": [
+          3
+        ],
+        "age": [
+          4
+        ],
+        "occupation": [
+          8
+        ],
+        "literacy": [
+          9
+        ],
+        "property_owner": [
+          11
+        ]
+      }
+    }
+  },
+  "layout_audit": "../../layout_audit.json",
+  "automatic_only": false
+}

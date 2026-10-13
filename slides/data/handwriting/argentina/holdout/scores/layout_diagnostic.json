@@ -1,0 +1,11 @@
+[
+  {
+    "model": "Chandra OCR 2 / HTML",
+    "automatic_cells": 36,
+    "source_audited_cells": 90,
+    "assisted_cells": 54,
+    "disagreements": 28,
+    "status": "Source-audited alignment; automatic scores reported separately",
+    "audit": "../../../layout_audit.json"
+  }
+]

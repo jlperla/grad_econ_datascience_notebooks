@@ -1,0 +1,39 @@
+{
+  "source": "Argentina 1895 census, Córdoba, Calamuchita, Cañada de Álvarez",
+  "source_url": "https://raw.githubusercontent.com/Saucy-Stream/Argentina_1895_census_HTR_code/1048ba9c12863283ad17b6cde11684e0ed42885d/test/Cordoba_Calamuchita_Ca%C3%B1ada%20de%20%C3%81lvarez_image%2010%20of%20168.jpg",
+  "repository": "Saucy-Stream/Argentina_1895_census_HTR_code",
+  "repository_revision": "1048ba9c12863283ad17b6cde11684e0ed42885d",
+  "filename": "Cordoba_Calamuchita_Cañada de Álvarez_image 10 of 168.jpg",
+  "image_sha256": "9b358fc204990caccc67b5cffa693b282007082227c589a1acbdb3ece3167990",
+  "original_size": [
+    2965,
+    1471
+  ],
+  "input_size": [
+    2048,
+    1016
+  ],
+  "input_resize": "Pillow thumbnail, fit within 2048 x 1024, BICUBIC",
+  "input_sha256": "c2d8be571878125622f43574a47f858e779539e0a7ffc68efaa25507ce0bcaca",
+  "image_distribution": "Downloaded on demand; no source scan bundled",
+  "split": "author training set",
+  "split_source": "https://github.com/Saucy-Stream/Argentina_1895_census_HTR_code/blob/1048ba9c12863283ad17b6cde11684e0ed42885d/slurm-outputs/slurm-6653862.out",
+  "model": "Saucystream/fine_tuned_chandra",
+  "model_revision": "d94b4ca422dd87e06b55abdd955bb199879a545a",
+  "base_model": "datalab-to/chandra",
+  "base_revision": "bd40c21576564d31ba99f204e28ccd5c4c1751fa",
+  "request_model": "build/handwriting/argentina-model",
+  "system_prompt": "You are an expert in 1800s Argentinian handwriting who will transcribe an Argentinian census document into a JSON file. The document consists of a scanned table with machine typed headers and hand written data. Make use of the information in the headers to find a reasonable transcription for each field. Some fields only accept elements such as 'si' or 'no', or 'V' or 'M'. Empty fields should be transcribed as an asterisk (*). Split columns should be transcribed as a list. Here is a made up example output to illustrate the format: '{\"headers\":[\"marginalia\",\"num\",\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"H\",\"I\",\"J\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\"],\n\"data\": \n[{\n\t\"marginalia\": \"*\",\n\t\"num\": 1,\n\t\"A\": [\"Ovideo\",\"Carlos\"],\n\t\"B\": \"V\",\n\t\"C\": 56,\n\t\"D\": \"V\",\n\t\"E\": \"Argentina\",\n\t\"F\": \"Córdoba\",\n\t\"H\": \"Estanciero\",\n\t\"I\": \"si\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{...'",
+  "user_prompt": "Transcribe this document into a JSON file. Only output the table, not any other explanatory text. Do not fill the empty fields with filler words like 'si' or 'no'. Omit completely empty rows. Make sure to transcribe any potential note written in the margin of the table to the correct row. Make sure that your transcription is reasonable and accurate.",
+  "prompt_source": "https://github.com/Saucy-Stream/Argentina_1895_census_HTR_code/blob/1048ba9c12863283ad17b6cde11684e0ed42885d/CensusDataset.py",
+  "prompt_function": "json_training_transform",
+  "temperature": 0,
+  "max_tokens": 8192,
+  "prompt_tokens": 2420,
+  "completion_tokens": 1857,
+  "finish_reason": "stop",
+  "runtime": "mlx-vlm 0.7.6; mlx 0.32.3; Apple M4 Max; BF16 PEFT merge",
+  "date_utc": "2026-10-12T22:11:23.775629+00:00",
+  "evaluation": "Training-page comparison; not unseen-page accuracy",
+  "prompt": "json"
+}

@@ -1,0 +1,16 @@
+{
+  "model": "datalab-to/chandra-ocr-2",
+  "model_revision": "af93b47dba1b47b6640c86ccf487ed2260ab9a09",
+  "date_utc": "2026-10-12T21:11:27.628079+00:00",
+  "temperature": 0,
+  "max_tokens": 256,
+  "prompt": "OCR this image to HTML.\n\nOnly use these tags ['math', 'br', 'i', 'b', 'u', 'del', 'sup', 'sub', 'table', 'tr', 'td', 'p', 'th', 'div', 'pre', 'h1', 'h2', 'h3', 'h4', 'h5', 'ul', 'ol', 'li', 'input', 'a', 'span', 'img', 'hr', 'tbody', 'small', 'caption', 'strong', 'thead', 'big', 'code', 'chem'], and these attributes ['class', 'colspan', 'rowspan', 'display', 'checked', 'type', 'border', 'value', 'style', 'href', 'alt', 'align', 'data-bbox', 'data-label'].\n\nGuidelines:\n* Inline math: Surround math with <math>...</math> tags. Math expressions should be rendered in KaTeX-compatible LaTeX. Use display for block math.\n* Tables: Use colspan and rowspan attributes to match table structure.\n* Formatting: Maintain consistent formatting with the image, including spacing, indentation, subscripts/superscripts, and special characters.\n* Images: Include a description of any images in the alt attribute of an <img> tag. Do not fill out the src property. Describe in detail inside the div tag. Also convert charts to high fidelity data, and convert diagrams to mermaid.\n* Forms: Mark checkboxes and radio buttons properly.\n* Text: join lines together properly into paragraphs using <p>...</p> tags.  Use <br> tags for line breaks within paragraphs, but only when absolutely necessary to maintain meaning.\n* Chemistry: Use <chem>...</chem> tags for chemical formulas with reactive SMILES.\n* Lists: Preserve indents and proper list markers.\n* Use the simplest possible HTML structure that accurately represents the content of the block.\n* Make sure the text is accurate and easy for a human to read and interpret.  Reading order should be correct and natural.",
+  "prompt_sha256": "5bddc652e7f39d5c5501e5455ea2487ebb5cdbf71832b5dfb749ec2413b5a69b",
+  "input": "ALTO row crop resized to height 128 with LANCZOS",
+  "packages": {
+    "chandra-ocr": "0.2.0",
+    "openai": "3.6.0",
+    "Pillow": "12.3.0"
+  },
+  "runtime": "mlx-vlm 0.7.6; mlx 0.32.3; Apple M4 Max; BF16"
+}

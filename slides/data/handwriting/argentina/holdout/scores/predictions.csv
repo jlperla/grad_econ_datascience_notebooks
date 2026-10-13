@@ -1,0 +1,61 @@
+model,row,full_name,sex,age,occupation,literacy,property_owner
+Chandra 1 / HTML,1,Celis Bernabita,M.,11,,,
+Chandra 1 / HTML,2,Colombo Angel,V.,28,Minero,si,
+Chandra 1 / HTML,3,Barbeyu Catalina,M.,28,,si,
+Chandra 1 / HTML,4,Humberto Colombo,V.,4,,,
+Chandra 1 / HTML,5,Colombo Angelina,M.,3,,,
+Chandra 1 / HTML,6,Colombo Constantina,V.,0,,,
+Chandra 1 / HTML,7,Cabral Miguel,V.,57,Estanciero,si,
+Chandra 1 / HTML,8,Cabral Miguel,V.,24,Estanciero,si,
+Chandra 1 / HTML,9,Cabral Octaviano,V.,22,Telegrafista,si,
+Chandra 1 / HTML,10,Cabral Castalicio,V.,18,Estanciero,si,
+Chandra 1 / HTML,11,Quintero Ermelina,V.,16,Estanciero,si,
+Chandra 1 / HTML,12,Quintero Benita,M.,42,Estanciero,si,
+Chandra 1 / HTML,13,Rivarola Pedro,V.,32,Criador,si,
+Chandra 1 / HTML,14,Reina Elvira,M.,30,Criador,si,
+Chandra 1 / HTML,15,Rivarola Maria,V.,5,Criador,si,
+Chandra 1 + LoRA / JSON,1,Celsi Bernabela,M,11,*,si,*
+Chandra 1 + LoRA / JSON,2,Colombo Angel,V,28,Minero,si,*
+Chandra 1 + LoRA / JSON,3,Berbegu Catalina,M,28,*,si,*
+Chandra 1 + LoRA / JSON,4,Yemberto Colombo,V,4,*,*,*
+Chandra 1 + LoRA / JSON,5,Colombo Angelina,M,3,*,*,*
+Chandra 1 + LoRA / JSON,6,Colombo Constantina,V,0,*,*,*
+Chandra 1 + LoRA / JSON,7,Cabral Miguel,V,57,Estanciero,si,si
+Chandra 1 + LoRA / JSON,8,Cabral Miguel,V,24,Estanciero,si,*
+Chandra 1 + LoRA / JSON,9,Cabral Octaviano,V,22,Telegrafista,si,*
+Chandra 1 + LoRA / JSON,10,Cabral Bartolico,V,18,Estanciero,si,*
+Chandra 1 + LoRA / JSON,11,Quintero Ginestra,V,16,Jornalero,no,*
+Chandra 1 + LoRA / JSON,12,Quintero Benita,M,42,Cocinera,no,*
+Chandra 1 + LoRA / JSON,13,Rivarola Pedro,V,22,Criador,no,si
+Chandra 1 + LoRA / JSON,14,Reina Eloira,M,30,*,si,*
+Chandra 1 + LoRA / JSON,15,Rivarola Maria,V,5,*,no,*
+Chandra OCR 2 / HTML,1,Celis Bernabeta,M.,11,,si,
+Chandra OCR 2 / HTML,2,Colombo Angel,V.,28,Minero,si,
+Chandra OCR 2 / HTML,3,Bardequ Catalina,M.,28,,si,
+Chandra OCR 2 / HTML,4,Umberto Colombo,V.,4,,,
+Chandra OCR 2 / HTML,5,Colombo Angelina,M.,3,,,
+Chandra OCR 2 / HTML,6,Colombo Constantino,V.,0,,,
+Chandra OCR 2 / HTML,7,Cabral Miguel,V.,57,Estanciero,si,si
+Chandra OCR 2 / HTML,8,Cabral Miguel,V.,24,Estanciero,si,
+Chandra OCR 2 / HTML,9,Cabral Ochaviano,V.,22,Inteligente,si,
+Chandra OCR 2 / HTML,10,Cabral Bartalicio,V.,18,Estanciero,si,
+Chandra OCR 2 / HTML,11,Quintana Timoteo,V.,16,Formalino,no,
+Chandra OCR 2 / HTML,12,Quintana Benito,M.,42,Casinera,no,
+Chandra OCR 2 / HTML,13,Rivardo Pedro,V.,22,Criador,no,si
+Chandra OCR 2 / HTML,14,Reina Elaira,M.,30,,si,
+Chandra OCR 2 / HTML,15,Rivardo Mania,V.,5,,no,
+Chandra 1 + blur LoRA / JSON,1,Celsi Bernabita,M,11,*,si,*
+Chandra 1 + blur LoRA / JSON,2,Colombo Angel,V,28,Minero,si,*
+Chandra 1 + blur LoRA / JSON,3,Barbega Catalina,M,28,*,si,*
+Chandra 1 + blur LoRA / JSON,4,Humberto Colombo,V,4,*,*,*
+Chandra 1 + blur LoRA / JSON,5,Colombo Angelina,M,3,*,*,*
+Chandra 1 + blur LoRA / JSON,6,Colombo Constantina,V,0,*,*,*
+Chandra 1 + blur LoRA / JSON,7,Cabral Miguel,V,57,Estanciero,si,si
+Chandra 1 + blur LoRA / JSON,8,Cabral Miguel,V,24,Estanciero,si,*
+Chandra 1 + blur LoRA / JSON,9,Cabral Octaviano,V,22,Telegrafista,si,*
+Chandra 1 + blur LoRA / JSON,10,Cabral Bartalicio,V,18,Estanciero,si,*
+Chandra 1 + blur LoRA / JSON,11,Quintero Ginestra,V,16,Jornalero,no,*
+Chandra 1 + blur LoRA / JSON,12,Quintero Benita,M,42,Cocinera,no,*
+Chandra 1 + blur LoRA / JSON,13,Rivarola Pedro,V,52,Criador,no,si
+Chandra 1 + blur LoRA / JSON,14,Reina Elsira,M,30,*,si,*
+Chandra 1 + blur LoRA / JSON,15,Rivarola Maria,V,5,*,no,*

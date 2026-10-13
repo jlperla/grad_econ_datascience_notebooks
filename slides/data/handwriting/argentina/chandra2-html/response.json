@@ -1,0 +1,60 @@
+{
+  "id": "chatcmpl-4441144e-df5a-4572-b2ea-36ff57bf641b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "<div data-bbox=\"52 103 937 898\" data-label=\"Table\">\n<table border=\"1\">\n<thead>\n<tr>\n<th rowspan=\"2\">Número de orden</th>\n<th colspan=\"2\">A<br/>CUAL ES SU<br/>APELLIDO? NOMBRE?</th>\n<th>B<br/>Es varón ó mujer</th>\n<th>C<br/>Cuantos años ha cumplido</th>\n<th>D<br/>Es soltero, casado ó viudo</th>\n<th>E<br/>A qué nación pertenece</th>\n<th>F<br/>Si es argentino, provincia ó territorio, ha nacido</th>\n<th>H<br/>Qué profesión, oficio, ocupación á medio de vida tiene</th>\n<th>I<br/>Sabe leer y escribir</th>\n<th>J<br/>Va á la escuela</th>\n<th>K<br/>Posee propiedad raíz</th>\n<th colspan=\"2\">L<br/>SI ES MUJER CASADA Ó VIUDA<br/>Cuantos hijos ha tenido Cuantos años de matrimonio tiene</th>\n<th>M<br/>Es enfermo, sordo-mudo, idiota, loco ó ciego</th>\n<th>N<br/>Tiene boleo ó ceto</th>\n<th colspan=\"2\">O<br/>INVALIDO<br/>Por guerra Por accidente</th>\n<th>P<br/>Hudorano de padre y madre</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Farazaga José</td>\n<td></td>\n<td>V.</td>\n<td>4.5</td>\n<td>C.</td>\n<td>Argentina</td>\n<td>Crisol</td>\n<td>Comerciante</td>\n<td>si</td>\n<td></td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>2</td>\n<td>De la Torre Justo</td>\n<td></td>\n<td>Mo.</td>\n<td>3.8</td>\n<td>C.</td>\n<td>\"</td>\n<td>\"</td>\n<td></td>\n<td>si</td>\n<td></td>\n<td></td>\n<td>9</td>\n<td>12</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>3</td>\n<td>Farazaga José R.</td>\n<td></td>\n<td>V.</td>\n<td>1.0</td>\n<td></td>\n<td>\"</td>\n<td>\"</td>\n<td></td>\n<td>si</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>4</td>\n<td>Farazaga Tomas</td>\n<td></td>\n<td>V.</td>\n<td>8</td>\n<td></td>\n<td>\"</td>\n<td>\"</td>\n<td></td>\n<td>si</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>5</td>\n<td>Farazaga Francisca A.</td>\n<td></td>\n<td>V.</td>\n<td>5</td>\n<td></td>\n<td>\"</td>\n<td>\"</td>\n<td></td>\n<td>no</td>\n<td>no</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>6</td>\n<td>Farazaga Carlos J.</td>\n<td></td>\n<td>V.</td>\n<td>4</td>\n<td></td>\n<td>\"</td>\n<td>\"</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>7</td>\n<td>Farazaga Dolores</td>\n<td></td>\n<td>Mo.</td>\n<td>2</td>\n<td></td>\n<td>\"</td>\n<td>\"</td>\n<td>Comerciante</td>\n<td>si</td>\n<td></td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>8</td>\n<td>Cheminqui Rincidio</td>\n<td></td>\n<td>V.</td>\n<td>3.8</td>\n<td>L.</td>\n<td>\"</td>\n<td>\"</td>\n<td>Comerciante</td>\n<td>si</td>\n<td></td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>9</td>\n<td>Farazaga Tomas</td>\n<td></td>\n<td>V.</td>\n<td>2.5</td>\n<td>L.</td>\n<td>\"</td>\n<td>\"</td>\n<td>\"</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>10</td>\n<td>Ortiz Ignacia</td>\n<td></td>\n<td>V.</td>\n<td>1.3</td>\n<td></td>\n<td>\"</td>\n<td>\"</td>\n<td>\"</td>\n<td>si</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>11</td>\n<td>Muñoz Eudoro</td>\n<td></td>\n<td>V.</td>\n<td>11</td>\n<td></td>\n<td>\"</td>\n<td>\"</td>\n<td></td>\n<td>no</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>12</td>\n<td>Palacio Ilustre</td>\n<td></td>\n<td>V.</td>\n<td>3.5</td>\n<td>L.</td>\n<td>\"</td>\n<td>\"</td>\n<td>Comerciante</td>\n<td>no</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>13</td>\n<td>Palacio Carmen</td>\n<td></td>\n<td>Mo.</td>\n<td>1.0</td>\n<td></td>\n<td>\"</td>\n<td>\"</td>\n<td></td>\n<td>no</td>\n<td>si</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>14</td>\n<td>Ordóñez Pedro</td>\n<td></td>\n<td>V.</td>\n<td>3.4</td>\n<td>L.</td>\n<td>\"</td>\n<td>\"</td>\n<td>Jornalero</td>\n<td>no</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>15</td>\n<td>Ordóñez Ildefonso</td>\n<td></td>\n<td>V.</td>\n<td>2.7</td>\n<td>L.</td>\n<td>\"</td>\n<td>\"</td>\n<td>\"</td>\n<td>no</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n</div>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": null,
+        "reasoning": null,
+        "tool_call_id": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1791844354,
+  "model": "/Users/jlperla/.cache/huggingface/hub/models--datalab-to--chandra-ocr-2/snapshots/af93b47dba1b47b6640c86ccf487ed2260ab9a09",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 2174,
+    "prompt_tokens": 2493,
+    "total_tokens": 4667,
+    "completion_tokens_details": null,
+    "compute_units": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "timings": {
+    "prompt_n": 2493,
+    "cache_n": 0,
+    "predicted_n": 2174,
+    "prompt_ms": 1390.6898340210319,
+    "prompt_per_token_ms": 0.5578378796714929,
+    "prompt_per_second": 1792.6355244805059,
+    "predicted_ms": 42294.01551092234,
+    "predicted_per_token_ms": 19.454468956266027,
+    "predicted_per_second": 51.402071279766965,
+    "peak_memory": 10.716125368,
+    "draft_kind": null,
+    "draft_rounds": null,
+    "draft_n": null,
+    "draft_n_accepted": null
+  }
+}

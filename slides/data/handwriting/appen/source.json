@@ -1,0 +1,32 @@
+{
+  "source": "Appen Limited, OCR image data for Thai documents",
+  "source_url": "https://www.kaggle.com/datasets/appenlimited/ocr-image-data-for-thai-documents",
+  "license": "CC-BY-SA-4.0",
+  "dataset": "fwgpiyawudk/appen-thai-doc",
+  "dataset_revision": "4d00648ef335a1951acd5fd85ffee9be813bdf77",
+  "filename": "THAI_RECEIPT_003149.jpg",
+  "image_sha256": "ea9dd73529c53921caa75744dcc31ebc452be62d5018cb8688a0309ca7f21715",
+  "original_image_changes": "None",
+  "model": "fwgpiyawudk/ChandraOCR2_AppenDoc-merged",
+  "input_crop_box": [
+    302,
+    1290,
+    2721,
+    1673
+  ],
+  "input_size": [
+    1600,
+    253
+  ],
+  "input_resize": "Fit within 1600 x 1600, LANCZOS",
+  "input_sha256": "4b893481cdd6426dddbef2854b2080275574d8e4a830b4746445b599eef5df26",
+  "model_revision": "dde20ac03d4dbc851af082576c7b34f095cf12e0",
+  "request_model": "/Users/jlperla/.cache/huggingface/hub/models--fwgpiyawudk--ChandraOCR2_AppenDoc-merged/snapshots/dde20ac03d4dbc851af082576c7b34f095cf12e0",
+  "date_utc": "2026-10-12T21:28:01.850278+00:00",
+  "prompt": "OCR this image to HTML.\n\nOnly use these tags ['math', 'br', 'i', 'b', 'u', 'del', 'sup', 'sub', 'table', 'tr', 'td', 'p', 'th', 'div', 'pre', 'h1', 'h2', 'h3', 'h4', 'h5', 'ul', 'ol', 'li', 'input', 'a', 'span', 'img', 'hr', 'tbody', 'small', 'caption', 'strong', 'thead', 'big', 'code', 'chem'], and these attributes ['class', 'colspan', 'rowspan', 'display', 'checked', 'type', 'border', 'value', 'style', 'href', 'alt', 'align', 'data-bbox', 'data-label'].\n\nGuidelines:\n* Inline math: Surround math with <math>...</math> tags. Math expressions should be rendered in KaTeX-compatible LaTeX. Use display for block math.\n* Tables: Use colspan and rowspan attributes to match table structure.\n* Formatting: Maintain consistent formatting with the image, including spacing, indentation, subscripts/superscripts, and special characters.\n* Images: Include a description of any images in the alt attribute of an <img> tag. Do not fill out the src property. Describe in detail inside the div tag. Also convert charts to high fidelity data, and convert diagrams to mermaid.\n* Forms: Mark checkboxes and radio buttons properly.\n* Text: join lines together properly into paragraphs using <p>...</p> tags.  Use <br> tags for line breaks within paragraphs, but only when absolutely necessary to maintain meaning.\n* Chemistry: Use <chem>...</chem> tags for chemical formulas with reactive SMILES.\n* Lists: Preserve indents and proper list markers.\n* Use the simplest possible HTML structure that accurately represents the content of the block.\n* Make sure the text is accurate and easy for a human to read and interpret.  Reading order should be correct and natural.",
+  "temperature": 0,
+  "max_tokens": 2048,
+  "finish_reason": "stop",
+  "runtime": "mlx-vlm 0.7.6; mlx 0.32.3; Apple M4 Max; BF16",
+  "evaluation": "Published training-split image; inference demonstration only"
+}

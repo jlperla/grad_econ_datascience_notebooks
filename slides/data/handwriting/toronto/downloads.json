@@ -1,0 +1,52 @@
+{
+  "labels_url": "https://www.yorku.ca/ccri/darroch_files/1901%20Toronto%20Area%20Test%20Sample.sav",
+  "labels_rows": 52702,
+  "labels_sha256": "ce4a3eaab7e2d5956a0498c4de512c70f3e241f3bbfe2506ed48424f41cfa899",
+  "pages": [
+    {
+      "page_id": "z000104023",
+      "image_url": "https://central.bac-lac.gc.ca/.item/?id=z000104023&app=census1901&op=img",
+      "sha256": "19b1afd10a95f455d0639c36810ba908faa08e3c6ed42a8e7ac4870acf6c818e"
+    },
+    {
+      "page_id": "z000104182",
+      "image_url": "https://central.bac-lac.gc.ca/.item/?id=z000104182&app=census1901&op=img",
+      "sha256": "96ffaa68e8e95c413d5c75d506337d588441db01f4f8692c25f02bd429a54218"
+    },
+    {
+      "page_id": "z000104202",
+      "image_url": "https://central.bac-lac.gc.ca/.item/?id=z000104202&app=census1901&op=img",
+      "sha256": "87c30f932c7ea77fac4da5758c728aea41dcd62f67795c47bfb3de1f04b39b6a"
+    },
+    {
+      "page_id": "z000104998",
+      "image_url": "https://central.bac-lac.gc.ca/.item/?id=z000104998&app=census1901&op=img",
+      "sha256": "085ff129c7bbe55ffd94f38068aebd5d6d3464e7a46e14c3f32e295de7e0d00c"
+    },
+    {
+      "page_id": "z000105395",
+      "image_url": "https://central.bac-lac.gc.ca/.item/?id=z000105395&app=census1901&op=img",
+      "sha256": "38b349af8244faa0097c485bc806bb854c7f25b5429aa3021e0c4f85cc3be7cb"
+    },
+    {
+      "page_id": "z000106253",
+      "image_url": "https://central.bac-lac.gc.ca/.item/?id=z000106253&app=census1901&op=img",
+      "sha256": "c32c64f5d0eddf35cd8a26404e2679f2368d5b0818a9c980ed9008ea7644405a"
+    },
+    {
+      "page_id": "z000106351",
+      "image_url": "https://central.bac-lac.gc.ca/.item/?id=z000106351&app=census1901&op=img",
+      "sha256": "5b1a1ec3a24f785bbee2383dfdb4b81d7d9ce7c2b3326761c3225df8f02eb893"
+    },
+    {
+      "page_id": "z000108124",
+      "image_url": "https://central.bac-lac.gc.ca/.item/?id=z000108124&app=census1901&op=img",
+      "sha256": "627f7e4625ce388c88642d43ece3c7961462d3f2b350bfae69e266753928db19"
+    },
+    {
+      "page_id": "z000108729",
+      "image_url": "https://central.bac-lac.gc.ca/.item/?id=z000108729&app=census1901&op=img",
+      "sha256": "22ff72ef4c7fd5f7cf2f31f19772b3c4d1a1284666b39c061497a7bbd7f868a1"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "purpose": "Post-run diagnostics on unchanged raw responses; independent column parsing and digit scoring are specified in protocol.json.",
+  "models": {
+    "chandra": {
+      "counts": {
+        "json_null_values": 0,
+        "earnings_internal_space": 1,
+        "earnings_internal_space_on_labeled_people": 1
+      },
+      "examples": {
+        "earnings_internal_space": [
+          {
+            "panel_id": "z000104998_31-40",
+            "line": "36",
+            "prediction": "250 00",
+            "labeled": true
+          }
+        ]
+      }
+    },
+    "qwen27b": {
+      "counts": {
+        "json_null_values": 0,
+        "earnings_internal_space": 0,
+        "earnings_internal_space_on_labeled_people": 0,
+        "unparseable_json_panels": 1
+      },
+      "examples": {}
+    },
+    "qwen2b": {
+      "counts": {
+        "json_null_values": 0,
+        "earnings_internal_space": 0,
+        "earnings_internal_space_on_labeled_people": 0
+      },
+      "examples": {}
+    }
+  },
+  "sampling_note": "The Qwen27B token-limited panel has two complete records and eight unavailable rows, none with York labels. Its missing output affects coverage over all source rows but not labeled-cell scores.",
+  "published_file_hashes_match": {
+    "slides/data/handwriting/toronto/pages.json": true,
+    "utilities/build_toronto_census.py": true,
+    "code/toronto_census_ocr.py": true,
+    "utilities/build_toronto_census_scores.py": true,
+    "utilities/build_handwriting_scores.py": true
+  },
+  "scoring_amendment": "Occupation exclusion followed by independent column parsing and digit scoring; see protocol.json for dated amendments and original/current script hashes."
+}

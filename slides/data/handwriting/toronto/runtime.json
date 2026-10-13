@@ -1,0 +1,20 @@
+{
+  "machine": "Apple M4 Max",
+  "memory_gib": 64,
+  "chandra": {
+    "runtime": "mlx-vlm 0.7.6 / mlx 0.32.3",
+    "weights": "BF16"
+  },
+  "qwen27b": {
+    "runtime": "Ollama 0.35.0 MLX",
+    "weights": "MXFP8",
+    "verification": "Loaded Ollama runner maps mlx_metal_v4/libmlx.dylib, libmlxc.dylib and mlx.metallib.",
+    "loaded_bytes_observed": 45837019664,
+    "context_length_observed": 16384
+  },
+  "qwen2b": {
+    "runtime": "Ollama 0.35.0",
+    "weights": "GGUF Q8_0"
+  },
+  "measurement_note": "Models run sequentially. Memory is one server observation, not a minimum-memory requirement or a speed benchmark."
+}

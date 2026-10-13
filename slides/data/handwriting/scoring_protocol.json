@@ -1,0 +1,14 @@
+{
+  "normalization": "NFC and collapsed whitespace; preserve case, punctuation, accents, ditto marks and all predicted characters. Paris ! and ? annotation markers become spaces; Argentina * is an extracted blank.",
+  "missing": "NaN means unavailable extraction/alignment, not a readable blank. Exclude NaN from conditional accuracy; count it in missing coverage. Incorrect and extracted-blank cells remain scored.",
+  "character_accuracy": "1 - total Levenshtein edits / available filled reference characters, calculated within cells. Insertions, deletions and substitutions cost 1, with no clipping; accuracy can be negative. Blank reference cells have a separate exact-match measure.",
+  "digit_accuracy": "Same edit formula on age or birth-year cells whose normalized reference consists entirely of ASCII digits. Keep all prediction characters, including stray periods and letters. Report the available digit denominator and digit coverage.",
+  "coverage": "Available cells / all reference cells, with filled-cell and reference-character coverage separately. Raw automatic coverage is recorded before any hash-bound source audit.",
+  "exact_yield": "Exactly recovered cells / all reference cells. Unavailable cells contribute zero correct cells; this measures extraction plus reading. Report automatic and source-audited yield separately.",
+  "rejected_fields": "--reject-field FIELD sets that column to NaN, including otherwise readable blanks, while preserving other columns. Repeat the flag for multiple columns. Coverage and rejection metadata expose the choice.",
+  "alignment_audit": "layout_audit.json binds source-checked structural maps to exact raw output and reference hashes. No text similarity alignment or label copying. --automatic-only disables these maps; future outputs require their own audit.",
+  "amendment": "2026-10-13: scoring revised after viewing outputs at the user request. Raw model outputs and references unchanged. Conditional scores with source assistance do not measure autonomous layout recovery.",
+  "reference_unit": "120 test annotation rows across four pages. Page223_0430 has29people plus an employer-code-only annotation region that possibly overlaps the final person. Preserve all120regions.",
+  "row_alignment": "Use physical output order on complete single tables with matching annotation-row counts. A count match does not establish semantic alignment. For the audited29-row page retain29rows and leave the final annotation region unavailable.",
+  "html_spans": "Respect explicit rowspan/colspan positions. A cell spanning distinct scored fields or people is unavailable for those fields, preserving unaffected cells. Inline superscripts are concatenated; br produces a space."
+}

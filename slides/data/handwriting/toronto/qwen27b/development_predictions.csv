@@ -1,0 +1,51 @@
+page_id,panel_id,split,line,name,age,occupation,earnings
+z000104023,z000104023_01-10,development,1,Elliot Burl,54,Consultation,360
+z000104023,z000104023_01-10,development,2,James,52,Cook,180
+z000104023,z000104023_01-10,development,3,Annie,33,,
+z000104023,z000104023_01-10,development,4,Harrison Reed,31,Consultation,600
+z000104023,z000104023_01-10,development,5,Annie E.,31,,
+z000104023,z000104023_01-10,development,6,Ethel M.,9,,
+z000104023,z000104023_01-10,development,7,Trensgove Rich,48,Consultation,225
+z000104023,z000104023_01-10,development,8,Ada,45,T,
+z000104023,z000104023_01-10,development,9,Hough Thos. E.,21,Restaurant,1000
+z000104023,z000104023_01-10,development,10,Mary Ann,63,,
+z000104023,z000104023_11-20,development,11,Mora. P.,22,Clerk,520
+z000104023,z000104023_11-20,development,12,David L.,27,Clerk,520
+z000104023,z000104023_11-20,development,13,Scott Elizabeth,25,Clerk,300
+z000104023,z000104023_11-20,development,14,Brietherland James,38,Clerk,600
+z000104023,z000104023_11-20,development,15,Lucy W.,39,Clerk,
+z000104023,z000104023_11-20,development,16,James R. B.,16,Clerk,
+z000104023,z000104023_11-20,development,17,Charles W. E.,11,,
+z000104023,z000104023_11-20,development,18,Savryen Elia,70,Clerk,100
+z000104023,z000104023_11-20,development,19,Frederick,37,,
+z000104023,z000104023_11-20,development,20,Paul H.,47,Clerk,120
+z000104023,z000104023_21-30,development,21,Margaret,60,,
+z000104023,z000104023_21-30,development,22,Anne,58,,
+z000104023,z000104023_21-30,development,23,Mary,56,,
+z000104023,z000104023_21-30,development,24,Catherine,53,,
+z000104023,z000104023_21-30,development,25,Isabella,52,,
+z000104023,z000104023_21-30,development,26,Frederick,20,Photographer,3/2
+z000104023,z000104023_21-30,development,27,Frieda,37,Laborer,2/10
+z000104023,z000104023_21-30,development,28,Powell James,14,Clerk,2/0
+z000104023,z000104023_21-30,development,29,Lynch Nora,44,General,2/0
+z000104023,z000104023_21-30,development,30,Martin,72,Laborer,1/0
+z000104023,z000104023_31-40,development,31,""" Frances",75,,
+z000104023,z000104023_31-40,development,32,Henderson Thomas,45,Carpenter,700
+z000104023,z000104023_31-40,development,33,""" Agnes",45,,
+z000104023,z000104023_31-40,development,34,Henderson Frances,43,Maid,500
+z000104023,z000104023_31-40,development,35,""" Margaret",39,,
+z000104023,z000104023_31-40,development,36,""" Elizabeth",17,,
+z000104023,z000104023_31-40,development,37,""" James",14,,
+z000104023,z000104023_31-40,development,38,""" William",12,,
+z000104023,z000104023_31-40,development,39,""" Thomas",9,,
+z000104023,z000104023_31-40,development,40,""" James",7,,
+z000104023,z000104023_41-50,development,41,John Smith,35,,
+z000104023,z000104023_41-50,development,42,Jane Smith,34,,
+z000104023,z000104023_41-50,development,43,Robert Smith,9 yrs,,
+z000104023,z000104023_41-50,development,44,O'Connell John,42,Rail Clerk,1000
+z000104023,z000104023_41-50,development,45,James Smith,13,,
+z000104023,z000104023_41-50,development,46,Rosa Brown,53,Carpenter,700
+z000104023,z000104023_41-50,development,47,Graham Murray,32,Clerk,500
+z000104023,z000104023_41-50,development,48,Walt Michael,23,Carpenter,500
+z000104023,z000104023_41-50,development,49,Carter James,36,Rail Clerk,500
+z000104023,z000104023_41-50,development,50,,20,,

@@ -1,0 +1,7 @@
+workflow,page_id,field,cells,available,correct
+chandra,z000104023,age,26,26,19
+chandra,z000104023,earnings,10,10,7
+qwen27b,z000104023,age,26,26,19
+qwen27b,z000104023,earnings,10,10,6
+qwen2b,z000104023,age,26,26,18
+qwen2b,z000104023,earnings,10,10,6

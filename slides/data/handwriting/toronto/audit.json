@@ -1,0 +1,109 @@
+{
+  "selection": "Publicly linked downloadable scans with verified page and person alignment; all York-labeled people retained on each selected page. Availability-selected, not a random population sample.",
+  "pages": [
+    {
+      "split": "development",
+      "page_id": "z000104023",
+      "enumerator": "Cornelius W Bastido",
+      "labeled_people": 26
+    },
+    {
+      "split": "test",
+      "page_id": "z000104182",
+      "enumerator": "Alex R Maclennan",
+      "labeled_people": 7
+    },
+    {
+      "split": "test",
+      "page_id": "z000104202",
+      "enumerator": "M A GLIORMA",
+      "labeled_people": 6
+    },
+    {
+      "split": "test",
+      "page_id": "z000104998",
+      "enumerator": "A G Murray",
+      "labeled_people": 17
+    },
+    {
+      "split": "test",
+      "page_id": "z000105395",
+      "enumerator": "Robert D Adams",
+      "labeled_people": 12
+    },
+    {
+      "split": "test",
+      "page_id": "z000106253",
+      "enumerator": "James F Hutchman",
+      "labeled_people": 22
+    },
+    {
+      "split": "test",
+      "page_id": "z000106351",
+      "enumerator": "WILLIAM FORBES",
+      "labeled_people": 14
+    },
+    {
+      "split": "test",
+      "page_id": "z000108124",
+      "enumerator": "GEORGE MOORE",
+      "labeled_people": 9
+    },
+    {
+      "split": "test",
+      "page_id": "z000108729",
+      "enumerator": "Duncan Robertson",
+      "labeled_people": 16
+    }
+  ],
+  "pre_inference_label_flags": [
+    {
+      "page_id": "z000104182",
+      "lines": [
+        5,
+        6
+      ],
+      "field": "age",
+      "finding": "Published ages appear to disagree with the scan; the full source including birth-year columns supports different readings. Published labels are retained."
+    },
+    {
+      "page_id": "z000104998",
+      "lines": [
+        19
+      ],
+      "field": "age",
+      "finding": "Possible source-versus-label reading difference. This is unresolved, not an adjudicated correction. Published label retained."
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "page_id": "z000105857",
+      "reason": "A published person has a different physical row number on the scan; unresolved pairing."
+    },
+    {
+      "page_id": "z000107675",
+      "reason": "A published person has a different physical row number, duplicating another reference row; unresolved pairing."
+    },
+    {
+      "page_id": "z000108662",
+      "reason": "No York rows matched the printed page key."
+    },
+    {
+      "page_id": "z000118564",
+      "reason": "Additional verified page not selected; enough people and writers already selected before inference."
+    },
+    {
+      "page_id": "z000117862",
+      "reason": "Additional verified page not selected; enough people and writers already selected before inference."
+    }
+  ],
+  "image_review": "All new-page panels visually inspected before inference; source headers and sampled physical row identities checked. This verifies pairing and geometry, not every reference transcription.",
+  "crop_limitations": [
+    "Bowed columns can include adjacent gridlines or checkbox marks. Ink crossing a printed row rule can enter the neighboring crop.",
+    "Text extending beyond a printed field can be clipped, including some Robertson occupations around lines 40-44 and Adams occupations.",
+    "A ten-row panel can start mid-household. Names remain literal model predictions and are not scored; no surname reconstruction is claimed.",
+    "The development source partly clips the final physical row."
+  ],
+  "scoring": "Primary agreement keeps the published reference values unchanged. These notes do not create corrected gold labels or adjusted accuracy.",
+  "post_run_age_diagnostic_page_id": "z000106253"
+}

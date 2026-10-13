@@ -1,0 +1,10 @@
+POPP Generic dataset: 1926 Paris census.
+Constum, Kempf, Paquet, Tranouez, Chatelain, Brée, and Merveille (2022).
+Recognition and Information Extraction in Historical Handwritten Tables:
+Toward Understanding Early 20th Century Paris Census. DAS, pp. 143–157.
+Source: https://doi.org/10.5281/zenodo.6581158
+License: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+Changes: six pages cropped to columns 6–15 and stored as lossless PNG;
+180 source transcriptions parsed into ten fields with whitespace collapsed.
+Original annotations and source coordinates are retained in labels.csv.
+Model responses are predictions, not source transcriptions.

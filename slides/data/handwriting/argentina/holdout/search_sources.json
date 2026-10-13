@@ -1,0 +1,52 @@
+{
+  "checked_utc": "2026-10-12T23:46:08.805028+00:00",
+  "author_hf_datasets": [],
+  "hf_collection": "https://huggingface.co/collections/Saucystream/1895-argentinian-census-6a1765155fe8cf2c61d536f9",
+  "github_branches": [
+    "main"
+  ],
+  "github_commits_checked": [
+    "1048ba9c12863283ad17b6cde11684e0ed42885d",
+    "8d85e954f1aa533ff551ad64d904e670fc088d02"
+  ],
+  "github_releases": [],
+  "heldout_page_ids": [
+    "S3HT-62RW-C1Y",
+    "S3HT-62RW-C5B",
+    "S3HT-62RW-C5L",
+    "S3HT-62RW-HJ2",
+    "S3HT-62RW-HMD",
+    "S3HT-62RW-HNF",
+    "S3HT-62RW-HNX",
+    "S3HT-62RW-HPP",
+    "S3HT-62RW-HTL",
+    "S3HT-62RW-HVG",
+    "S3HT-62RW-HXQ",
+    "S3HT-62RW-WBV",
+    "S3HT-62RW-WC2",
+    "S3HT-62RW-WCG"
+  ],
+  "training_log_overlap": [],
+  "public_processed_holdout_images": [
+    "S3HT-62RW-C1Y",
+    "S3HT-62RW-C5B",
+    "S3HT-62RW-C5L"
+  ],
+  "public_reference_files_for_holdout": [],
+  "old_concatenated_json_file": {
+    "url": "https://github.com/Saucy-Stream/Argentina_1895_census_HTR_code/blob/8d85e954f1aa533ff551ad64d904e670fc088d02/test.txt",
+    "pages": 110,
+    "sha256": "f4e0228197217cffefdc85ec791948b500cbdb392c8b1d211ed67fdfcc6a61b2",
+    "contains_selected_holdout_names": false
+  },
+  "chalmers_attachments": [
+    "thesis PDF",
+    "extracted text",
+    "thumbnail",
+    "deposit license"
+  ],
+  "reference_available_in_thesis": [
+    "S3HT-62RW-C1Y, Figure A.31"
+  ],
+  "conclusion": "Complete labeled 14-page holdout not found in public releases or repository history. One selected holdout has an image and reference in the thesis."
+}

@@ -1,0 +1,8 @@
+Appen Limited, OCR image data for Thai documents.
+Source: https://www.kaggle.com/datasets/appenlimited/ocr-image-data-for-thai-documents
+Image: THAI_RECEIPT_003149.jpg, unchanged.
+License: CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/
+Hugging Face image mirror: fwgpiyawudk/appen-thai-doc.
+input.png: crop to the printed item header and first row, resized to width 1600.
+Prediction HTML, CSV, and derived JSON are model outputs.
+This example and its adapted outputs are distributed under CC BY-SA 4.0.

@@ -1,0 +1,14 @@
+{
+  "source_page": "AD075DP_D2M8_275_0025_left_page",
+  "split": "development",
+  "model": "datalab-to/chandra-ocr-2",
+  "model_revision": "af93b47dba1b47b6640c86ccf487ed2260ab9a09",
+  "runtime": "mlx-vlm 0.7.6; mlx 0.32.3; Apple M4 Max; BF16",
+  "page_scale": 2,
+  "interpolation": "LANCZOS",
+  "temperature": 0,
+  "max_tokens": 8192,
+  "command": "OCR_BASE_URL=http://127.0.0.1:8082/v1 uv run --extra handwriting python code/handwriting_ocr.py --output build/handwriting/runnable_demo",
+  "date": "2026-10-12",
+  "saved_artifacts": "runnable_demo.csv, .html, and .json copied to slides/data/handwriting/chandra/demo.*"
+}

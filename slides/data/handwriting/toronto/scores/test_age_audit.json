@@ -1,0 +1,17 @@
+{
+  "workflow": "chandra",
+  "people": 103,
+  "available": 103,
+  "correct": 68,
+  "disagreements": {
+    "Flagged reference": 3,
+    "Hutchman page": 21,
+    "Other digit disagreements": 11
+  },
+  "ages_retained_with_unavailable_earnings": 8,
+  "correct_ages_with_unavailable_earnings": 8,
+  "difficult_page": "z000106253",
+  "page_people": 22,
+  "page_correct": 1,
+  "interpretation": "Whole-age disagreements among available cells. A failed earnings column does not discard ages. Flagged references are unresolved, not corrected labels."
+}

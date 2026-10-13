@@ -1,0 +1,60 @@
+{
+  "id": "chatcmpl-ade045c5-de99-44b7-ac04-f8eb71225b2a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "<div data-bbox=\"26 106 965 625\" data-label=\"Table\"><table border=\"1\"><thead><tr><th>จำนวน<br/>QUANTITY</th><th>รายการ<br/>DESCRIPTION</th><th>หน่วยละ<br/>UNIT PRICE</th><th>จำนวนเงิน<br/>AMOUNT</th></tr></thead><tbody><tr><td>490</td><td>ค่าถ่ายเอกสาร A4</td><td>0.50</td><td>245</td></tr></tbody></table></div>",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": null,
+        "reasoning": null,
+        "tool_call_id": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1791840481,
+  "model": "/Users/jlperla/.cache/huggingface/hub/models--fwgpiyawudk--ChandraOCR2_AppenDoc-merged/snapshots/dde20ac03d4dbc851af082576c7b34f095cf12e0",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 127,
+    "prompt_tokens": 845,
+    "total_tokens": 972,
+    "completion_tokens_details": null,
+    "compute_units": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "timings": {
+    "prompt_n": 845,
+    "cache_n": 0,
+    "predicted_n": 127,
+    "prompt_ms": 466.8179170694202,
+    "prompt_per_token_ms": 0.5524472391354085,
+    "prompt_per_second": 1810.1276088645513,
+    "predicted_ms": 3166.128646768075,
+    "predicted_per_token_ms": 24.930146824945474,
+    "predicted_per_second": 40.11207824092657,
+    "peak_memory": 12.05114891,
+    "draft_kind": null,
+    "draft_rounds": null,
+    "draft_n": null,
+    "draft_n_accepted": null
+  }
+}

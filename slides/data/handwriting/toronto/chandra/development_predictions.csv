@@ -1,0 +1,51 @@
+page_id,panel_id,split,line,name,age,occupation,earnings
+z000104023,z000104023_01-10,development,1,Elliot Burd,54,Domestic,360
+z000104023,z000104023_01-10,development,2,""" Jane",52,Cook,100
+z000104023,z000104023_01-10,development,3,""" Annie",33,,
+z000104023,z000104023_01-10,development,4,Spencer Fred,31,Domestic,600
+z000104023,z000104023_01-10,development,5,""" Annie E.",31,,
+z000104023,z000104023_01-10,development,6,Ethel M.,9,,
+z000104023,z000104023_01-10,development,7,Greigove Rick,48,Domestic,225
+z000104023,z000104023_01-10,development,8,""" Anne",45,,
+z000104023,z000104023_01-10,development,9,Hough Thor. E.,21,Restaurant,1000
+z000104023,z000104023_01-10,development,10,""" Mary Ann",63,,
+z000104023,z000104023_11-20,development,11,""" Maria P",22,,
+z000104023,z000104023_11-20,development,12,""" David L",27,Clerk,520
+z000104023,z000104023_11-20,development,13,Scott Elizabeth,25,Gov.,300
+z000104023,z000104023_11-20,development,14,Bruttrland James,38,Merchant,600
+z000104023,z000104023_11-20,development,15,""" Lucy W",39,,
+z000104023,z000104023_11-20,development,16,""" James R R",16,Wife,
+z000104023,z000104023_11-20,development,17,""" Charles W. E",11,,
+z000104023,z000104023_11-20,development,18,Sawyer Elias,25,Harbor,1000
+z000104023,z000104023_11-20,development,19,""" Maria",37,,
+z000104023,z000104023_11-20,development,20,Mr Phil Hott,47,Cartographer,120
+z000104023,z000104023_21-30,development,21,""" Margaret",60,,
+z000104023,z000104023_21-30,development,22,""" Annie",58,,
+z000104023,z000104023_21-30,development,23,""" Mary",56,,
+z000104023,z000104023_21-30,development,24,""" Catherine",52,,
+z000104023,z000104023_21-30,development,25,""" Madeline",62,,
+z000104023,z000104023_21-30,development,26,McGowan Alfred,20,Photographer,312
+z000104023,z000104023_21-30,development,27,Smith Gardner R,37,Labourer,200
+z000104023,z000104023_21-30,development,28,Dowdell James,14,agent,200
+z000104023,z000104023_21-30,development,29,Lynch Wm,44,garmenter,250
+z000104023,z000104023_21-30,development,30,Martin Frank,72,Labourer,100
+z000104023,z000104023_31-40,development,31,""" Emma",75,,
+z000104023,z000104023_31-40,development,32,Kimberly Turner,45,1. Postmaster,100
+z000104023,z000104023_31-40,development,33,""" Anna",45,,
+z000104023,z000104023_31-40,development,34,Wendie Jones,43,Postmaster,500
+z000104023,z000104023_31-40,development,35,""" Maryann",39,,
+z000104023,z000104023_31-40,development,36,""" Elideth",17,,
+z000104023,z000104023_31-40,development,37,""" James",17,,
+z000104023,z000104023_31-40,development,38,""" William",12,,
+z000104023,z000104023_31-40,development,39,""" Emma",9,,
+z000104023,z000104023_31-40,development,40,""" Annie",7,,
+z000104023,z000104023_41-50,development,41,""" Anderson",55,,
+z000104023,z000104023_41-50,development,42,""" John",35,,
+z000104023,z000104023_41-50,development,43,""" Martin",40,,
+z000104023,z000104023_41-50,development,44,OConnell John,62,Butcher,1000
+z000104023,z000104023_41-50,development,45,""" James",63,,
+z000104023,z000104023_41-50,development,46,Ross Edward,53,Butcher,700
+z000104023,z000104023_41-50,development,47,Graben Martin,32,Butcher,550
+z000104023,z000104023_41-50,development,48,W. Hinchey John,36,Butcher,500
+z000104023,z000104023_41-50,development,49,Porter James,36,Butcher,500
+z000104023,z000104023_41-50,development,50,"""",24,,

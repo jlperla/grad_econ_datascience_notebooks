@@ -1,0 +1,18 @@
+{
+  "people": 103,
+  "pages": 8,
+  "enumerators": 8,
+  "split": "test",
+  "metrics": "Digit accuracy = 1 - summed character edit distance / reference digits, using available filled cells after numeric normalization. Whole-value agreement and extraction coverage are separate.",
+  "missing_output": "NaN marks an unavailable field; an extracted empty string remains a blank prediction. NaN cells are excluded from conditional accuracy and counted in coverage.",
+  "scored_fields": [
+    "age",
+    "earnings"
+  ],
+  "unscored_fields": [
+    "name",
+    "occupation"
+  ],
+  "unscored_reason": "Names can contain expanded surnames; occupations mix abbreviations and editorial expansions without an adjudicated equivalence mapping.",
+  "uncertainty": "References containing ! ? { } = are reported separately"
+}

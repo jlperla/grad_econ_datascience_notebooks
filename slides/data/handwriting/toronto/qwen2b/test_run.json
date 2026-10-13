@@ -1,0 +1,405 @@
+{
+  "model": "qwen3.5:2b",
+  "model_revision": "324d162be6ca5629ae4517c8710434d0bd2d665bc94dbad46e9af8fbf8a2f0df",
+  "runtime": "Ollama 0.35.0",
+  "model_details": {
+    "name": "qwen3.5:2b",
+    "model": "qwen3.5:2b",
+    "modified_at": "2026-09-03T11:46:09.66803129-07:00",
+    "size": 2741192820,
+    "digest": "324d162be6ca5629ae4517c8710434d0bd2d665bc94dbad46e9af8fbf8a2f0df",
+    "details": {
+      "parent_model": "",
+      "format": "gguf",
+      "family": "qwen35",
+      "families": [
+        "qwen35"
+      ],
+      "parameter_size": "2.3B",
+      "quantization_level": "Q8_0",
+      "context_length": 262144,
+      "embedding_length": 2048
+    },
+    "capabilities": [
+      "completion",
+      "vision",
+      "tools",
+      "thinking"
+    ]
+  },
+  "date_utc": "2026-10-13T02:56:37.103049+00:00",
+  "workflow": "qwen2b",
+  "temperature": 0,
+  "max_tokens": 4096,
+  "thinking": false,
+  "prompt": "Extract every row of this census table as JSON. Return only an object with key \"rows\", a list of objects with string fields \"line\", \"name\", \"age\", \"occupation\", \"earnings\". Read only the image. Preserve spelling and abbreviations, including ditto marks. Do not fill blanks or infer missing values. Use an empty string for an empty cell. Keep every row in printed order. No commentary.",
+  "prompt_sha256": "915864db5cc40887c03ea079139c22a11d9e3ddcb9d32c5937945644980c4f0c",
+  "inputs": [
+    {
+      "panel_id": "z000104182_01-10",
+      "page_id": "z000104182",
+      "split": "test",
+      "first_line": 1,
+      "last_line": 10,
+      "image": "z000104182_01-10.png",
+      "sha256": "084462a01ef8790bae215b7069665d0dedb5feecf114a8b7cacc486d597755db"
+    },
+    {
+      "panel_id": "z000104182_11-20",
+      "page_id": "z000104182",
+      "split": "test",
+      "first_line": 11,
+      "last_line": 20,
+      "image": "z000104182_11-20.png",
+      "sha256": "dfb50f4719b18ccb0bacc02566e69109fe573ea68deb8201c5b85aa33814f0e1"
+    },
+    {
+      "panel_id": "z000104182_21-30",
+      "page_id": "z000104182",
+      "split": "test",
+      "first_line": 21,
+      "last_line": 30,
+      "image": "z000104182_21-30.png",
+      "sha256": "2631d54370a690604fd7172b68f9b3e2f93f393bf70dbea4ddbacd98f88bc261"
+    },
+    {
+      "panel_id": "z000104182_31-40",
+      "page_id": "z000104182",
+      "split": "test",
+      "first_line": 31,
+      "last_line": 40,
+      "image": "z000104182_31-40.png",
+      "sha256": "ae4c8a0e158566fc28b47b1aeb391799d5f75aab322368c7a058b634445ece0d"
+    },
+    {
+      "panel_id": "z000104182_41-50",
+      "page_id": "z000104182",
+      "split": "test",
+      "first_line": 41,
+      "last_line": 50,
+      "image": "z000104182_41-50.png",
+      "sha256": "f2cb6b4fb5c69db7b1c3bab0d74d078b37049f682573c49aaa6a6e1d20cc3945"
+    },
+    {
+      "panel_id": "z000104202_01-10",
+      "page_id": "z000104202",
+      "split": "test",
+      "first_line": 1,
+      "last_line": 10,
+      "image": "z000104202_01-10.png",
+      "sha256": "ff1926ff4e669721a2ef26c8b4aea89a02089412bf017714d5d67be15699b0e9"
+    },
+    {
+      "panel_id": "z000104202_11-20",
+      "page_id": "z000104202",
+      "split": "test",
+      "first_line": 11,
+      "last_line": 20,
+      "image": "z000104202_11-20.png",
+      "sha256": "f5edb6fa3f4ee0b3c9ce9866784d5e65b5307a28ef15dbb76679e4c6db25a138"
+    },
+    {
+      "panel_id": "z000104202_21-30",
+      "page_id": "z000104202",
+      "split": "test",
+      "first_line": 21,
+      "last_line": 30,
+      "image": "z000104202_21-30.png",
+      "sha256": "0d1c6aa70b862c85453da50f547a29aedd29101018b1f0dd78d14a081d3e0644"
+    },
+    {
+      "panel_id": "z000104202_31-40",
+      "page_id": "z000104202",
+      "split": "test",
+      "first_line": 31,
+      "last_line": 40,
+      "image": "z000104202_31-40.png",
+      "sha256": "057938cc2b4b1b62d054e82c02bc8e67e9f975d61dd29e9a53f7ec25321b4e70"
+    },
+    {
+      "panel_id": "z000104202_41-50",
+      "page_id": "z000104202",
+      "split": "test",
+      "first_line": 41,
+      "last_line": 50,
+      "image": "z000104202_41-50.png",
+      "sha256": "c0979771e01b65eebbd1ec465d1837ffd6614948099fcb09fd4126bd4d7d54aa"
+    },
+    {
+      "panel_id": "z000104998_01-10",
+      "page_id": "z000104998",
+      "split": "test",
+      "first_line": 1,
+      "last_line": 10,
+      "image": "z000104998_01-10.png",
+      "sha256": "7a7d77e116ff60e3da35fe207298cbd586eb23be98bc9b0e2311cd33536eff2e"
+    },
+    {
+      "panel_id": "z000104998_11-20",
+      "page_id": "z000104998",
+      "split": "test",
+      "first_line": 11,
+      "last_line": 20,
+      "image": "z000104998_11-20.png",
+      "sha256": "7734fa02aa0fc061052d9a5ee54167a2c596f4cba0d20d3b655240d6e9719fa0"
+    },
+    {
+      "panel_id": "z000104998_21-30",
+      "page_id": "z000104998",
+      "split": "test",
+      "first_line": 21,
+      "last_line": 30,
+      "image": "z000104998_21-30.png",
+      "sha256": "2ac708149bda8b8aa49b5760bf78316e6e6d22bb24fd5e4a03251abe840bd060"
+    },
+    {
+      "panel_id": "z000104998_31-40",
+      "page_id": "z000104998",
+      "split": "test",
+      "first_line": 31,
+      "last_line": 40,
+      "image": "z000104998_31-40.png",
+      "sha256": "958c4c62c98f4fa0410e5270e4528dc0022cf96b68927192a566e650528248bf"
+    },
+    {
+      "panel_id": "z000104998_41-50",
+      "page_id": "z000104998",
+      "split": "test",
+      "first_line": 41,
+      "last_line": 50,
+      "image": "z000104998_41-50.png",
+      "sha256": "155052f092aa3b7cd799329b8beb131f7f95819670aa87f0306b53533e1d0fd7"
+    },
+    {
+      "panel_id": "z000105395_01-10",
+      "page_id": "z000105395",
+      "split": "test",
+      "first_line": 1,
+      "last_line": 10,
+      "image": "z000105395_01-10.png",
+      "sha256": "d56bb9049877f31bcea18d1e8a36009ac0f206b5b094825da093479f77f2597d"
+    },
+    {
+      "panel_id": "z000105395_11-20",
+      "page_id": "z000105395",
+      "split": "test",
+      "first_line": 11,
+      "last_line": 20,
+      "image": "z000105395_11-20.png",
+      "sha256": "fe783eb1baf05024560e396cf914024e8c7debe390b3fd7bd9807b7c18371a0c"
+    },
+    {
+      "panel_id": "z000105395_21-30",
+      "page_id": "z000105395",
+      "split": "test",
+      "first_line": 21,
+      "last_line": 30,
+      "image": "z000105395_21-30.png",
+      "sha256": "14ceab06fe0d715b88a7f4748c91b70cbfdaf4528c3f18bb01950186420e6b0c"
+    },
+    {
+      "panel_id": "z000105395_31-40",
+      "page_id": "z000105395",
+      "split": "test",
+      "first_line": 31,
+      "last_line": 40,
+      "image": "z000105395_31-40.png",
+      "sha256": "6ef99c95da39169efe4ee4df5d570924df6f5e5d69a305dcc1dc3bfcd20de8c4"
+    },
+    {
+      "panel_id": "z000105395_41-50",
+      "page_id": "z000105395",
+      "split": "test",
+      "first_line": 41,
+      "last_line": 50,
+      "image": "z000105395_41-50.png",
+      "sha256": "efd3276b53e917efe9cc223942d1e8dc04b6a7a89e1ca28171c3ae56dcf3b219"
+    },
+    {
+      "panel_id": "z000106253_01-10",
+      "page_id": "z000106253",
+      "split": "test",
+      "first_line": 1,
+      "last_line": 10,
+      "image": "z000106253_01-10.png",
+      "sha256": "00401727edca174becb3b64187b26e22a113bbac3167066bae4a0a7ac3c3fe70"
+    },
+    {
+      "panel_id": "z000106253_11-20",
+      "page_id": "z000106253",
+      "split": "test",
+      "first_line": 11,
+      "last_line": 20,
+      "image": "z000106253_11-20.png",
+      "sha256": "4b9e90c2f9e71d5bb34c3853e8b042124f3d816a074133f66baa2e61f5981190"
+    },
+    {
+      "panel_id": "z000106253_21-30",
+      "page_id": "z000106253",
+      "split": "test",
+      "first_line": 21,
+      "last_line": 30,
+      "image": "z000106253_21-30.png",
+      "sha256": "e9e16626003e663f76965ded8d5618dd6b60975ca23021a662a9bfb561f691ae"
+    },
+    {
+      "panel_id": "z000106253_31-40",
+      "page_id": "z000106253",
+      "split": "test",
+      "first_line": 31,
+      "last_line": 40,
+      "image": "z000106253_31-40.png",
+      "sha256": "756d9cbc3a3efe13c40c6de6342351eca7c4025512c1c3363d7cde9c1527687f"
+    },
+    {
+      "panel_id": "z000106253_41-50",
+      "page_id": "z000106253",
+      "split": "test",
+      "first_line": 41,
+      "last_line": 50,
+      "image": "z000106253_41-50.png",
+      "sha256": "271ee1f77e6e1f61078d3b3f5d5cf6a39408d7200b278ce2108d4342b8f7a760"
+    },
+    {
+      "panel_id": "z000106351_01-10",
+      "page_id": "z000106351",
+      "split": "test",
+      "first_line": 1,
+      "last_line": 10,
+      "image": "z000106351_01-10.png",
+      "sha256": "80b2245cb0610009a7ef261e3e95252a1a6411d12a5dc27703337f2da3142592"
+    },
+    {
+      "panel_id": "z000106351_11-20",
+      "page_id": "z000106351",
+      "split": "test",
+      "first_line": 11,
+      "last_line": 20,
+      "image": "z000106351_11-20.png",
+      "sha256": "70d9b5237615849c20cf4308949821a67f06b9638f2d0db77dcd06e9837bd2f4"
+    },
+    {
+      "panel_id": "z000106351_21-30",
+      "page_id": "z000106351",
+      "split": "test",
+      "first_line": 21,
+      "last_line": 30,
+      "image": "z000106351_21-30.png",
+      "sha256": "3044dbec4cd565efebd1913419b7cd9c2e852165bca229a8d41dbd5859f4dff3"
+    },
+    {
+      "panel_id": "z000106351_31-40",
+      "page_id": "z000106351",
+      "split": "test",
+      "first_line": 31,
+      "last_line": 40,
+      "image": "z000106351_31-40.png",
+      "sha256": "a042015ff8b3502a7a97c490343a5e9887d0114258378981469668a85bda5315"
+    },
+    {
+      "panel_id": "z000106351_41-50",
+      "page_id": "z000106351",
+      "split": "test",
+      "first_line": 41,
+      "last_line": 50,
+      "image": "z000106351_41-50.png",
+      "sha256": "67b038267eebb637fb784a57112dab2c4b385a35e9671651780d4a239a1f382c"
+    },
+    {
+      "panel_id": "z000108124_01-10",
+      "page_id": "z000108124",
+      "split": "test",
+      "first_line": 1,
+      "last_line": 10,
+      "image": "z000108124_01-10.png",
+      "sha256": "64a7aeab32e49b68c069b251d97334c6e899769363b1dfad8db2977bb3943ab6"
+    },
+    {
+      "panel_id": "z000108124_11-20",
+      "page_id": "z000108124",
+      "split": "test",
+      "first_line": 11,
+      "last_line": 20,
+      "image": "z000108124_11-20.png",
+      "sha256": "7705a47d66fe3515c14dc72f4fc1ad3c1c8e527fb73decd145ab672bd50d73f8"
+    },
+    {
+      "panel_id": "z000108124_21-30",
+      "page_id": "z000108124",
+      "split": "test",
+      "first_line": 21,
+      "last_line": 30,
+      "image": "z000108124_21-30.png",
+      "sha256": "afa7f2f33addc8bce189f45afb0201b3f169f58ed51a4b658b0fb4d269dda8b7"
+    },
+    {
+      "panel_id": "z000108124_31-40",
+      "page_id": "z000108124",
+      "split": "test",
+      "first_line": 31,
+      "last_line": 40,
+      "image": "z000108124_31-40.png",
+      "sha256": "4c9079a16c62921c47c43d68093b8ed412cf76b87eb05f839a9ac1c38279fd1d"
+    },
+    {
+      "panel_id": "z000108124_41-50",
+      "page_id": "z000108124",
+      "split": "test",
+      "first_line": 41,
+      "last_line": 50,
+      "image": "z000108124_41-50.png",
+      "sha256": "fee229b3dcd6695b1df2945fba8abdd83bf79f70ef83493366c03d80be92cad2"
+    },
+    {
+      "panel_id": "z000108729_01-10",
+      "page_id": "z000108729",
+      "split": "test",
+      "first_line": 1,
+      "last_line": 10,
+      "image": "z000108729_01-10.png",
+      "sha256": "28ae9cb9a49c06cb21d56f475f40b5dfd32e6a7a07a34bb41975e363f81d7462"
+    },
+    {
+      "panel_id": "z000108729_11-20",
+      "page_id": "z000108729",
+      "split": "test",
+      "first_line": 11,
+      "last_line": 20,
+      "image": "z000108729_11-20.png",
+      "sha256": "fabc17ef535c23d906734e8d2c6b2d7f215b251c66c0ac801bda63908427315a"
+    },
+    {
+      "panel_id": "z000108729_21-30",
+      "page_id": "z000108729",
+      "split": "test",
+      "first_line": 21,
+      "last_line": 30,
+      "image": "z000108729_21-30.png",
+      "sha256": "8f6e758de1a9414af292b55b6149be9d6d20b10eb2f7b8eef77b534cb0c26031"
+    },
+    {
+      "panel_id": "z000108729_31-40",
+      "page_id": "z000108729",
+      "split": "test",
+      "first_line": 31,
+      "last_line": 40,
+      "image": "z000108729_31-40.png",
+      "sha256": "5b786ee318f3cdd7ccfea5a4776d35c3c4a629703b84e160b87a5c072273dca4"
+    },
+    {
+      "panel_id": "z000108729_41-50",
+      "page_id": "z000108729",
+      "split": "test",
+      "first_line": 41,
+      "last_line": 50,
+      "image": "z000108729_41-50.png",
+      "sha256": "0ba89f63d1e15bd7516154d24b5be987619092ff8c0cffba4b31da317035bec0"
+    }
+  ],
+  "packages": {
+    "openai": "3.6.0",
+    "pandas": "3.0.5",
+    "Pillow": "12.3.0"
+  },
+  "input": "Identical annotated cell panels; printed row order; no reference values"
+}

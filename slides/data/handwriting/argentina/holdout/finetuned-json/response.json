@@ -1,0 +1,60 @@
+{
+  "id": "chatcmpl-8e73682e-c5bd-487a-a2c4-20ee0a706dd8",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"headers\":[\"marginalia\",\"Número de orden\",\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"H\",\"I\",\"J\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\"],\n\"data\": \n[{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 1,\n\t\"A\": [\"Celsi\",\"Bernabela\"],\n\t\"B\": \"M\",\n\t\"C\": 11,\n\t\"D\": \"*\",\n\t\"E\": \"Argentina\",\n\t\"F\": \"Cordoba\",\n\t\"H\": \"*\",\n\t\"I\": \"si\",\n\t\"J\": \"no\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 2,\n\t\"A\": [\"Colombo\",\"Angel\"],\n\t\"B\": \"V\",\n\t\"C\": 28,\n\t\"D\": \"C\",\n\t\"E\": \"Italia\",\n\t\"F\": \"*\",\n\t\"H\": \"Minero\",\n\t\"I\": \"si\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 3,\n\t\"A\": [\"Berbegu\",\"Catalina\"],\n\t\"B\": \"M\",\n\t\"C\": 28,\n\t\"D\": \"C\",\n\t\"E\": \"Francia\",\n\t\"F\": \"*\",\n\t\"H\": \"*\",\n\t\"I\": \"si\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"3\",\"6\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 4,\n\t\"A\": [\"Yemberto\",\"Colombo\"],\n\t\"B\": \"V\",\n\t\"C\": 4,\n\t\"D\": \"*\",\n\t\"E\": \"Argentina\",\n\t\"F\": \"Cordoba\",\n\t\"H\": \"*\",\n\t\"I\": \"*\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 5,\n\t\"A\": [\"Colombo\",\"Angelina\"],\n\t\"B\": \"M\",\n\t\"C\": 3,\n\t\"D\": \"*\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"*\",\n\t\"I\": \"*\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 6,\n\t\"A\": [\"Colombo\",\"Constantina\"],\n\t\"B\": \"V\",\n\t\"C\": 0,\n\t\"D\": \"*\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"*\",\n\t\"I\": \"*\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"P1-\",\n\t\"Número de orden\": 7,\n\t\"A\": [\"Cabral\",\"Miguel\"],\n\t\"B\": \"V\",\n\t\"C\": 57,\n\t\"D\": \"C\",\n\t\"E\": \"Argentina\",\n\t\"F\": \"''\",\n\t\"H\": \"Estanciero\",\n\t\"I\": \"si\",\n\t\"J\": \"*\",\n\t\"K\": \"si\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 8,\n\t\"A\": [\"Cabral\",\"Miguel\"],\n\t\"B\": \"V\",\n\t\"C\": 24,\n\t\"D\": \"S\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"Estanciero\",\n\t\"I\": \"si\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 9,\n\t\"A\": [\"Cabral\",\"Octaviano\"],\n\t\"B\": \"V\",\n\t\"C\": 22,\n\t\"D\": \"S\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"Telegrafista\",\n\t\"I\": \"si\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 10,\n\t\"A\": [\"Cabral\",\"Bartolico\"],\n\t\"B\": \"V\",\n\t\"C\": 18,\n\t\"D\": \"S\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"Estanciero\",\n\t\"I\": \"si\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 11,\n\t\"A\": [\"Quintero\",\"Ginestra\"],\n\t\"B\": \"V\",\n\t\"C\": 16,\n\t\"D\": \"*\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"Jornalero\",\n\t\"I\": \"no\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 12,\n\t\"A\": [\"Quintero\",\"Benita\"],\n\t\"B\": \"M\",\n\t\"C\": 42,\n\t\"D\": \"S\",\n\t\"E\": \"''\",\n\t\"F\": \"San Luis\",\n\t\"H\": \"Cocinera\",\n\t\"I\": \"no\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"P1-\",\n\t\"Número de orden\": 13,\n\t\"A\": [\"Rivarola\",\"Pedro\"],\n\t\"B\": \"V\",\n\t\"C\": 22,\n\t\"D\": \"P\",\n\t\"E\": \"''\",\n\t\"F\": \"Cordoba\",\n\t\"H\": \"Criador\",\n\t\"I\": \"no\",\n\t\"J\": \"*\",\n\t\"K\": \"si\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 14,\n\t\"A\": [\"Reina\",\"Eloira\"],\n\t\"B\": \"M\",\n\t\"C\": 30,\n\t\"D\": \"C\",\n\t\"E\": \"''\",\n\t\"F\": \"San Luis\",\n\t\"H\": \"*\",\n\t\"I\": \"si\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"4\",\"6\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 15,\n\t\"A\": [\"Rivarola\",\"Maria\"],\n\t\"B\": \"V\",\n\t\"C\": 5,\n\t\"D\": \"*\",\n\t\"E\": \"''\",\n\t\"F\": \"Cordoba\",\n\t\"H\": \"*\",\n\t\"I\": \"no\",\n\t\"J\": \"no\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": null,
+        "reasoning": null,
+        "tool_call_id": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1791848648,
+  "model": "build/handwriting/argentina-model",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1839,
+    "prompt_tokens": 2420,
+    "total_tokens": 4259,
+    "completion_tokens_details": null,
+    "compute_units": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "timings": {
+    "prompt_n": 2420,
+    "cache_n": 0,
+    "predicted_n": 1839,
+    "prompt_ms": 2652.5427498854697,
+    "prompt_per_token_ms": 1.096092045407219,
+    "prompt_per_second": 912.3321387014364,
+    "predicted_ms": 62116.60154694851,
+    "predicted_per_token_ms": 33.77737985152176,
+    "predicted_per_second": 29.6056119330685,
+    "peak_memory": 18.61503593,
+    "draft_kind": null,
+    "draft_rounds": null,
+    "draft_n": null,
+    "draft_n_accepted": null
+  }
+}

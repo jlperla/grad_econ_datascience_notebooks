@@ -1,0 +1,214 @@
+{
+  "reference_url": "https://odr.chalmers.se/bitstreams/56e9e0b8-2859-4a1c-8d3c-735b0441de16/download#page=92",
+  "reference_sha256": "5f6e5f20fc238a770323a88fd4dfd84157903d8c6f6643b3ba66f3e2de090365",
+  "reference_distribution": "Downloaded on demand; not bundled",
+  "protocol": {
+    "sample": "S3HT-62RW-C1Y, one page from Ledin (2026)'s final test set",
+    "selection": "Selected by the author as the best-performing of 14 final test pages for the blur-trained adapter; not a representative sample",
+    "source": "Figure 5.16, PDF page 64, extracted losslessly with Poppler pdfimages",
+    "source_preprocessing": "Author's median-blurred image; 2037 x 1024 grayscale. Convert to RGB PNG without rescaling.",
+    "reference": "Figure A.31, PDF page 92. Figure A.30 is a model prediction and is not used as truth.",
+    "reference_extraction": "Poppler pdftotext -layout; select numbered rows between captions A.30 and A.31; replace TeX low double-quote glyph with two comma delimiters; preserve other characters",
+    "models": [
+      "datalab-to/chandra",
+      "Saucystream/fine_tuned_chandra",
+      "datalab-to/chandra-ocr-2",
+      "Saucystream/fine_tuned_chandra_blur"
+    ],
+    "inference": "Same RGB PNG input, BF16, greedy temperature 0, maximum 8192 output tokens; no reference labels in prompts",
+    "prompts": "Both base models use chandra-ocr 0.2 OCR_PROMPT and output HTML. The published adapter uses its author's JSON prompt. This compares extraction workflows.",
+    "adapter": "Primary comparison uses fine_tuned_chandra, trained on untransformed pages. The secondary run uses fine_tuned_chandra_blur, trained on median-blurred pages and used for the thesis's final evaluation. Every model receives the same blurred thesis figure. BF16 merged inference is not the author's quantized runtime.",
+    "fields": [
+      "full_name",
+      "sex",
+      "age",
+      "occupation",
+      "literacy",
+      "property_owner"
+    ],
+    "reference_columns": [
+      [
+        2,
+        3
+      ],
+      [
+        4
+      ],
+      [
+        5
+      ],
+      [
+        9
+      ],
+      [
+        10
+      ],
+      [
+        12
+      ]
+    ],
+    "normalization": "Unicode NFC, collapsed whitespace, empty string to *, integers to strings; retain case, accents, punctuation and ditto marks",
+    "alignment": "Unique printed row number. Score fields independently; duplicate or absent row IDs and unavailable fields become NaN. Retain other rows. Exact hash-bound source-audited maps are a separate assisted result.",
+    "denominator": "15 people x 6 fields = 90 cells; also report the 67 filled cells separately",
+    "format": "Keep complete records, including complete JSON prefix objects if truncation occurs. Unreadable or absent fields are NaN; report syntax/termination separately. No complete structured record means 0% coverage and undefined reading accuracy.",
+    "diagnostics": "Period-only, no/nó and accent-fold sensitivities operate on available cells. Exclude five flagged reference cells only in the separately labeled sensitivity.",
+    "uncertain_cells": [
+      [
+        9,
+        "full_name"
+      ],
+      [
+        10,
+        "full_name"
+      ],
+      [
+        12,
+        "full_name"
+      ],
+      [
+        12,
+        "occupation"
+      ],
+      [
+        14,
+        "full_name"
+      ]
+    ],
+    "reference_uncertainty": "Retain the author's spellings even where handwriting is ambiguous; no model-assisted correction of reference labels",
+    "review_amendment": "An independent visual review flagged five reference cells and missing accents. Sensitivities and the secondary blur run were added after the first inference request but before inspecting any model response.",
+    "interpretation": "Agreement on one author-selected held-out page, not overall generalization performance or statistical significance",
+    "distribution": "Download thesis, scan and labels on demand into ignored build/. Publish model predictions and aggregate/per-field counts only.",
+    "html_projection": "Use printed-column positions, respecting explicit spans. The source-audited OCR2 holdout mapping shifts only left-page selected fields; automatic scores keep the original fixed map.",
+    "parser_amendment": "The colspan rule was added after inspecting Chandra 1 output. It interprets explicit HTML cell spans; it does not infer missing columns or move field contents.",
+    "layout_diagnostic": "The previously exploratory source-checked OCR2 map is now included only in explicitly assisted results. See ../../layout_audit.json for the exact mapping and hash binding. Automatic coverage and exact yield remain separately reported.",
+    "layout_amendment_utc": "2026-10-12T23:58:50.979248+00:00",
+    "layout_amendment": "After inspecting all model outputs, added emitted/aligned row counts and a separate post-hoc OCR 2 layout diagnostic. Primary scores and reference labels are unchanged.",
+    "freeze_record": {
+      "frozen_utc": "2026-10-12T23:42:58.321704+00:00",
+      "protocol_sha256": "e26e7b4066cf7682a66c0e64fbefd30ca6cefdd5dae6d471e88bfd311cc2388e",
+      "reference_sha256": "5f6e5f20fc238a770323a88fd4dfd84157903d8c6f6643b3ba66f3e2de090365",
+      "reference_people": 15,
+      "reference_widths": [
+        20
+      ],
+      "filled_cells": 67,
+      "model_runs_started": false
+    },
+    "reference_review_record": {
+      "amended_utc": "2026-10-12T23:44:26.005432+00:00",
+      "protocol_sha256": "69e5c559ffd0d29efb4c076935eea97d844f75e1fd37be2b0934f0e4e11da558",
+      "reason": "Independent visual review of reference; no model response inspected",
+      "reference_cells": [
+        [
+          9,
+          "full_name"
+        ],
+        [
+          10,
+          "full_name"
+        ],
+        [
+          12,
+          "full_name"
+        ],
+        [
+          12,
+          "occupation"
+        ],
+        [
+          14,
+          "full_name"
+        ]
+      ]
+    },
+    "partial_scoring": {
+      "normalization": "NFC and collapsed whitespace; preserve case, punctuation, accents, ditto marks and all predicted characters. Paris ! and ? annotation markers become spaces; Argentina * is an extracted blank.",
+      "missing": "NaN means unavailable extraction/alignment, not a readable blank. Exclude NaN from conditional accuracy; count it in missing coverage. Incorrect and extracted-blank cells remain scored.",
+      "character_accuracy": "1 - total Levenshtein edits / available filled reference characters, calculated within cells. Insertions, deletions and substitutions cost 1, with no clipping; accuracy can be negative. Blank reference cells have a separate exact-match measure.",
+      "digit_accuracy": "Same edit formula on age or birth-year cells whose normalized reference consists entirely of ASCII digits. Keep all prediction characters, including stray periods and letters. Report the available digit denominator and digit coverage.",
+      "coverage": "Available cells / all reference cells, with filled-cell and reference-character coverage separately. Raw automatic coverage is recorded before any hash-bound source audit.",
+      "exact_yield": "Exactly recovered cells / all reference cells. Unavailable cells contribute zero correct cells; this measures extraction plus reading. Report automatic and source-audited yield separately.",
+      "rejected_fields": "--reject-field FIELD sets that column to NaN, including otherwise readable blanks, while preserving other columns. Repeat the flag for multiple columns. Coverage and rejection metadata expose the choice.",
+      "alignment_audit": "layout_audit.json binds source-checked structural maps to exact raw output and reference hashes. No text similarity alignment or label copying. --automatic-only disables these maps; future outputs require their own audit.",
+      "amendment": "2026-10-13: scoring revised after viewing outputs at the user request. Raw model outputs and references unchanged. Conditional scores with source assistance do not measure autonomous layout recovery."
+    },
+    "metrics": [
+      "conditional character and digit accuracy",
+      "available cell and character coverage",
+      "automatic and source-audited exact recovery over all reference cells",
+      "conditional exact-cell disagreements",
+      "filled and blank agreement",
+      "automatic and assisted row counts"
+    ]
+  },
+  "runs": {
+    "Chandra 1 / HTML": {
+      "model": "datalab-to/chandra",
+      "revision": "bd40c21576564d31ba99f204e28ccd5c4c1751fa",
+      "input_sha256": "c3367bc80d1d15615ac9071e23060a869a4a76575c81df91935bb2879f266b3d",
+      "response_sha256": "03a501623c638c5ee6f74a5c955a8044185faa57a00d43386f9c3cc081f4b781",
+      "html_columns": {
+        "full_name": [
+          1,
+          2
+        ],
+        "sex": [
+          3
+        ],
+        "age": [
+          4
+        ],
+        "occupation": [
+          8
+        ],
+        "literacy": [
+          9
+        ],
+        "property_owner": [
+          11
+        ]
+      }
+    },
+    "Chandra 1 + LoRA / JSON": {
+      "model": "Saucystream/fine_tuned_chandra",
+      "revision": "d94b4ca422dd87e06b55abdd955bb199879a545a",
+      "input_sha256": "c3367bc80d1d15615ac9071e23060a869a4a76575c81df91935bb2879f266b3d",
+      "response_sha256": "d6c7f511513254d36ab1aae16011d53ef2bf50885253f7d6344535a7bcd21c30"
+    },
+    "Chandra OCR 2 / HTML": {
+      "model": "datalab-to/chandra-ocr-2",
+      "revision": "af93b47dba1b47b6640c86ccf487ed2260ab9a09",
+      "input_sha256": "c3367bc80d1d15615ac9071e23060a869a4a76575c81df91935bb2879f266b3d",
+      "response_sha256": "f65e6a98cd29d4315ecde1528b3a433336c282c0edeb4c9b7636998906a55b06",
+      "html_columns": {
+        "full_name": [
+          1,
+          2
+        ],
+        "sex": [
+          3
+        ],
+        "age": [
+          4
+        ],
+        "occupation": [
+          8
+        ],
+        "literacy": [
+          9
+        ],
+        "property_owner": [
+          11
+        ]
+      }
+    },
+    "Chandra 1 + blur LoRA / JSON": {
+      "model": "Saucystream/fine_tuned_chandra_blur",
+      "revision": "6a103e674149b2aed54e824fe41ab09838443e7e",
+      "input_sha256": "c3367bc80d1d15615ac9071e23060a869a4a76575c81df91935bb2879f266b3d",
+      "response_sha256": "9253c49695889fea25f2299b1875d52c78e343a23534c2b46287dc0edadeacce"
+    }
+  },
+  "layout_audit": "../../../layout_audit.json",
+  "automatic_only": false
+}

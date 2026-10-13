@@ -1,0 +1,5 @@
+page_id,expected_rows,predicted_rows,predicted_columns,tables,complete,row_count_matches,automatic_rows,available_rows,assisted_rows,available_cells,automatic_cells,alignment
+AD075DP_D2M8_245_0008_left_page,30,30,10,1,True,True,30,30,0,300,300,automatic
+AD075DP_D2M8_235_0105_left_page,30,30,10,1,True,True,30,30,0,300,300,automatic
+AD075DP_D2M8_266_0030_left_page,30,30,10,1,True,True,30,30,0,300,300,automatic
+AD075DP_D2M8_223_0430_left_page,30,29,10,1,True,False,0,29,29,290,0,source-audited

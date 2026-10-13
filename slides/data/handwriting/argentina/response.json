@@ -1,0 +1,60 @@
+{
+  "id": "chatcmpl-50bdabc8-bd51-4e26-8bcd-3f7bf05b5d9b",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"headers\":[\"marginalia\",\"Número de orden\",\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"H\",\"I\",\"J\",\"K\",\"L\",\"M\",\"N\",\"O\",\"P\"],\n\"data\": \n[{\n\t\"marginalia\": \"P1 -\",\n\t\"Número de orden\": 1,\n\t\"A\": [\"Zarazaga\",\"José\"],\n\t\"B\": \"V\",\n\t\"C\": 45,\n\t\"D\": \"C\",\n\t\"E\": \"Argentino\",\n\t\"F\": \"Córdoba\",\n\t\"H\": \"Comerciante\",\n\t\"I\": \"si\",\n\t\"J\": \"*\",\n\t\"K\": \"si\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 2,\n\t\"A\": [\"De la Torre\",\"Juana\"],\n\t\"B\": \"M\",\n\t\"C\": 38,\n\t\"D\": \"C\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"*\",\n\t\"I\": \"si\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"9\",\"12\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 3,\n\t\"A\": [\"Zarazaga\",\"José H.\"],\n\t\"B\": \"V\",\n\t\"C\": 10,\n\t\"D\": \"*\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"*\",\n\t\"I\": \"si\",\n\t\"J\": \"si\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 4,\n\t\"A\": [\"Zarazaga\",\"Tomas\"],\n\t\"B\": \"V\",\n\t\"C\": 8,\n\t\"D\": \"*\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"*\",\n\t\"I\": \"si\",\n\t\"J\": \"si\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 5,\n\t\"A\": [\"Zarazaga\",\"Francisco A.\"],\n\t\"B\": \"V\",\n\t\"C\": 5,\n\t\"D\": \"*\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"*\",\n\t\"I\": \"nó\",\n\t\"J\": \"nó\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 6,\n\t\"A\": [\"Zarazaga\",\"Carlos J.\"],\n\t\"B\": \"V\",\n\t\"C\": 4,\n\t\"D\": \"*\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"*\",\n\t\"I\": \"*\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 7,\n\t\"A\": [\"Zarazaga\",\"Dolores\"],\n\t\"B\": \"M\",\n\t\"C\": 2,\n\t\"D\": \"*\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"*\",\n\t\"I\": \"*\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 8,\n\t\"A\": [\"Zarazaga\",\"Primitivo\"],\n\t\"B\": \"V\",\n\t\"C\": 38,\n\t\"D\": \"S\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"Comerciante\",\n\t\"I\": \"si\",\n\t\"J\": \"*\",\n\t\"K\": \"si\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 9,\n\t\"A\": [\"Zarazaga\",\"Tomas\"],\n\t\"B\": \"V\",\n\t\"C\": 25,\n\t\"D\": \"S\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"''\",\n\t\"I\": \"si\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 10,\n\t\"A\": [\"Oros\",\"Ignacio\"],\n\t\"B\": \"V\",\n\t\"C\": 13,\n\t\"D\": \"*\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"''\",\n\t\"I\": \"si\",\n\t\"J\": \"si\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 11,\n\t\"A\": [\"Alvarez\",\"Teodoro\"],\n\t\"B\": \"V\",\n\t\"C\": 11,\n\t\"D\": \"*\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"*\",\n\t\"I\": \"nó\",\n\t\"J\": \"si\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 12,\n\t\"A\": [\"Palacios\",\"Ildefonso\"],\n\t\"B\": \"V\",\n\t\"C\": 35,\n\t\"D\": \"S\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"Cocinero\",\n\t\"I\": \"nó\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 13,\n\t\"A\": [\"Palacios\",\"Carmen\"],\n\t\"B\": \"M\",\n\t\"C\": 10,\n\t\"D\": \"*\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"*\",\n\t\"I\": \"nó\",\n\t\"J\": \"si\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 14,\n\t\"A\": [\"Ordóñez\",\"Pedro\"],\n\t\"B\": \"V\",\n\t\"C\": 34,\n\t\"D\": \"S\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"Jornalero\",\n\t\"I\": \"nó\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n},\n{\n\t\"marginalia\": \"*\",\n\t\"Número de orden\": 15,\n\t\"A\": [\"Ordóñez\",\"Florentino\"],\n\t\"B\": \"V\",\n\t\"C\": 27,\n\t\"D\": \"S\",\n\t\"E\": \"''\",\n\t\"F\": \"''\",\n\t\"H\": \"''\",\n\t\"I\": \"nó\",\n\t\"J\": \"*\",\n\t\"K\": \"*\",\n\t\"L\": [\"*\",\"*\"],\n\t\"M\": \"*\",\n\t\"N\": \"*\",\n\t\"O\": [\"*\",\"*\"],\n\t\"P\": \"*\"\n}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": null,
+        "reasoning": null,
+        "tool_call_id": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1791843083,
+  "model": "build/handwriting/argentina-model",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1857,
+    "prompt_tokens": 2420,
+    "total_tokens": 4277,
+    "completion_tokens_details": null,
+    "compute_units": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "timings": {
+    "prompt_n": 2420,
+    "cache_n": 0,
+    "predicted_n": 1857,
+    "prompt_ms": 2654.228667030111,
+    "prompt_per_token_ms": 1.0967887053843435,
+    "prompt_per_second": 911.7526421368225,
+    "predicted_ms": 62916.48142056994,
+    "predicted_per_token_ms": 33.88071158889065,
+    "predicted_per_second": 29.51531869029268,
+    "peak_memory": 18.672574846,
+    "draft_kind": null,
+    "draft_rounds": null,
+    "draft_n": null,
+    "draft_n_accepted": null
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "chatcmpl-eb05be1a-25dc-4a57-9f50-acbed3c32762",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\n  \"headers\": [\"Número de orden\", \"A\", \"B\", \"C\", \"D\", \"E\", \"F\", \"H\", \"I\", \"J\", \"K\", \"L\", \"M\", \"N\", \"O\", \"P\"],\n  \"data\": [\n    {\n      \"Número de orden\": 1,\n      \"A\": \"Garagaga José\",\n      \"B\": \"V\",\n      \"C\": 45,\n      \"D\": \"H\",\n      \"E\": \"Argentina\",\n      \"F\": \"Soltero\",\n      \"H\": \"Comerciante\",\n      \"I\": \"si\",\n      \"J\": \"si\",\n      \"K\": \"si\",\n      \"L\": \"Si ES MUJER CASADA Ó VIUDA\",\n      \"M\": \"Es enfermo, sordo-mudo, idiota, loco ó ciego\",\n      \"N\": \"Tiene boclo ó ceto\",\n      \"O\": \"INVALIDO\",\n      \"P\": \"Huérfano de padre y madre\"\n    },\n    {\n      \"Número de orden\": 2,\n      \"A\": \"De la Fuente Juana\",\n      \"B\": \"Ma\",\n      \"C\": 38,\n      \"D\": \"C\",\n      \"E\": \"Argentina\",\n      \"F\": \"Soltero\",\n      \"H\": \"Comerciante\",\n      \"I\": \"si\",\n      \"J\": \"si\",\n      \"K\": \"si\",\n      \"L\": \"Cuántos años ha tenido\",\n      \"M\": \"Cuántos años de matrimonio tiene\",\n      \"N\": \"9\",\n      \"O\": \"12\",\n      \"P\": \"\"\n    },\n    {\n      \"Número de orden\": 3,\n      \"A\": \"Garagaga José H.\",\n      \"B\": \"V\",\n      \"C\": 10,\n      \"D\": \"H\",\n      \"E\": \"Argentina\",\n      \"F\": \"Soltero\",\n      \"H\": \"Comerciante\",\n      \"I\": \"si\",\n      \"J\": \"si\",\n      \"K\": \"si\",\n      \"L\": \"\",\n      \"M\": \"\",\n      \"N\": \"\",\n      \"O\": \"\",\n      \"P\": \"\"\n    },\n    {\n      \"Número de orden\": 4,\n      \"A\": \"Garagaga Tomás\",\n      \"B\": \"V\",\n      \"C\": 8,\n      \"D\": \"H\",\n      \"E\": \"Argentina\",\n      \"F\": \"Soltero\",\n      \"H\": \"Comerciante\",\n      \"I\": \"si\",\n      \"J\": \"si\",\n      \"K\": \"si\",\n      \"L\": \"\",\n      \"M\": \"\",\n      \"N\": \"\",\n      \"O\": \"\",\n      \"P\": \"\"\n    },\n    {\n      \"Número de orden\": 5,\n      \"A\": \"Garagaga Francisco A.\",\n      \"B\": \"V\",\n      \"C\": 5,\n      \"D\": \"H\",\n      \"E\": \"Argentina\",\n      \"F\": \"Soltero\",\n      \"H\": \"Comerciante\",\n      \"I\": \"no\",\n      \"J\": \"no\",\n      \"K\": \"si\",\n      \"L\": \"\",\n      \"M\": \"\",\n      \"N\": \"\",\n      \"O\": \"\",\n      \"P\": \"\"\n    },\n    {\n      \"Número de orden\": 6,\n      \"A\": \"Garagaga Carlos J.\",\n      \"B\": \"V\",\n      \"C\": 4,\n      \"D\": \"H\",\n      \"E\": \"Argentina\",\n      \"F\": \"Soltero\",\n      \"H\": \"Comerciante\",\n      \"I\": \"si\",\n      \"J\": \"si\",\n      \"K\": \"si\",\n      \"L\": \"\",\n      \"M\": \"\",\n      \"N\": \"\",\n      \"O\": \"\",\n      \"P\": \"\"\n    },\n    {\n      \"Número de orden\": 7,\n      \"A\": \"Garagaga Dolores\",\n      \"B\": \"Ma\",\n      \"C\": 2,\n      \"D\": \"H\",\n      \"E\": \"Argentina\",\n      \"F\": \"Soltero\",\n      \"H\": \"Comerciante\",\n      \"I\": \"si\",\n      \"J\": \"si\",\n      \"K\": \"si\",\n      \"L\": \"\",\n      \"M\": \"\",\n      \"N\": \"\",\n      \"O\": \"\",\n      \"P\": \"\"\n    },\n    {\n      \"Número de orden\": 8,\n      \"A\": \"Chamique Pascual\",\n      \"B\": \"V\",\n      \"C\": 38,\n      \"D\": \"L\",\n      \"E\": \"Argentina\",\n      \"F\": \"Soltero\",\n      \"H\": \"Comerciante\",\n      \"I\": \"si\",\n      \"J\": \"si\",\n      \"K\": \"si\",\n      \"L\": \"\",\n      \"M\": \"\",\n      \"N\": \"\",\n      \"O\": \"\",\n      \"P\": \"\"\n    },\n    {\n      \"Número de orden\": 9,\n      \"A\": \"Garagaga Tomás\",\n      \"B\": \"V\",\n      \"C\": 25,\n      \"D\": \"L\",\n      \"E\": \"Argentina\",\n      \"F\": \"Soltero\",\n      \"H\": \"Comerciante\",\n      \"I\": \"si\",\n      \"J\": \"si\",\n      \"K\": \"si\",\n      \"L\": \"\",\n      \"M\": \"\",\n      \"N\": \"\",\n      \"O\": \"\",\n      \"P\": \"\"\n    },\n    {\n      \"Número de orden\": 10,\n      \"A\": \"Ors Ignacio\",\n      \"B\": \"V\",\n      \"C\": 13,\n      \"D\": \"H\",\n      \"E\": \"Argentina\",\n      \"F\": \"Soltero\",\n      \"H\": \"Comerciante\",\n      \"I\": \"si\",\n      \"J\": \"si\",\n      \"K\": \"si\",\n      \"L\": \"\",\n      \"M\": \"\",\n      \"N\": \"\",\n      \"O\": \"\",\n      \"P\": \"\"\n    },\n    {\n      \"Número de orden\": 11,\n      \"A\": \"Munoz Teodoro\",\n      \"B\": \"V\",\n      \"C\": 11,\n      \"D\": \"H\",\n      \"E\": \"Argentina\",\n      \"F\": \"Soltero\",\n      \"H\": \"Comerciante\",\n      \"I\": \"no\",\n      \"J\": \"si\",\n      \"K\": \"si\",\n      \"L\": \"\",\n      \"M\": \"\",\n      \"N\": \"\",\n      \"O\": \"\",\n      \"P\": \"\"\n    },\n    {\n      \"Número de orden\": 12,\n      \"A\": \"Palacio Elviro\",\n      \"B\": \"V\",\n      \"C\": 35,\n      \"D\": \"L\",\n      \"E\": \"Argentina\",\n      \"F\": \"Soltero\",\n      \"H\": \"Comerciante\",\n      \"I\": \"no\",\n      \"J\": \"si\",\n      \"K\": \"si\",\n      \"L\": \"\",\n      \"M\": \"\",\n      \"N\": \"\",\n      \"O\": \"\",\n      \"P\": \"\"\n    },\n    {\n      \"Número de orden\": 13,\n      \"A\": \"Palacio Carmen\",\n      \"B\": \"Ma\",\n      \"C\": 10,\n      \"D\": \"H\",\n      \"E\": \"Argentina\",\n      \"F\": \"Soltero\",\n      \"H\": \"Comerciante\",\n      \"I\": \"no\",\n      \"J\": \"si\",\n      \"K\": \"si\",\n      \"L\": \"\",\n      \"M\": \"\",\n      \"N\": \"\",\n      \"O\": \"\",\n      \"P\": \"\"\n    },\n    {\n      \"Número de orden\": 14,\n      \"A\": \"Pedro Pedro\",\n      \"B\": \"V\",\n      \"C\": 34,\n      \"D\": \"L\",\n      \"E\": \"Argentina\",\n      \"F\": \"Soltero\",\n      \"H\": \"Comerciante\",\n      \"I\": \"no\",\n      \"J\": \"si\",\n      \"K\": \"si\",\n      \"L\": \"\",\n      \"M\": \"\",\n      \"N\": \"\",\n      \"O\": \"\",\n      \"P\": \"\"\n    },\n    {\n      \"Número de orden\": 15,\n      \"A\": \"Ordóñez Florentino\",\n      \"B\": \"V\",\n      \"C\": 27,\n      \"D\": \"L\",\n      \"E\": \"Argentina\",\n      \"F\": \"Soltero\",\n      \"H\": \"Comerciante\",\n      \"I\": \"no\",\n      \"J\": \"si\",\n      \"K\": \"si\",\n      \"L\": \"\",\n      \"M\": \"\",\n      \"N\": \"\",\n      \"O\": \"\",\n      \"P\": \"\"\n    }\n  ]\n}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null,
+        "reasoning_content": null,
+        "reasoning": null,
+        "tool_call_id": null,
+        "name": null
+      }
+    }
+  ],
+  "created": 1791844539,
+  "model": "/Users/jlperla/.cache/huggingface/hub/models--datalab-to--chandra/snapshots/bd40c21576564d31ba99f204e28ccd5c4c1751fa",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1893,
+    "prompt_tokens": 2420,
+    "total_tokens": 4313,
+    "completion_tokens_details": null,
+    "compute_units": null,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "timings": {
+    "prompt_n": 2420,
+    "cache_n": 0,
+    "predicted_n": 1893,
+    "prompt_ms": 2651.3655411545187,
+    "prompt_per_token_ms": 1.095605595518396,
+    "prompt_per_second": 912.7372150074139,
+    "predicted_ms": 64157.60944524227,
+    "predicted_per_token_ms": 33.89202823309153,
+    "predicted_per_second": 29.5054634418019,
+    "peak_memory": 18.67305004,
+    "draft_kind": null,
+    "draft_rounds": null,
+    "draft_n": null,
+    "draft_n_accepted": null
+  }
+}

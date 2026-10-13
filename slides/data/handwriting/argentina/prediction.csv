@@ -1,0 +1,16 @@
+surname,given_names,sex,age,occupation,literacy,property_owner
+Zarazaga,José,V,45,Comerciante,si,si
+De la Torre,Juana,M,38,*,si,*
+Zarazaga,José H.,V,10,*,si,*
+Zarazaga,Tomas,V,8,*,si,*
+Zarazaga,Francisco A.,V,5,*,nó,*
+Zarazaga,Carlos J.,V,4,*,*,*
+Zarazaga,Dolores,M,2,*,*,*
+Zarazaga,Primitivo,V,38,Comerciante,si,si
+Zarazaga,Tomas,V,25,'',si,*
+Oros,Ignacio,V,13,'',si,*
+Alvarez,Teodoro,V,11,*,nó,*
+Palacios,Ildefonso,V,35,Cocinero,nó,*
+Palacios,Carmen,M,10,*,nó,*
+Ordóñez,Pedro,V,34,Jornalero,nó,*
+Ordóñez,Florentino,V,27,'',nó,*
